@@ -1,0 +1,212 @@
+itemName	slot	tier	cost	activation	label	target	mode	value	application	includeInBuild
+Extra Spirit	spirit	1	800	passive	Spirit Power	spirit_power_add	flat	10.0	passive_unconditional	True
+Golden Goose Egg	spirit	1	800	instant_cast	Sprint Speed	sprint_speed_add	flat	1.0	passive_unconditional	True
+Mystic Regeneration	spirit	1	800	passive	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Rusted Barrel	spirit	1	800	press	Bonus Health	max_health_add	flat	60.0	passive_unconditional	True
+Rusted Barrel	spirit	1	800	press	Sprint Speed	sprint_speed_add	flat	0.5	passive_unconditional	True
+Arcane Surge	spirit	2	1600	passive	Stamina	stamina_add	flat	1.0	passive_unconditional	True
+Bullet Resist Shredder	spirit	2	1600	passive	Weapon Damage	weapon_damage_pct	percent	9.0	passive_unconditional	True
+Bullet Resist Shredder	spirit	2	1600	passive	Bullet Resist	bullet_armor_add	flat	9.0	passive_unconditional	True
+Cold Front	spirit	2	1600	instant_cast	Spirit Resist	spirit_armor_add	flat	6.0	passive_unconditional	True
+Improved Spirit	spirit	2	1600	passive	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Improved Spirit	spirit	2	1600	passive	Sprint Speed	sprint_speed_add	flat	1.0	passive_unconditional	True
+Improved Spirit	spirit	2	1600	passive	Spirit Power	spirit_power_add	flat	18.0	passive_unconditional	True
+Mystic Slow	spirit	2	1600	passive	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Mystic Slow	spirit	2	1600	passive	Sprint Speed	sprint_speed_add	flat	0.75	passive_unconditional	True
+Mystic Vulnerability	spirit	2	1600	passive	Spirit Resist	spirit_armor_add	flat	8.0	passive_unconditional	True
+Slowing Hex	spirit	2	1600	press	Sprint Speed	sprint_speed_add	flat	0.5	passive_unconditional	True
+Spirit Sap	spirit	2	1600	press	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Suppressor	spirit	2	1600	passive	Bullet Resist	bullet_armor_add	flat	8.0	passive_unconditional	True
+Suppressor	spirit	2	1600	passive	Spirit Power	spirit_power_add	flat	6.0	passive_unconditional	True
+Decay	spirit	3	3200	press	Bonus Health	max_health_add	flat	65.0	passive_unconditional	True
+Decay	spirit	3	3200	press	Spirit Power	spirit_power_add	flat	8.0	passive_unconditional	True
+Disarming Hex	spirit	3	3200	press	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Disarming Hex	spirit	3	3200	press	Sprint Speed	sprint_speed_add	flat	0.75	passive_unconditional	True
+Greater Expansion	spirit	3	3200	passive	Spirit Resist	spirit_armor_add	flat	10.0	passive_unconditional	True
+Knockdown	spirit	3	3200	press	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Knockdown	spirit	3	3200	press	Ability Range	tech_range_pct	percent	5.0	passive_unconditional	True
+Radiant Regeneration	spirit	3	3200	passive	Bonus Health	max_health_add	flat	90.0	passive_unconditional	True
+Radiant Regeneration	spirit	3	3200	passive	Move Speed	move_speed_add	flat	1.75	passive_unconditional	True
+Silence Wave	spirit	3	3200	instant_cast	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Spirit Snatch	spirit	3	3200	passive	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Spirit Snatch	spirit	3	3200	passive	Melee Damage	melee_damage_pct	percent	7.0	passive_unconditional	True
+Superior Duration	spirit	3	3200	passive	Bullet Resist	bullet_armor_add	flat	8.0	passive_unconditional	True
+Tankbuster	spirit	3	3200	passive	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Torment Pulse	spirit	3	3200	passive	Bonus Health	max_health_add	flat	100.0	passive_unconditional	True
+Arctic Blast	spirit	4	6400	instant_cast	Spirit Resist	spirit_armor_add	flat	10.0	passive_unconditional	True
+Boundless Spirit	spirit	4	6400	passive	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Boundless Spirit	spirit	4	6400	passive	Spirit Power	spirit_power_add	flat	30.0	passive_unconditional	True
+Boundless Spirit	spirit	4	6400	passive	Spirit Power	spirit_power_pct	percent	15.0	passive_unconditional	True
+Echo Shard	spirit	4	6400	instant_cast	Bullet Resist	bullet_armor_add	flat	5.0	passive_unconditional	True
+Echo Shard	spirit	4	6400	instant_cast	Spirit Resist	spirit_armor_add	flat	5.0	passive_unconditional	True
+Escalating Exposure	spirit	4	6400	passive	Spirit Resist	spirit_armor_add	flat	17.0	passive_unconditional	True
+Focus Lens	spirit	4	6400	press	Fire Rate	fire_rate_pct	percent	10.0	passive_unconditional	True
+Lightning Scroll	spirit	4	6400	passive	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Lightning Scroll	spirit	4	6400	passive	Sprint Speed	sprint_speed_add	flat	0.75	passive_unconditional	True
+Magic Carpet	spirit	4	6400	instant_cast	Ability Duration	tech_duration_pct	percent	15.0	passive_unconditional	True
+Magic Carpet	spirit	4	6400	instant_cast	Bonus Health	max_health_add	flat	125.0	passive_unconditional	True
+Magic Carpet	spirit	4	6400	instant_cast	Spirit Power	spirit_power_add	flat	14.0	passive_unconditional	True
+Mercurial Magnum	spirit	4	6400	passive	Max Ammo	clip_size_pct	percent	20.0	passive_unconditional	True
+Mercurial Magnum	spirit	4	6400	passive	Spirit Power	spirit_power_add	flat	7.0	passive_unconditional	True
+Refresher	spirit	4	6400	instant_cast	Bullet Resist	bullet_armor_add	flat	15.0	passive_unconditional	True
+Refresher	spirit	4	6400	instant_cast	Spirit Resist	spirit_armor_add	flat	14.0	passive_unconditional	True
+Scourge	spirit	4	6400	press	Bonus Health	max_health_add	flat	100.0	passive_unconditional	True
+Spirit Burn	spirit	4	6400	passive	Ability Range	tech_range_pct	percent	6.0	passive_unconditional	True
+Vortex Web	spirit	4	6400	press	Sprint Speed	sprint_speed_add	flat	0.75	passive_unconditional	True
+Vortex Web	spirit	4	6400	press	Ability Range	tech_range_pct	percent	8.0	passive_unconditional	True
+Mystic Conduit	spirit	5	9999	passive	Spirit Power	spirit_power_add	flat	40.0	passive_unconditional	True
+Extra Health	vitality	1	800	passive	Bonus Health	max_health_add	flat	210.0	passive_unconditional	True
+Extra Regen	vitality	1	800	passive	Health Regen	health_regen_add	flat	2.5	passive_unconditional	True
+Extra Stamina	vitality	1	800	passive	Stamina	stamina_add	flat	1.0	passive_unconditional	True
+Melee Lifesteal	vitality	1	800	passive	Melee Damage	melee_damage_pct	percent	12.0	passive_unconditional	True
+Rebuttal	vitality	1	800	passive	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Sprint Boots	vitality	1	800	passive	Sprint Speed	sprint_speed_add	flat	2.0	passive_unconditional	True
+Battle Vest	vitality	2	1600	passive	Bullet Resist	bullet_armor_add	flat	18.0	passive_unconditional	True
+Bullet Lifesteal	vitality	2	1600	passive	Weapon Damage	weapon_damage_pct	percent	6.0	passive_unconditional	True
+Bullet Lifesteal	vitality	2	1600	passive	Bonus Health	max_health_add	flat	90.0	passive_unconditional	True
+Debuff Reducer	vitality	2	1600	passive	Bonus Health	max_health_add	flat	90.0	passive_unconditional	True
+Enchanter's Emblem	vitality	2	1600	passive	Spirit Power	spirit_power_add	flat	15.0	passive_unconditional	True
+Enchanter's Emblem	vitality	2	1600	passive	Spirit Resist	spirit_armor_add	flat	18.0	passive_unconditional	True
+Enduring Speed	vitality	2	1600	passive	Move Speed	move_speed_add	flat	2.0	passive_unconditional	True
+Guardian Ward	vitality	2	1600	press	Ability Range	tech_range_pct	percent	8.0	passive_unconditional	True
+Healbane	vitality	2	1600	passive	Spirit Power	spirit_power_add	flat	7.0	passive_unconditional	True
+Healing Booster	vitality	2	1600	passive	Health Regen	health_regen_add	flat	3.0	passive_unconditional	True
+Restorative Locket	vitality	2	1600	instant_cast	Spirit Resist	spirit_armor_add	flat	10.0	passive_unconditional	True
+Return Fire	vitality	2	1600	instant_cast	Bullet Resist	bullet_armor_add	flat	10.0	passive_unconditional	True
+Spirit Lifesteal	vitality	2	1600	passive	Bonus Health	max_health_add	flat	90.0	passive_unconditional	True
+Spirit Lifesteal	vitality	2	1600	passive	Spirit Power	spirit_power_add	flat	6.0	passive_unconditional	True
+Trophy Collector	vitality	2	1600	passive	Sprint Speed	sprint_speed_add	flat	2.0	passive_unconditional	True
+Bullet Resilience	vitality	3	3200	passive	Bullet Resist	bullet_armor_add	flat	30.0	passive_unconditional	True
+Counterspell	vitality	3	3200	passive	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Counterspell	vitality	3	3200	passive	Spirit Power	spirit_power_add	flat	5.0	passive_unconditional	True
+Dispel Magic	vitality	3	3200	instant_cast	Spirit Resist	spirit_armor_add	flat	10.0	passive_unconditional	True
+Fortitude	vitality	3	3200	passive	Bonus Health	max_health_add	flat	375.0	passive_unconditional	True
+Fury Trance	vitality	3	3200	instant_cast	Weapon Damage	weapon_damage_pct	percent	6.0	passive_unconditional	True
+Fury Trance	vitality	3	3200	instant_cast	Bonus Health	max_health_add	flat	100.0	passive_unconditional	True
+Healing Nova	vitality	3	3200	instant_cast	Spirit Power	spirit_power_add	flat	8.0	passive_unconditional	True
+Healing Nova	vitality	3	3200	instant_cast	Ability Range	tech_range_pct	percent	5.0	passive_unconditional	True
+Lifestrike	vitality	3	3200	passive	Bonus Health	max_health_add	flat	125.0	passive_unconditional	True
+Lifestrike	vitality	3	3200	passive	Melee Damage	melee_damage_pct	percent	16.0	passive_unconditional	True
+Metal Skin	vitality	3	3200	instant_cast	Bullet Resist	bullet_armor_add	flat	12.0	passive_unconditional	True
+Rescue Beam	vitality	3	3200	press	Sprint Speed	sprint_speed_add	flat	0.75	passive_unconditional	True
+Rescue Beam	vitality	3	3200	press	Ability Range	tech_range_pct	percent	6.0	passive_unconditional	True
+Spirit Resilience	vitality	3	3200	passive	Spirit Resist	spirit_armor_add	flat	30.0	passive_unconditional	True
+Stamina Mastery	vitality	3	3200	passive	Stamina	stamina_add	flat	2.0	passive_unconditional	True
+Veil Walker	vitality	3	3200	passive	Bonus Health	max_health_add	flat	125.0	passive_unconditional	True
+Veil Walker	vitality	3	3200	passive	Sprint Speed	sprint_speed_add	flat	2.0	passive_unconditional	True
+Veil Walker	vitality	3	3200	passive	Spirit Power	spirit_power_add	flat	10.0	passive_unconditional	True
+Cheat Death	vitality	4	6400	passive	Bonus Health	max_health_add	flat	200.0	passive_unconditional	True
+Cheat Death	vitality	4	6400	passive	Bullet Resist	bullet_armor_add	flat	15.0	passive_unconditional	True
+Colossus	vitality	4	6400	instant_cast	Weapon Damage	weapon_damage_pct	percent	15.0	passive_unconditional	True
+Colossus	vitality	4	6400	instant_cast	Base Health	max_health_pct	percent	25.0	passive_unconditional	True
+Divine Barrier	vitality	4	6400	press	Ability Range	tech_range_pct	percent	10.0	passive_unconditional	True
+Diviner's Kevlar	vitality	4	6400	passive	Ability Duration	tech_duration_pct	percent	15.0	passive_unconditional	True
+Healing Tempo	vitality	4	6400	passive	Fire Rate	fire_rate_pct	percent	35.0	passive_unconditional	True
+Healing Tempo	vitality	4	6400	passive	Health Regen	health_regen_add	flat	6.0	passive_unconditional	True
+Healing Tempo	vitality	4	6400	passive	Move Speed	move_speed_add	flat	1.25	passive_unconditional	True
+Healing Tempo	vitality	4	6400	passive	Spirit Resist	spirit_armor_add	flat	10.0	passive_unconditional	True
+Indomitable	vitality	4	6400	passive	Bullet Resist	bullet_armor_add	flat	10.0	passive_unconditional	True
+Indomitable	vitality	4	6400	passive	Spirit Resist	spirit_armor_add	flat	10.0	passive_unconditional	True
+Infuser	vitality	4	6400	instant_cast	Bonus Health	max_health_add	flat	100.0	passive_unconditional	True
+Infuser	vitality	4	6400	instant_cast	Spirit Power	spirit_power_add	flat	6.0	passive_unconditional	True
+Infuser	vitality	4	6400	instant_cast	Spirit Resist	spirit_armor_add	flat	10.0	passive_unconditional	True
+Inhibitor	vitality	4	6400	passive	Weapon Damage	weapon_damage_pct	percent	10.0	passive_unconditional	True
+Inhibitor	vitality	4	6400	passive	Bonus Health	max_health_add	flat	150.0	passive_unconditional	True
+Juggernaut	vitality	4	6400	passive	Health Regen	health_regen_add	flat	8.0	passive_unconditional	True
+Juggernaut	vitality	4	6400	passive	Move Speed	move_speed_add	flat	2.5	passive_unconditional	True
+Leech	vitality	4	6400	passive	Weapon Damage	weapon_damage_pct	percent	12.0	passive_unconditional	True
+Leech	vitality	4	6400	passive	Bonus Health	max_health_add	flat	180.0	passive_unconditional	True
+Leech	vitality	4	6400	passive	Spirit Power	spirit_power_add	flat	12.0	passive_unconditional	True
+Phantom Strike	vitality	4	6400	press	Weapon Damage	weapon_damage_pct	percent	15.0	passive_unconditional	True
+Phantom Strike	vitality	4	6400	press	Spirit Power	spirit_power_add	flat	8.0	passive_unconditional	True
+Plated Armor	vitality	4	6400	passive	Bonus Health	max_health_add	flat	130.0	passive_unconditional	True
+Siphon Bullets	vitality	4	6400	passive	Weapon Damage	weapon_damage_pct	percent	15.0	passive_unconditional	True
+Siphon Bullets	vitality	4	6400	passive	Bullet Resist	bullet_armor_add	flat	10.0	passive_unconditional	True
+Spellbreaker	vitality	4	6400	passive	Bonus Health	max_health_add	flat	90.0	passive_unconditional	True
+Spellbreaker	vitality	4	6400	passive	Spirit Resist	spirit_armor_add	flat	18.0	passive_unconditional	True
+Unstoppable	vitality	4	6400	instant_cast	Bonus Health	max_health_add	flat	125.0	passive_unconditional	True
+Vampiric Burst	vitality	4	6400	instant_cast	Weapon Damage	weapon_damage_pct	percent	6.0	passive_unconditional	True
+Vampiric Burst	vitality	4	6400	instant_cast	Bonus Health	max_health_add	flat	100.0	passive_unconditional	True
+Vampiric Burst	vitality	4	6400	instant_cast	Bullet Resist	bullet_armor_add	flat	10.0	passive_unconditional	True
+Witchmail	vitality	4	6400	passive	Spirit Power	spirit_power_add	flat	14.0	passive_unconditional	True
+Witchmail	vitality	4	6400	passive	Spirit Resist	spirit_armor_add	flat	22.0	passive_unconditional	True
+Electric Slippers	vitality	5	9999	passive	Stamina	stamina_add	flat	2.0	passive_unconditional	True
+Nullification Burst	vitality	5	9999	instant_cast	Bonus Health	max_health_add	flat	300.0	passive_unconditional	True
+Shadow Strike	vitality	5	9999	passive	Bonus Health	max_health_add	flat	350.0	passive_unconditional	True
+Shadow Strike	vitality	5	9999	passive	Stamina	stamina_add	flat	3.0	passive_unconditional	True
+Extended Magazine	weapon	1	800	passive	Weapon Damage	weapon_damage_pct	percent	8.0	passive_unconditional	True
+Extended Magazine	weapon	1	800	passive	Max Ammo	clip_size_pct	percent	30.0	passive_unconditional	True
+Headshot Booster	weapon	1	800	passive	Bonus Health	max_health_add	flat	30.0	passive_unconditional	True
+High-Velocity Rounds	weapon	1	800	passive	Weapon Damage	weapon_damage_pct	percent	8.0	passive_unconditional	True
+High-Velocity Rounds	weapon	1	800	passive	Bullet Velocity	bullet_speed_pct	percent	60.0	passive_unconditional	True
+Rapid Rounds	weapon	1	800	passive	Fire Rate	fire_rate_pct	percent	9.0	passive_unconditional	True
+Restorative Shot	weapon	1	800	passive	Weapon Damage	weapon_damage_pct	percent	6.0	passive_unconditional	True
+Active Reload	weapon	2	1600	passive	Max Ammo	clip_size_pct	percent	20.0	passive_unconditional	True
+Fleetfoot	weapon	2	1600	instant_cast	Weapon Damage	weapon_damage_pct	percent	6.0	passive_unconditional	True
+Fleetfoot	weapon	2	1600	instant_cast	Bullet Resist	bullet_armor_add	flat	6.0	passive_unconditional	True
+Intensifying Magazine	weapon	2	1600	passive	Max Ammo	clip_size_pct	percent	20.0	passive_unconditional	True
+Kinetic Dash	weapon	2	1600	passive	Stamina	stamina_add	flat	1.0	passive_unconditional	True
+Long Range	weapon	2	1600	passive	Weapon Fall-off Range	weapon_range_pct	percent	8.0	passive_unconditional	True
+Long Range	weapon	2	1600	passive	Sprint Speed	sprint_speed_add	flat	0.75	passive_unconditional	True
+Melee Charge	weapon	2	1600	passive	Melee Damage	melee_damage_pct	percent	10.0	passive_unconditional	True
+Melee Charge	weapon	2	1600	passive	Bullet Resist	bullet_armor_add	flat	6.0	passive_unconditional	True
+Mystic Shot	weapon	2	1600	passive	Spirit Power	spirit_power_add	flat	7.0	passive_unconditional	True
+Opening Rounds	weapon	2	1600	passive	Weapon Damage	weapon_damage_pct	percent	8.0	passive_unconditional	True
+Opening Rounds	weapon	2	1600	passive	Bullet Velocity	bullet_speed_pct	percent	60.0	passive_unconditional	True
+Opening Rounds	weapon	2	1600	passive	Spirit Power	spirit_power_add	flat	7.0	passive_unconditional	True
+Recharging Rush	weapon	2	1600	passive	Weapon Damage	weapon_damage_pct	percent	10.0	passive_unconditional	True
+Recharging Rush	weapon	2	1600	passive	Max Ammo	clip_size_pct	percent	20.0	passive_unconditional	True
+Slowing Bullets	weapon	2	1600	passive	Weapon Damage	weapon_damage_pct	percent	15.0	passive_unconditional	True
+Stalker	weapon	2	1600	passive	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Swift Striker	weapon	2	1600	passive	Fire Rate	fire_rate_pct	percent	20.0	passive_unconditional	True
+Swift Striker	weapon	2	1600	passive	Sprint Speed	sprint_speed_add	flat	0.75	passive_unconditional	True
+Titanic Magazine	weapon	2	1600	passive	Weapon Damage	weapon_damage_pct	percent	14.0	passive_unconditional	True
+Titanic Magazine	weapon	2	1600	passive	Max Ammo	clip_size_pct	percent	100.0	passive_unconditional	True
+Weakening Headshot	weapon	2	1600	passive	Bonus Health	max_health_add	flat	60.0	passive_unconditional	True
+Alchemical Fire	weapon	3	3200	press	Spirit Power	spirit_power_add	flat	10.0	passive_unconditional	True
+Berserker	weapon	3	3200	passive	Bullet Resist	bullet_armor_add	flat	8.0	passive_unconditional	True
+Blood Tribute	weapon	3	3200	instant_cast_toggle	Spirit Resist	spirit_armor_add	flat	8.0	passive_unconditional	True
+Burst Fire	weapon	3	3200	passive	Fire Rate	fire_rate_pct	percent	10.0	passive_unconditional	True
+Escalating Resilience	weapon	3	3200	passive	Weapon Damage	weapon_damage_pct	percent	18.0	passive_unconditional	True
+Escalating Resilience	weapon	3	3200	passive	Max Ammo	clip_size_pct	percent	35.0	passive_unconditional	True
+Escalating Resilience	weapon	3	3200	passive	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Express Shot	weapon	3	3200	passive	Weapon Damage	weapon_damage_pct	percent	8.0	passive_unconditional	True
+Express Shot	weapon	3	3200	passive	Bullet Velocity	bullet_speed_pct	percent	60.0	passive_unconditional	True
+Headhunter	weapon	3	3200	passive	Weapon Damage	weapon_damage_pct	percent	5.0	passive_unconditional	True
+Headhunter	weapon	3	3200	passive	Bonus Health	max_health_add	flat	50.0	passive_unconditional	True
+Heroic Aura	weapon	3	3200	instant_cast	Sprint Speed	sprint_speed_add	flat	1.5	passive_unconditional	True
+Hollow Point	weapon	3	3200	passive	Bonus Health	max_health_add	flat	125.0	passive_unconditional	True
+Hunter's Aura	weapon	3	3200	passive	Bonus Health	max_health_add	flat	100.0	passive_unconditional	True
+Hunter's Aura	weapon	3	3200	passive	Sprint Speed	sprint_speed_add	flat	0.75	passive_unconditional	True
+Point Blank	weapon	3	3200	passive	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Shadow Weave	weapon	3	3200	instant_cast	Sprint Speed	sprint_speed_add	flat	1.5	passive_unconditional	True
+Sharpshooter	weapon	3	3200	passive	Weapon Damage	weapon_damage_pct	percent	10.0	passive_unconditional	True
+Sharpshooter	weapon	3	3200	passive	Weapon Fall-off Range	weapon_range_pct	percent	20.0	passive_unconditional	True
+Sharpshooter	weapon	3	3200	passive	Bullet Velocity	bullet_speed_pct	percent	60.0	passive_unconditional	True
+Sharpshooter	weapon	3	3200	passive	Move Speed	move_speed_add	flat	-0.7	passive_unconditional	True
+Sharpshooter	weapon	3	3200	passive	Sprint Speed	sprint_speed_add	flat	1.0	passive_unconditional	True
+Spirit Rend	weapon	3	3200	passive	Bonus Health	max_health_add	flat	75.0	passive_unconditional	True
+Weighted Shots	weapon	3	3200	passive	Weapon Damage	weapon_damage_pct	percent	40.0	passive_unconditional	True
+Weighted Shots	weapon	3	3200	passive	Move Speed	move_speed_add	flat	-0.5	passive_unconditional	True
+Armor Piercing Rounds	weapon	4	6400	passive	Weapon Damage	weapon_damage_pct	percent	8.0	passive_unconditional	True
+Armor Piercing Rounds	weapon	4	6400	passive	Bullet Velocity	bullet_speed_pct	percent	60.0	passive_unconditional	True
+Capacitor	weapon	4	6400	instant_cast	Fire Rate	fire_rate_pct	percent	5.0	passive_unconditional	True
+Crippling Headshot	weapon	4	6400	passive	Bonus Health	max_health_add	flat	125.0	passive_unconditional	True
+Crushing Fists	weapon	4	6400	passive	Melee Damage	melee_damage_pct	percent	22.0	passive_unconditional	True
+Crushing Fists	weapon	4	6400	passive	Bullet Resist	bullet_armor_add	flat	12.0	passive_unconditional	True
+Frenzy	weapon	4	6400	passive	Fire Rate	fire_rate_pct	percent	15.0	passive_unconditional	True
+Frenzy	weapon	4	6400	passive	Bonus Health	max_health_add	flat	160.0	passive_unconditional	True
+Glass Cannon	weapon	4	6400	passive	Weapon Damage	weapon_damage_pct	percent	80.0	passive_unconditional	True
+Glass Cannon	weapon	4	6400	passive	Max Health	max_health_pct	percent	-13.0	passive_unconditional	True
+Lucky Shot	weapon	4	6400	passive	Max Ammo	clip_size_pct	percent	30.0	passive_unconditional	True
+Ricochet	weapon	4	6400	passive	Fire Rate	fire_rate_pct	percent	18.0	passive_unconditional	True
+Silencer	weapon	4	6400	passive	Spirit Resist	spirit_armor_add	flat	12.0	passive_unconditional	True
+Spellslinger	weapon	4	6400	passive	Fire Rate	fire_rate_pct	percent	11.0	passive_unconditional	True
+Spiritual Overflow	weapon	4	6400	passive	Ability Duration	tech_duration_pct	percent	15.0	passive_unconditional	True
+Spiritual Overflow	weapon	4	6400	passive	Fire Rate	fire_rate_pct	percent	32.0	passive_unconditional	True
+Spiritual Overflow	weapon	4	6400	passive	Bonus Health	max_health_add	flat	90.0	passive_unconditional	True
+Spiritual Overflow	weapon	4	6400	passive	Spirit Power	spirit_power_add	flat	40.0	passive_unconditional	True
+Spiritual Overflow	weapon	4	6400	passive	Spirit Power	spirit_power_add	flat	6.0	passive_unconditional	True
+Infinite Rounds	weapon	5	9999	passive	Bullet Velocity	bullet_speed_pct	percent	200.0	passive_unconditional	True
+Infinite Rounds	weapon	5	9999	passive	Fire Rate	fire_rate_pct	percent	35.0	passive_unconditional	True
+Runed Gauntlets	weapon	5	9999	passive	Melee Damage	melee_damage_pct	percent	30.0	passive_unconditional	True

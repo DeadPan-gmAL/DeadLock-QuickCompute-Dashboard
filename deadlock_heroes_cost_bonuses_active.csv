@@ -1,0 +1,1255 @@
+﻿hero_id,hero_name,category,gold_threshold,bonus,percent_on_graph,active_selectable
+6,Abrams,spirit,800,7.0,7.0,True
+6,Abrams,spirit,1600,11.0,7.0,True
+6,Abrams,spirit,2400,15.0,8.0,True
+6,Abrams,spirit,3200,19.0,8.0,True
+6,Abrams,spirit,4800,38.0,9.0,True
+6,Abrams,spirit,6400,45.0,9.0,True
+6,Abrams,spirit,8000,52.0,10.0,True
+6,Abrams,spirit,11200,59.0,10.0,True
+6,Abrams,spirit,16000,66.0,10.0,True
+6,Abrams,spirit,22400,75.0,11.0,True
+6,Abrams,spirit,28800,100.0,11.0,True
+6,Abrams,vitality,800,9.0,7.0,True
+6,Abrams,vitality,1600,12.0,7.0,True
+6,Abrams,vitality,2400,15.0,8.0,True
+6,Abrams,vitality,3200,20.0,8.0,True
+6,Abrams,vitality,4800,38.0,9.0,True
+6,Abrams,vitality,6400,42.0,9.0,True
+6,Abrams,vitality,8000,46.0,10.0,True
+6,Abrams,vitality,11200,50.0,10.0,True
+6,Abrams,vitality,16000,54.0,10.0,True
+6,Abrams,vitality,22400,60.0,11.0,True
+6,Abrams,vitality,28800,66.0,11.0,True
+6,Abrams,weapon,800,9.0,7.0,True
+6,Abrams,weapon,1600,12.0,7.0,True
+6,Abrams,weapon,2400,15.0,8.0,True
+6,Abrams,weapon,3200,18.0,8.0,True
+6,Abrams,weapon,4800,46.0,9.0,True
+6,Abrams,weapon,6400,54.0,9.0,True
+6,Abrams,weapon,8000,62.0,10.0,True
+6,Abrams,weapon,11200,74.0,10.0,True
+6,Abrams,weapon,16000,86.0,10.0,True
+6,Abrams,weapon,22400,100.0,11.0,True
+6,Abrams,weapon,28800,115.0,11.0,True
+77,Apollo,spirit,800,7.0,7.0,True
+77,Apollo,spirit,1600,11.0,7.0,True
+77,Apollo,spirit,2400,15.0,8.0,True
+77,Apollo,spirit,3200,19.0,8.0,True
+77,Apollo,spirit,4800,38.0,9.0,True
+77,Apollo,spirit,6400,45.0,9.0,True
+77,Apollo,spirit,8000,52.0,10.0,True
+77,Apollo,spirit,11200,59.0,10.0,True
+77,Apollo,spirit,16000,66.0,10.0,True
+77,Apollo,spirit,22400,75.0,11.0,True
+77,Apollo,spirit,28800,100.0,11.0,True
+77,Apollo,vitality,800,9.0,7.0,True
+77,Apollo,vitality,1600,12.0,7.0,True
+77,Apollo,vitality,2400,15.0,8.0,True
+77,Apollo,vitality,3200,20.0,8.0,True
+77,Apollo,vitality,4800,38.0,9.0,True
+77,Apollo,vitality,6400,42.0,9.0,True
+77,Apollo,vitality,8000,46.0,10.0,True
+77,Apollo,vitality,11200,50.0,10.0,True
+77,Apollo,vitality,16000,54.0,10.0,True
+77,Apollo,vitality,22400,60.0,11.0,True
+77,Apollo,vitality,28800,66.0,11.0,True
+77,Apollo,weapon,800,9.0,7.0,True
+77,Apollo,weapon,1600,12.0,7.0,True
+77,Apollo,weapon,2400,15.0,8.0,True
+77,Apollo,weapon,3200,18.0,8.0,True
+77,Apollo,weapon,4800,46.0,9.0,True
+77,Apollo,weapon,6400,54.0,9.0,True
+77,Apollo,weapon,8000,62.0,10.0,True
+77,Apollo,weapon,11200,74.0,10.0,True
+77,Apollo,weapon,16000,86.0,10.0,True
+77,Apollo,weapon,22400,100.0,11.0,True
+77,Apollo,weapon,28800,115.0,11.0,True
+15,Bebop,spirit,800,7.0,7.0,True
+15,Bebop,spirit,1600,11.0,7.0,True
+15,Bebop,spirit,2400,15.0,8.0,True
+15,Bebop,spirit,3200,19.0,8.0,True
+15,Bebop,spirit,4800,38.0,9.0,True
+15,Bebop,spirit,6400,45.0,9.0,True
+15,Bebop,spirit,8000,52.0,10.0,True
+15,Bebop,spirit,11200,59.0,10.0,True
+15,Bebop,spirit,16000,66.0,10.0,True
+15,Bebop,spirit,22400,75.0,11.0,True
+15,Bebop,spirit,28800,100.0,11.0,True
+15,Bebop,vitality,800,9.0,7.0,True
+15,Bebop,vitality,1600,12.0,7.0,True
+15,Bebop,vitality,2400,15.0,8.0,True
+15,Bebop,vitality,3200,20.0,8.0,True
+15,Bebop,vitality,4800,38.0,9.0,True
+15,Bebop,vitality,6400,42.0,9.0,True
+15,Bebop,vitality,8000,46.0,10.0,True
+15,Bebop,vitality,11200,50.0,10.0,True
+15,Bebop,vitality,16000,54.0,10.0,True
+15,Bebop,vitality,22400,60.0,11.0,True
+15,Bebop,vitality,28800,66.0,11.0,True
+15,Bebop,weapon,800,9.0,7.0,True
+15,Bebop,weapon,1600,12.0,7.0,True
+15,Bebop,weapon,2400,15.0,8.0,True
+15,Bebop,weapon,3200,18.0,8.0,True
+15,Bebop,weapon,4800,46.0,9.0,True
+15,Bebop,weapon,6400,54.0,9.0,True
+15,Bebop,weapon,8000,62.0,10.0,True
+15,Bebop,weapon,11200,74.0,10.0,True
+15,Bebop,weapon,16000,86.0,10.0,True
+15,Bebop,weapon,22400,100.0,11.0,True
+15,Bebop,weapon,28800,115.0,11.0,True
+72,Billy,spirit,800,7.0,7.0,True
+72,Billy,spirit,1600,11.0,7.0,True
+72,Billy,spirit,2400,15.0,8.0,True
+72,Billy,spirit,3200,19.0,8.0,True
+72,Billy,spirit,4800,38.0,9.0,True
+72,Billy,spirit,6400,45.0,9.0,True
+72,Billy,spirit,8000,52.0,10.0,True
+72,Billy,spirit,11200,59.0,10.0,True
+72,Billy,spirit,16000,66.0,10.0,True
+72,Billy,spirit,22400,75.0,11.0,True
+72,Billy,spirit,28800,100.0,11.0,True
+72,Billy,vitality,800,9.0,7.0,True
+72,Billy,vitality,1600,12.0,7.0,True
+72,Billy,vitality,2400,15.0,8.0,True
+72,Billy,vitality,3200,20.0,8.0,True
+72,Billy,vitality,4800,38.0,9.0,True
+72,Billy,vitality,6400,42.0,9.0,True
+72,Billy,vitality,8000,46.0,10.0,True
+72,Billy,vitality,11200,50.0,10.0,True
+72,Billy,vitality,16000,54.0,10.0,True
+72,Billy,vitality,22400,60.0,11.0,True
+72,Billy,vitality,28800,66.0,11.0,True
+72,Billy,weapon,800,9.0,7.0,True
+72,Billy,weapon,1600,12.0,7.0,True
+72,Billy,weapon,2400,15.0,8.0,True
+72,Billy,weapon,3200,18.0,8.0,True
+72,Billy,weapon,4800,46.0,9.0,True
+72,Billy,weapon,6400,54.0,9.0,True
+72,Billy,weapon,8000,62.0,10.0,True
+72,Billy,weapon,11200,74.0,10.0,True
+72,Billy,weapon,16000,86.0,10.0,True
+72,Billy,weapon,22400,100.0,11.0,True
+72,Billy,weapon,28800,115.0,11.0,True
+16,Calico,spirit,800,7.0,7.0,True
+16,Calico,spirit,1600,11.0,7.0,True
+16,Calico,spirit,2400,15.0,8.0,True
+16,Calico,spirit,3200,19.0,8.0,True
+16,Calico,spirit,4800,38.0,9.0,True
+16,Calico,spirit,6400,45.0,9.0,True
+16,Calico,spirit,8000,52.0,10.0,True
+16,Calico,spirit,11200,59.0,10.0,True
+16,Calico,spirit,16000,66.0,10.0,True
+16,Calico,spirit,22400,75.0,11.0,True
+16,Calico,spirit,28800,100.0,11.0,True
+16,Calico,vitality,800,9.0,7.0,True
+16,Calico,vitality,1600,12.0,7.0,True
+16,Calico,vitality,2400,15.0,8.0,True
+16,Calico,vitality,3200,20.0,8.0,True
+16,Calico,vitality,4800,38.0,9.0,True
+16,Calico,vitality,6400,42.0,9.0,True
+16,Calico,vitality,8000,46.0,10.0,True
+16,Calico,vitality,11200,50.0,10.0,True
+16,Calico,vitality,16000,54.0,10.0,True
+16,Calico,vitality,22400,60.0,11.0,True
+16,Calico,vitality,28800,66.0,11.0,True
+16,Calico,weapon,800,9.0,7.0,True
+16,Calico,weapon,1600,12.0,7.0,True
+16,Calico,weapon,2400,15.0,8.0,True
+16,Calico,weapon,3200,18.0,8.0,True
+16,Calico,weapon,4800,46.0,9.0,True
+16,Calico,weapon,6400,54.0,9.0,True
+16,Calico,weapon,8000,62.0,10.0,True
+16,Calico,weapon,11200,74.0,10.0,True
+16,Calico,weapon,16000,86.0,10.0,True
+16,Calico,weapon,22400,100.0,11.0,True
+16,Calico,weapon,28800,115.0,11.0,True
+81,Celeste,spirit,800,7.0,7.0,True
+81,Celeste,spirit,1600,11.0,7.0,True
+81,Celeste,spirit,2400,15.0,8.0,True
+81,Celeste,spirit,3200,19.0,8.0,True
+81,Celeste,spirit,4800,38.0,9.0,True
+81,Celeste,spirit,6400,45.0,9.0,True
+81,Celeste,spirit,8000,52.0,10.0,True
+81,Celeste,spirit,11200,59.0,10.0,True
+81,Celeste,spirit,16000,66.0,10.0,True
+81,Celeste,spirit,22400,75.0,11.0,True
+81,Celeste,spirit,28800,100.0,11.0,True
+81,Celeste,vitality,800,9.0,7.0,True
+81,Celeste,vitality,1600,12.0,7.0,True
+81,Celeste,vitality,2400,15.0,8.0,True
+81,Celeste,vitality,3200,20.0,8.0,True
+81,Celeste,vitality,4800,38.0,9.0,True
+81,Celeste,vitality,6400,42.0,9.0,True
+81,Celeste,vitality,8000,46.0,10.0,True
+81,Celeste,vitality,11200,50.0,10.0,True
+81,Celeste,vitality,16000,54.0,10.0,True
+81,Celeste,vitality,22400,60.0,11.0,True
+81,Celeste,vitality,28800,66.0,11.0,True
+81,Celeste,weapon,800,9.0,7.0,True
+81,Celeste,weapon,1600,12.0,7.0,True
+81,Celeste,weapon,2400,15.0,8.0,True
+81,Celeste,weapon,3200,18.0,8.0,True
+81,Celeste,weapon,4800,46.0,9.0,True
+81,Celeste,weapon,6400,54.0,9.0,True
+81,Celeste,weapon,8000,62.0,10.0,True
+81,Celeste,weapon,11200,74.0,10.0,True
+81,Celeste,weapon,16000,86.0,10.0,True
+81,Celeste,weapon,22400,100.0,11.0,True
+81,Celeste,weapon,28800,115.0,11.0,True
+64,Drifter,spirit,800,7.0,7.0,True
+64,Drifter,spirit,1600,11.0,7.0,True
+64,Drifter,spirit,2400,15.0,8.0,True
+64,Drifter,spirit,3200,19.0,8.0,True
+64,Drifter,spirit,4800,38.0,9.0,True
+64,Drifter,spirit,6400,45.0,9.0,True
+64,Drifter,spirit,8000,52.0,10.0,True
+64,Drifter,spirit,11200,59.0,10.0,True
+64,Drifter,spirit,16000,66.0,10.0,True
+64,Drifter,spirit,22400,75.0,11.0,True
+64,Drifter,spirit,28800,100.0,11.0,True
+64,Drifter,vitality,800,9.0,7.0,True
+64,Drifter,vitality,1600,12.0,7.0,True
+64,Drifter,vitality,2400,15.0,8.0,True
+64,Drifter,vitality,3200,20.0,8.0,True
+64,Drifter,vitality,4800,38.0,9.0,True
+64,Drifter,vitality,6400,42.0,9.0,True
+64,Drifter,vitality,8000,46.0,10.0,True
+64,Drifter,vitality,11200,50.0,10.0,True
+64,Drifter,vitality,16000,54.0,10.0,True
+64,Drifter,vitality,22400,60.0,11.0,True
+64,Drifter,vitality,28800,66.0,11.0,True
+64,Drifter,weapon,800,9.0,7.0,True
+64,Drifter,weapon,1600,12.0,7.0,True
+64,Drifter,weapon,2400,15.0,8.0,True
+64,Drifter,weapon,3200,18.0,8.0,True
+64,Drifter,weapon,4800,46.0,9.0,True
+64,Drifter,weapon,6400,54.0,9.0,True
+64,Drifter,weapon,8000,62.0,10.0,True
+64,Drifter,weapon,11200,74.0,10.0,True
+64,Drifter,weapon,16000,86.0,10.0,True
+64,Drifter,weapon,22400,100.0,11.0,True
+64,Drifter,weapon,28800,115.0,11.0,True
+11,Dynamo,spirit,800,7.0,7.0,True
+11,Dynamo,spirit,1600,11.0,7.0,True
+11,Dynamo,spirit,2400,15.0,8.0,True
+11,Dynamo,spirit,3200,19.0,8.0,True
+11,Dynamo,spirit,4800,38.0,9.0,True
+11,Dynamo,spirit,6400,45.0,9.0,True
+11,Dynamo,spirit,8000,52.0,10.0,True
+11,Dynamo,spirit,11200,59.0,10.0,True
+11,Dynamo,spirit,16000,66.0,10.0,True
+11,Dynamo,spirit,22400,75.0,11.0,True
+11,Dynamo,spirit,28800,100.0,11.0,True
+11,Dynamo,vitality,800,9.0,7.0,True
+11,Dynamo,vitality,1600,12.0,7.0,True
+11,Dynamo,vitality,2400,15.0,8.0,True
+11,Dynamo,vitality,3200,20.0,8.0,True
+11,Dynamo,vitality,4800,38.0,9.0,True
+11,Dynamo,vitality,6400,42.0,9.0,True
+11,Dynamo,vitality,8000,46.0,10.0,True
+11,Dynamo,vitality,11200,50.0,10.0,True
+11,Dynamo,vitality,16000,54.0,10.0,True
+11,Dynamo,vitality,22400,60.0,11.0,True
+11,Dynamo,vitality,28800,66.0,11.0,True
+11,Dynamo,weapon,800,9.0,7.0,True
+11,Dynamo,weapon,1600,12.0,7.0,True
+11,Dynamo,weapon,2400,15.0,8.0,True
+11,Dynamo,weapon,3200,18.0,8.0,True
+11,Dynamo,weapon,4800,46.0,9.0,True
+11,Dynamo,weapon,6400,54.0,9.0,True
+11,Dynamo,weapon,8000,62.0,10.0,True
+11,Dynamo,weapon,11200,74.0,10.0,True
+11,Dynamo,weapon,16000,86.0,10.0,True
+11,Dynamo,weapon,22400,100.0,11.0,True
+11,Dynamo,weapon,28800,115.0,11.0,True
+76,Graves,spirit,800,7.0,7.0,True
+76,Graves,spirit,1600,11.0,7.0,True
+76,Graves,spirit,2400,15.0,8.0,True
+76,Graves,spirit,3200,19.0,8.0,True
+76,Graves,spirit,4800,38.0,9.0,True
+76,Graves,spirit,6400,45.0,9.0,True
+76,Graves,spirit,8000,52.0,10.0,True
+76,Graves,spirit,11200,59.0,10.0,True
+76,Graves,spirit,16000,66.0,10.0,True
+76,Graves,spirit,22400,75.0,11.0,True
+76,Graves,spirit,28800,100.0,11.0,True
+76,Graves,vitality,800,9.0,7.0,True
+76,Graves,vitality,1600,12.0,7.0,True
+76,Graves,vitality,2400,15.0,8.0,True
+76,Graves,vitality,3200,20.0,8.0,True
+76,Graves,vitality,4800,38.0,9.0,True
+76,Graves,vitality,6400,42.0,9.0,True
+76,Graves,vitality,8000,46.0,10.0,True
+76,Graves,vitality,11200,50.0,10.0,True
+76,Graves,vitality,16000,54.0,10.0,True
+76,Graves,vitality,22400,60.0,11.0,True
+76,Graves,vitality,28800,66.0,11.0,True
+76,Graves,weapon,800,9.0,7.0,True
+76,Graves,weapon,1600,12.0,7.0,True
+76,Graves,weapon,2400,15.0,8.0,True
+76,Graves,weapon,3200,18.0,8.0,True
+76,Graves,weapon,4800,46.0,9.0,True
+76,Graves,weapon,6400,54.0,9.0,True
+76,Graves,weapon,8000,62.0,10.0,True
+76,Graves,weapon,11200,74.0,10.0,True
+76,Graves,weapon,16000,86.0,10.0,True
+76,Graves,weapon,22400,100.0,11.0,True
+76,Graves,weapon,28800,115.0,11.0,True
+17,Grey Talon,spirit,800,7.0,7.0,True
+17,Grey Talon,spirit,1600,11.0,7.0,True
+17,Grey Talon,spirit,2400,15.0,8.0,True
+17,Grey Talon,spirit,3200,19.0,8.0,True
+17,Grey Talon,spirit,4800,38.0,9.0,True
+17,Grey Talon,spirit,6400,45.0,9.0,True
+17,Grey Talon,spirit,8000,52.0,10.0,True
+17,Grey Talon,spirit,11200,59.0,10.0,True
+17,Grey Talon,spirit,16000,66.0,10.0,True
+17,Grey Talon,spirit,22400,75.0,11.0,True
+17,Grey Talon,spirit,28800,100.0,11.0,True
+17,Grey Talon,vitality,800,9.0,7.0,True
+17,Grey Talon,vitality,1600,12.0,7.0,True
+17,Grey Talon,vitality,2400,15.0,8.0,True
+17,Grey Talon,vitality,3200,20.0,8.0,True
+17,Grey Talon,vitality,4800,38.0,9.0,True
+17,Grey Talon,vitality,6400,42.0,9.0,True
+17,Grey Talon,vitality,8000,46.0,10.0,True
+17,Grey Talon,vitality,11200,50.0,10.0,True
+17,Grey Talon,vitality,16000,54.0,10.0,True
+17,Grey Talon,vitality,22400,60.0,11.0,True
+17,Grey Talon,vitality,28800,66.0,11.0,True
+17,Grey Talon,weapon,800,9.0,7.0,True
+17,Grey Talon,weapon,1600,12.0,7.0,True
+17,Grey Talon,weapon,2400,15.0,8.0,True
+17,Grey Talon,weapon,3200,18.0,8.0,True
+17,Grey Talon,weapon,4800,46.0,9.0,True
+17,Grey Talon,weapon,6400,54.0,9.0,True
+17,Grey Talon,weapon,8000,62.0,10.0,True
+17,Grey Talon,weapon,11200,74.0,10.0,True
+17,Grey Talon,weapon,16000,86.0,10.0,True
+17,Grey Talon,weapon,22400,100.0,11.0,True
+17,Grey Talon,weapon,28800,115.0,11.0,True
+13,Haze,spirit,800,7.0,7.0,True
+13,Haze,spirit,1600,11.0,7.0,True
+13,Haze,spirit,2400,15.0,8.0,True
+13,Haze,spirit,3200,19.0,8.0,True
+13,Haze,spirit,4800,38.0,9.0,True
+13,Haze,spirit,6400,45.0,9.0,True
+13,Haze,spirit,8000,52.0,10.0,True
+13,Haze,spirit,11200,59.0,10.0,True
+13,Haze,spirit,16000,66.0,10.0,True
+13,Haze,spirit,22400,75.0,11.0,True
+13,Haze,spirit,28800,100.0,11.0,True
+13,Haze,vitality,800,9.0,7.0,True
+13,Haze,vitality,1600,12.0,7.0,True
+13,Haze,vitality,2400,15.0,8.0,True
+13,Haze,vitality,3200,20.0,8.0,True
+13,Haze,vitality,4800,38.0,9.0,True
+13,Haze,vitality,6400,42.0,9.0,True
+13,Haze,vitality,8000,46.0,10.0,True
+13,Haze,vitality,11200,50.0,10.0,True
+13,Haze,vitality,16000,54.0,10.0,True
+13,Haze,vitality,22400,60.0,11.0,True
+13,Haze,vitality,28800,66.0,11.0,True
+13,Haze,weapon,800,9.0,7.0,True
+13,Haze,weapon,1600,12.0,7.0,True
+13,Haze,weapon,2400,15.0,8.0,True
+13,Haze,weapon,3200,18.0,8.0,True
+13,Haze,weapon,4800,46.0,9.0,True
+13,Haze,weapon,6400,54.0,9.0,True
+13,Haze,weapon,8000,62.0,10.0,True
+13,Haze,weapon,11200,74.0,10.0,True
+13,Haze,weapon,16000,86.0,10.0,True
+13,Haze,weapon,22400,100.0,11.0,True
+13,Haze,weapon,28800,115.0,11.0,True
+14,Holliday,spirit,800,7.0,7.0,True
+14,Holliday,spirit,1600,11.0,7.0,True
+14,Holliday,spirit,2400,15.0,8.0,True
+14,Holliday,spirit,3200,19.0,8.0,True
+14,Holliday,spirit,4800,38.0,9.0,True
+14,Holliday,spirit,6400,45.0,9.0,True
+14,Holliday,spirit,8000,52.0,10.0,True
+14,Holliday,spirit,11200,59.0,10.0,True
+14,Holliday,spirit,16000,66.0,10.0,True
+14,Holliday,spirit,22400,75.0,11.0,True
+14,Holliday,spirit,28800,100.0,11.0,True
+14,Holliday,vitality,800,9.0,7.0,True
+14,Holliday,vitality,1600,12.0,7.0,True
+14,Holliday,vitality,2400,15.0,8.0,True
+14,Holliday,vitality,3200,20.0,8.0,True
+14,Holliday,vitality,4800,38.0,9.0,True
+14,Holliday,vitality,6400,42.0,9.0,True
+14,Holliday,vitality,8000,46.0,10.0,True
+14,Holliday,vitality,11200,50.0,10.0,True
+14,Holliday,vitality,16000,54.0,10.0,True
+14,Holliday,vitality,22400,60.0,11.0,True
+14,Holliday,vitality,28800,66.0,11.0,True
+14,Holliday,weapon,800,9.0,7.0,True
+14,Holliday,weapon,1600,12.0,7.0,True
+14,Holliday,weapon,2400,15.0,8.0,True
+14,Holliday,weapon,3200,18.0,8.0,True
+14,Holliday,weapon,4800,46.0,9.0,True
+14,Holliday,weapon,6400,54.0,9.0,True
+14,Holliday,weapon,8000,62.0,10.0,True
+14,Holliday,weapon,11200,74.0,10.0,True
+14,Holliday,weapon,16000,86.0,10.0,True
+14,Holliday,weapon,22400,100.0,11.0,True
+14,Holliday,weapon,28800,115.0,11.0,True
+1,Infernus,spirit,800,7.0,7.0,True
+1,Infernus,spirit,1600,11.0,7.0,True
+1,Infernus,spirit,2400,15.0,8.0,True
+1,Infernus,spirit,3200,19.0,8.0,True
+1,Infernus,spirit,4800,38.0,9.0,True
+1,Infernus,spirit,6400,45.0,9.0,True
+1,Infernus,spirit,8000,52.0,10.0,True
+1,Infernus,spirit,11200,59.0,10.0,True
+1,Infernus,spirit,16000,66.0,10.0,True
+1,Infernus,spirit,22400,75.0,11.0,True
+1,Infernus,spirit,28800,100.0,11.0,True
+1,Infernus,vitality,800,9.0,7.0,True
+1,Infernus,vitality,1600,12.0,7.0,True
+1,Infernus,vitality,2400,15.0,8.0,True
+1,Infernus,vitality,3200,20.0,8.0,True
+1,Infernus,vitality,4800,38.0,9.0,True
+1,Infernus,vitality,6400,42.0,9.0,True
+1,Infernus,vitality,8000,46.0,10.0,True
+1,Infernus,vitality,11200,50.0,10.0,True
+1,Infernus,vitality,16000,54.0,10.0,True
+1,Infernus,vitality,22400,60.0,11.0,True
+1,Infernus,vitality,28800,66.0,11.0,True
+1,Infernus,weapon,800,9.0,7.0,True
+1,Infernus,weapon,1600,12.0,7.0,True
+1,Infernus,weapon,2400,15.0,8.0,True
+1,Infernus,weapon,3200,18.0,8.0,True
+1,Infernus,weapon,4800,46.0,9.0,True
+1,Infernus,weapon,6400,54.0,9.0,True
+1,Infernus,weapon,8000,62.0,10.0,True
+1,Infernus,weapon,11200,74.0,10.0,True
+1,Infernus,weapon,16000,86.0,10.0,True
+1,Infernus,weapon,22400,100.0,11.0,True
+1,Infernus,weapon,28800,115.0,11.0,True
+20,Ivy,spirit,800,7.0,7.0,True
+20,Ivy,spirit,1600,11.0,7.0,True
+20,Ivy,spirit,2400,15.0,8.0,True
+20,Ivy,spirit,3200,19.0,8.0,True
+20,Ivy,spirit,4800,38.0,9.0,True
+20,Ivy,spirit,6400,45.0,9.0,True
+20,Ivy,spirit,8000,52.0,10.0,True
+20,Ivy,spirit,11200,59.0,10.0,True
+20,Ivy,spirit,16000,66.0,10.0,True
+20,Ivy,spirit,22400,75.0,11.0,True
+20,Ivy,spirit,28800,100.0,11.0,True
+20,Ivy,vitality,800,9.0,7.0,True
+20,Ivy,vitality,1600,12.0,7.0,True
+20,Ivy,vitality,2400,15.0,8.0,True
+20,Ivy,vitality,3200,20.0,8.0,True
+20,Ivy,vitality,4800,38.0,9.0,True
+20,Ivy,vitality,6400,42.0,9.0,True
+20,Ivy,vitality,8000,46.0,10.0,True
+20,Ivy,vitality,11200,50.0,10.0,True
+20,Ivy,vitality,16000,54.0,10.0,True
+20,Ivy,vitality,22400,60.0,11.0,True
+20,Ivy,vitality,28800,66.0,11.0,True
+20,Ivy,weapon,800,9.0,7.0,True
+20,Ivy,weapon,1600,12.0,7.0,True
+20,Ivy,weapon,2400,15.0,8.0,True
+20,Ivy,weapon,3200,18.0,8.0,True
+20,Ivy,weapon,4800,46.0,9.0,True
+20,Ivy,weapon,6400,54.0,9.0,True
+20,Ivy,weapon,8000,62.0,10.0,True
+20,Ivy,weapon,11200,74.0,10.0,True
+20,Ivy,weapon,16000,86.0,10.0,True
+20,Ivy,weapon,22400,100.0,11.0,True
+20,Ivy,weapon,28800,115.0,11.0,True
+12,Kelvin,spirit,800,7.0,7.0,True
+12,Kelvin,spirit,1600,11.0,7.0,True
+12,Kelvin,spirit,2400,15.0,8.0,True
+12,Kelvin,spirit,3200,19.0,8.0,True
+12,Kelvin,spirit,4800,38.0,9.0,True
+12,Kelvin,spirit,6400,45.0,9.0,True
+12,Kelvin,spirit,8000,52.0,10.0,True
+12,Kelvin,spirit,11200,59.0,10.0,True
+12,Kelvin,spirit,16000,66.0,10.0,True
+12,Kelvin,spirit,22400,75.0,11.0,True
+12,Kelvin,spirit,28800,100.0,11.0,True
+12,Kelvin,vitality,800,9.0,7.0,True
+12,Kelvin,vitality,1600,12.0,7.0,True
+12,Kelvin,vitality,2400,15.0,8.0,True
+12,Kelvin,vitality,3200,20.0,8.0,True
+12,Kelvin,vitality,4800,38.0,9.0,True
+12,Kelvin,vitality,6400,42.0,9.0,True
+12,Kelvin,vitality,8000,46.0,10.0,True
+12,Kelvin,vitality,11200,50.0,10.0,True
+12,Kelvin,vitality,16000,54.0,10.0,True
+12,Kelvin,vitality,22400,60.0,11.0,True
+12,Kelvin,vitality,28800,66.0,11.0,True
+12,Kelvin,weapon,800,9.0,7.0,True
+12,Kelvin,weapon,1600,12.0,7.0,True
+12,Kelvin,weapon,2400,15.0,8.0,True
+12,Kelvin,weapon,3200,18.0,8.0,True
+12,Kelvin,weapon,4800,46.0,9.0,True
+12,Kelvin,weapon,6400,54.0,9.0,True
+12,Kelvin,weapon,8000,62.0,10.0,True
+12,Kelvin,weapon,11200,74.0,10.0,True
+12,Kelvin,weapon,16000,86.0,10.0,True
+12,Kelvin,weapon,22400,100.0,11.0,True
+12,Kelvin,weapon,28800,115.0,11.0,True
+4,Lady Geist,spirit,800,7.0,7.0,True
+4,Lady Geist,spirit,1600,11.0,7.0,True
+4,Lady Geist,spirit,2400,15.0,8.0,True
+4,Lady Geist,spirit,3200,19.0,8.0,True
+4,Lady Geist,spirit,4800,38.0,9.0,True
+4,Lady Geist,spirit,6400,45.0,9.0,True
+4,Lady Geist,spirit,8000,52.0,10.0,True
+4,Lady Geist,spirit,11200,59.0,10.0,True
+4,Lady Geist,spirit,16000,66.0,10.0,True
+4,Lady Geist,spirit,22400,75.0,11.0,True
+4,Lady Geist,spirit,28800,100.0,11.0,True
+4,Lady Geist,vitality,800,9.0,7.0,True
+4,Lady Geist,vitality,1600,12.0,7.0,True
+4,Lady Geist,vitality,2400,15.0,8.0,True
+4,Lady Geist,vitality,3200,20.0,8.0,True
+4,Lady Geist,vitality,4800,38.0,9.0,True
+4,Lady Geist,vitality,6400,42.0,9.0,True
+4,Lady Geist,vitality,8000,46.0,10.0,True
+4,Lady Geist,vitality,11200,50.0,10.0,True
+4,Lady Geist,vitality,16000,54.0,10.0,True
+4,Lady Geist,vitality,22400,60.0,11.0,True
+4,Lady Geist,vitality,28800,66.0,11.0,True
+4,Lady Geist,weapon,800,9.0,7.0,True
+4,Lady Geist,weapon,1600,12.0,7.0,True
+4,Lady Geist,weapon,2400,15.0,8.0,True
+4,Lady Geist,weapon,3200,18.0,8.0,True
+4,Lady Geist,weapon,4800,46.0,9.0,True
+4,Lady Geist,weapon,6400,54.0,9.0,True
+4,Lady Geist,weapon,8000,62.0,10.0,True
+4,Lady Geist,weapon,11200,74.0,10.0,True
+4,Lady Geist,weapon,16000,86.0,10.0,True
+4,Lady Geist,weapon,22400,100.0,11.0,True
+4,Lady Geist,weapon,28800,115.0,11.0,True
+31,Lash,spirit,800,7.0,7.0,True
+31,Lash,spirit,1600,11.0,7.0,True
+31,Lash,spirit,2400,15.0,8.0,True
+31,Lash,spirit,3200,19.0,8.0,True
+31,Lash,spirit,4800,38.0,9.0,True
+31,Lash,spirit,6400,45.0,9.0,True
+31,Lash,spirit,8000,52.0,10.0,True
+31,Lash,spirit,11200,59.0,10.0,True
+31,Lash,spirit,16000,66.0,10.0,True
+31,Lash,spirit,22400,75.0,11.0,True
+31,Lash,spirit,28800,100.0,11.0,True
+31,Lash,vitality,800,9.0,7.0,True
+31,Lash,vitality,1600,12.0,7.0,True
+31,Lash,vitality,2400,15.0,8.0,True
+31,Lash,vitality,3200,20.0,8.0,True
+31,Lash,vitality,4800,38.0,9.0,True
+31,Lash,vitality,6400,42.0,9.0,True
+31,Lash,vitality,8000,46.0,10.0,True
+31,Lash,vitality,11200,50.0,10.0,True
+31,Lash,vitality,16000,54.0,10.0,True
+31,Lash,vitality,22400,60.0,11.0,True
+31,Lash,vitality,28800,66.0,11.0,True
+31,Lash,weapon,800,9.0,7.0,True
+31,Lash,weapon,1600,12.0,7.0,True
+31,Lash,weapon,2400,15.0,8.0,True
+31,Lash,weapon,3200,18.0,8.0,True
+31,Lash,weapon,4800,46.0,9.0,True
+31,Lash,weapon,6400,54.0,9.0,True
+31,Lash,weapon,8000,62.0,10.0,True
+31,Lash,weapon,11200,74.0,10.0,True
+31,Lash,weapon,16000,86.0,10.0,True
+31,Lash,weapon,22400,100.0,11.0,True
+31,Lash,weapon,28800,115.0,11.0,True
+8,McGinnis,spirit,800,7.0,7.0,True
+8,McGinnis,spirit,1600,11.0,7.0,True
+8,McGinnis,spirit,2400,15.0,8.0,True
+8,McGinnis,spirit,3200,19.0,8.0,True
+8,McGinnis,spirit,4800,38.0,9.0,True
+8,McGinnis,spirit,6400,45.0,9.0,True
+8,McGinnis,spirit,8000,52.0,10.0,True
+8,McGinnis,spirit,11200,59.0,10.0,True
+8,McGinnis,spirit,16000,66.0,10.0,True
+8,McGinnis,spirit,22400,75.0,11.0,True
+8,McGinnis,spirit,28800,100.0,11.0,True
+8,McGinnis,vitality,800,9.0,7.0,True
+8,McGinnis,vitality,1600,12.0,7.0,True
+8,McGinnis,vitality,2400,15.0,8.0,True
+8,McGinnis,vitality,3200,20.0,8.0,True
+8,McGinnis,vitality,4800,38.0,9.0,True
+8,McGinnis,vitality,6400,42.0,9.0,True
+8,McGinnis,vitality,8000,46.0,10.0,True
+8,McGinnis,vitality,11200,50.0,10.0,True
+8,McGinnis,vitality,16000,54.0,10.0,True
+8,McGinnis,vitality,22400,60.0,11.0,True
+8,McGinnis,vitality,28800,66.0,11.0,True
+8,McGinnis,weapon,800,9.0,7.0,True
+8,McGinnis,weapon,1600,12.0,7.0,True
+8,McGinnis,weapon,2400,15.0,8.0,True
+8,McGinnis,weapon,3200,18.0,8.0,True
+8,McGinnis,weapon,4800,46.0,9.0,True
+8,McGinnis,weapon,6400,54.0,9.0,True
+8,McGinnis,weapon,8000,62.0,10.0,True
+8,McGinnis,weapon,11200,74.0,10.0,True
+8,McGinnis,weapon,16000,86.0,10.0,True
+8,McGinnis,weapon,22400,100.0,11.0,True
+8,McGinnis,weapon,28800,115.0,11.0,True
+63,Mina,spirit,800,7.0,7.0,True
+63,Mina,spirit,1600,11.0,7.0,True
+63,Mina,spirit,2400,15.0,8.0,True
+63,Mina,spirit,3200,19.0,8.0,True
+63,Mina,spirit,4800,38.0,9.0,True
+63,Mina,spirit,6400,45.0,9.0,True
+63,Mina,spirit,8000,52.0,10.0,True
+63,Mina,spirit,11200,59.0,10.0,True
+63,Mina,spirit,16000,66.0,10.0,True
+63,Mina,spirit,22400,75.0,11.0,True
+63,Mina,spirit,28800,100.0,11.0,True
+63,Mina,vitality,800,9.0,7.0,True
+63,Mina,vitality,1600,12.0,7.0,True
+63,Mina,vitality,2400,15.0,8.0,True
+63,Mina,vitality,3200,20.0,8.0,True
+63,Mina,vitality,4800,38.0,9.0,True
+63,Mina,vitality,6400,42.0,9.0,True
+63,Mina,vitality,8000,46.0,10.0,True
+63,Mina,vitality,11200,50.0,10.0,True
+63,Mina,vitality,16000,54.0,10.0,True
+63,Mina,vitality,22400,60.0,11.0,True
+63,Mina,vitality,28800,66.0,11.0,True
+63,Mina,weapon,800,9.0,7.0,True
+63,Mina,weapon,1600,12.0,7.0,True
+63,Mina,weapon,2400,15.0,8.0,True
+63,Mina,weapon,3200,18.0,8.0,True
+63,Mina,weapon,4800,46.0,9.0,True
+63,Mina,weapon,6400,54.0,9.0,True
+63,Mina,weapon,8000,62.0,10.0,True
+63,Mina,weapon,11200,74.0,10.0,True
+63,Mina,weapon,16000,86.0,10.0,True
+63,Mina,weapon,22400,100.0,11.0,True
+63,Mina,weapon,28800,115.0,11.0,True
+52,Mirage,spirit,800,7.0,7.0,True
+52,Mirage,spirit,1600,11.0,7.0,True
+52,Mirage,spirit,2400,15.0,8.0,True
+52,Mirage,spirit,3200,19.0,8.0,True
+52,Mirage,spirit,4800,38.0,9.0,True
+52,Mirage,spirit,6400,45.0,9.0,True
+52,Mirage,spirit,8000,52.0,10.0,True
+52,Mirage,spirit,11200,59.0,10.0,True
+52,Mirage,spirit,16000,66.0,10.0,True
+52,Mirage,spirit,22400,75.0,11.0,True
+52,Mirage,spirit,28800,100.0,11.0,True
+52,Mirage,vitality,800,9.0,7.0,True
+52,Mirage,vitality,1600,12.0,7.0,True
+52,Mirage,vitality,2400,15.0,8.0,True
+52,Mirage,vitality,3200,20.0,8.0,True
+52,Mirage,vitality,4800,38.0,9.0,True
+52,Mirage,vitality,6400,42.0,9.0,True
+52,Mirage,vitality,8000,46.0,10.0,True
+52,Mirage,vitality,11200,50.0,10.0,True
+52,Mirage,vitality,16000,54.0,10.0,True
+52,Mirage,vitality,22400,60.0,11.0,True
+52,Mirage,vitality,28800,66.0,11.0,True
+52,Mirage,weapon,800,9.0,7.0,True
+52,Mirage,weapon,1600,12.0,7.0,True
+52,Mirage,weapon,2400,15.0,8.0,True
+52,Mirage,weapon,3200,18.0,8.0,True
+52,Mirage,weapon,4800,46.0,9.0,True
+52,Mirage,weapon,6400,54.0,9.0,True
+52,Mirage,weapon,8000,62.0,10.0,True
+52,Mirage,weapon,11200,74.0,10.0,True
+52,Mirage,weapon,16000,86.0,10.0,True
+52,Mirage,weapon,22400,100.0,11.0,True
+52,Mirage,weapon,28800,115.0,11.0,True
+18,Mo & Krill,spirit,800,7.0,7.0,True
+18,Mo & Krill,spirit,1600,11.0,7.0,True
+18,Mo & Krill,spirit,2400,15.0,8.0,True
+18,Mo & Krill,spirit,3200,19.0,8.0,True
+18,Mo & Krill,spirit,4800,38.0,9.0,True
+18,Mo & Krill,spirit,6400,45.0,9.0,True
+18,Mo & Krill,spirit,8000,52.0,10.0,True
+18,Mo & Krill,spirit,11200,59.0,10.0,True
+18,Mo & Krill,spirit,16000,66.0,10.0,True
+18,Mo & Krill,spirit,22400,75.0,11.0,True
+18,Mo & Krill,spirit,28800,100.0,11.0,True
+18,Mo & Krill,vitality,800,9.0,7.0,True
+18,Mo & Krill,vitality,1600,12.0,7.0,True
+18,Mo & Krill,vitality,2400,15.0,8.0,True
+18,Mo & Krill,vitality,3200,20.0,8.0,True
+18,Mo & Krill,vitality,4800,38.0,9.0,True
+18,Mo & Krill,vitality,6400,42.0,9.0,True
+18,Mo & Krill,vitality,8000,46.0,10.0,True
+18,Mo & Krill,vitality,11200,50.0,10.0,True
+18,Mo & Krill,vitality,16000,54.0,10.0,True
+18,Mo & Krill,vitality,22400,60.0,11.0,True
+18,Mo & Krill,vitality,28800,66.0,11.0,True
+18,Mo & Krill,weapon,800,9.0,7.0,True
+18,Mo & Krill,weapon,1600,12.0,7.0,True
+18,Mo & Krill,weapon,2400,15.0,8.0,True
+18,Mo & Krill,weapon,3200,18.0,8.0,True
+18,Mo & Krill,weapon,4800,46.0,9.0,True
+18,Mo & Krill,weapon,6400,54.0,9.0,True
+18,Mo & Krill,weapon,8000,62.0,10.0,True
+18,Mo & Krill,weapon,11200,74.0,10.0,True
+18,Mo & Krill,weapon,16000,86.0,10.0,True
+18,Mo & Krill,weapon,22400,100.0,11.0,True
+18,Mo & Krill,weapon,28800,115.0,11.0,True
+67,Paige,spirit,800,7.0,7.0,True
+67,Paige,spirit,1600,11.0,7.0,True
+67,Paige,spirit,2400,15.0,8.0,True
+67,Paige,spirit,3200,19.0,8.0,True
+67,Paige,spirit,4800,38.0,9.0,True
+67,Paige,spirit,6400,45.0,9.0,True
+67,Paige,spirit,8000,52.0,10.0,True
+67,Paige,spirit,11200,59.0,10.0,True
+67,Paige,spirit,16000,66.0,10.0,True
+67,Paige,spirit,22400,75.0,11.0,True
+67,Paige,spirit,28800,100.0,11.0,True
+67,Paige,vitality,800,9.0,7.0,True
+67,Paige,vitality,1600,12.0,7.0,True
+67,Paige,vitality,2400,15.0,8.0,True
+67,Paige,vitality,3200,20.0,8.0,True
+67,Paige,vitality,4800,38.0,9.0,True
+67,Paige,vitality,6400,42.0,9.0,True
+67,Paige,vitality,8000,46.0,10.0,True
+67,Paige,vitality,11200,50.0,10.0,True
+67,Paige,vitality,16000,54.0,10.0,True
+67,Paige,vitality,22400,60.0,11.0,True
+67,Paige,vitality,28800,66.0,11.0,True
+67,Paige,weapon,800,9.0,7.0,True
+67,Paige,weapon,1600,12.0,7.0,True
+67,Paige,weapon,2400,15.0,8.0,True
+67,Paige,weapon,3200,18.0,8.0,True
+67,Paige,weapon,4800,46.0,9.0,True
+67,Paige,weapon,6400,54.0,9.0,True
+67,Paige,weapon,8000,62.0,10.0,True
+67,Paige,weapon,11200,74.0,10.0,True
+67,Paige,weapon,16000,86.0,10.0,True
+67,Paige,weapon,22400,100.0,11.0,True
+67,Paige,weapon,28800,115.0,11.0,True
+10,Paradox,spirit,800,7.0,7.0,True
+10,Paradox,spirit,1600,11.0,7.0,True
+10,Paradox,spirit,2400,15.0,8.0,True
+10,Paradox,spirit,3200,19.0,8.0,True
+10,Paradox,spirit,4800,38.0,9.0,True
+10,Paradox,spirit,6400,45.0,9.0,True
+10,Paradox,spirit,8000,52.0,10.0,True
+10,Paradox,spirit,11200,59.0,10.0,True
+10,Paradox,spirit,16000,66.0,10.0,True
+10,Paradox,spirit,22400,75.0,11.0,True
+10,Paradox,spirit,28800,100.0,11.0,True
+10,Paradox,vitality,800,9.0,7.0,True
+10,Paradox,vitality,1600,12.0,7.0,True
+10,Paradox,vitality,2400,15.0,8.0,True
+10,Paradox,vitality,3200,20.0,8.0,True
+10,Paradox,vitality,4800,38.0,9.0,True
+10,Paradox,vitality,6400,42.0,9.0,True
+10,Paradox,vitality,8000,46.0,10.0,True
+10,Paradox,vitality,11200,50.0,10.0,True
+10,Paradox,vitality,16000,54.0,10.0,True
+10,Paradox,vitality,22400,60.0,11.0,True
+10,Paradox,vitality,28800,66.0,11.0,True
+10,Paradox,weapon,800,9.0,7.0,True
+10,Paradox,weapon,1600,12.0,7.0,True
+10,Paradox,weapon,2400,15.0,8.0,True
+10,Paradox,weapon,3200,18.0,8.0,True
+10,Paradox,weapon,4800,46.0,9.0,True
+10,Paradox,weapon,6400,54.0,9.0,True
+10,Paradox,weapon,8000,62.0,10.0,True
+10,Paradox,weapon,11200,74.0,10.0,True
+10,Paradox,weapon,16000,86.0,10.0,True
+10,Paradox,weapon,22400,100.0,11.0,True
+10,Paradox,weapon,28800,115.0,11.0,True
+50,Pocket,spirit,800,7.0,7.0,True
+50,Pocket,spirit,1600,11.0,7.0,True
+50,Pocket,spirit,2400,15.0,8.0,True
+50,Pocket,spirit,3200,19.0,8.0,True
+50,Pocket,spirit,4800,38.0,9.0,True
+50,Pocket,spirit,6400,45.0,9.0,True
+50,Pocket,spirit,8000,52.0,10.0,True
+50,Pocket,spirit,11200,59.0,10.0,True
+50,Pocket,spirit,16000,66.0,10.0,True
+50,Pocket,spirit,22400,75.0,11.0,True
+50,Pocket,spirit,28800,100.0,11.0,True
+50,Pocket,vitality,800,9.0,7.0,True
+50,Pocket,vitality,1600,12.0,7.0,True
+50,Pocket,vitality,2400,15.0,8.0,True
+50,Pocket,vitality,3200,20.0,8.0,True
+50,Pocket,vitality,4800,38.0,9.0,True
+50,Pocket,vitality,6400,42.0,9.0,True
+50,Pocket,vitality,8000,46.0,10.0,True
+50,Pocket,vitality,11200,50.0,10.0,True
+50,Pocket,vitality,16000,54.0,10.0,True
+50,Pocket,vitality,22400,60.0,11.0,True
+50,Pocket,vitality,28800,66.0,11.0,True
+50,Pocket,weapon,800,9.0,7.0,True
+50,Pocket,weapon,1600,12.0,7.0,True
+50,Pocket,weapon,2400,15.0,8.0,True
+50,Pocket,weapon,3200,18.0,8.0,True
+50,Pocket,weapon,4800,46.0,9.0,True
+50,Pocket,weapon,6400,54.0,9.0,True
+50,Pocket,weapon,8000,62.0,10.0,True
+50,Pocket,weapon,11200,74.0,10.0,True
+50,Pocket,weapon,16000,86.0,10.0,True
+50,Pocket,weapon,22400,100.0,11.0,True
+50,Pocket,weapon,28800,115.0,11.0,True
+79,Rem,spirit,800,7.0,7.0,True
+79,Rem,spirit,1600,11.0,7.0,True
+79,Rem,spirit,2400,15.0,8.0,True
+79,Rem,spirit,3200,19.0,8.0,True
+79,Rem,spirit,4800,38.0,9.0,True
+79,Rem,spirit,6400,45.0,9.0,True
+79,Rem,spirit,8000,52.0,10.0,True
+79,Rem,spirit,11200,59.0,10.0,True
+79,Rem,spirit,16000,66.0,10.0,True
+79,Rem,spirit,22400,75.0,11.0,True
+79,Rem,spirit,28800,100.0,11.0,True
+79,Rem,vitality,800,9.0,7.0,True
+79,Rem,vitality,1600,12.0,7.0,True
+79,Rem,vitality,2400,15.0,8.0,True
+79,Rem,vitality,3200,20.0,8.0,True
+79,Rem,vitality,4800,38.0,9.0,True
+79,Rem,vitality,6400,42.0,9.0,True
+79,Rem,vitality,8000,46.0,10.0,True
+79,Rem,vitality,11200,50.0,10.0,True
+79,Rem,vitality,16000,54.0,10.0,True
+79,Rem,vitality,22400,60.0,11.0,True
+79,Rem,vitality,28800,66.0,11.0,True
+79,Rem,weapon,800,9.0,7.0,True
+79,Rem,weapon,1600,12.0,7.0,True
+79,Rem,weapon,2400,15.0,8.0,True
+79,Rem,weapon,3200,18.0,8.0,True
+79,Rem,weapon,4800,46.0,9.0,True
+79,Rem,weapon,6400,54.0,9.0,True
+79,Rem,weapon,8000,62.0,10.0,True
+79,Rem,weapon,11200,74.0,10.0,True
+79,Rem,weapon,16000,86.0,10.0,True
+79,Rem,weapon,22400,100.0,11.0,True
+79,Rem,weapon,28800,115.0,11.0,True
+2,Seven,spirit,800,7.0,7.0,True
+2,Seven,spirit,1600,11.0,7.0,True
+2,Seven,spirit,2400,15.0,8.0,True
+2,Seven,spirit,3200,19.0,8.0,True
+2,Seven,spirit,4800,38.0,9.0,True
+2,Seven,spirit,6400,45.0,9.0,True
+2,Seven,spirit,8000,52.0,10.0,True
+2,Seven,spirit,11200,59.0,10.0,True
+2,Seven,spirit,16000,66.0,10.0,True
+2,Seven,spirit,22400,75.0,11.0,True
+2,Seven,spirit,28800,100.0,11.0,True
+2,Seven,vitality,800,9.0,7.0,True
+2,Seven,vitality,1600,12.0,7.0,True
+2,Seven,vitality,2400,15.0,8.0,True
+2,Seven,vitality,3200,20.0,8.0,True
+2,Seven,vitality,4800,38.0,9.0,True
+2,Seven,vitality,6400,42.0,9.0,True
+2,Seven,vitality,8000,46.0,10.0,True
+2,Seven,vitality,11200,50.0,10.0,True
+2,Seven,vitality,16000,54.0,10.0,True
+2,Seven,vitality,22400,60.0,11.0,True
+2,Seven,vitality,28800,66.0,11.0,True
+2,Seven,weapon,800,9.0,7.0,True
+2,Seven,weapon,1600,12.0,7.0,True
+2,Seven,weapon,2400,15.0,8.0,True
+2,Seven,weapon,3200,18.0,8.0,True
+2,Seven,weapon,4800,46.0,9.0,True
+2,Seven,weapon,6400,54.0,9.0,True
+2,Seven,weapon,8000,62.0,10.0,True
+2,Seven,weapon,11200,74.0,10.0,True
+2,Seven,weapon,16000,86.0,10.0,True
+2,Seven,weapon,22400,100.0,11.0,True
+2,Seven,weapon,28800,115.0,11.0,True
+19,Shiv,spirit,800,7.0,7.0,True
+19,Shiv,spirit,1600,11.0,7.0,True
+19,Shiv,spirit,2400,15.0,8.0,True
+19,Shiv,spirit,3200,19.0,8.0,True
+19,Shiv,spirit,4800,38.0,9.0,True
+19,Shiv,spirit,6400,45.0,9.0,True
+19,Shiv,spirit,8000,52.0,10.0,True
+19,Shiv,spirit,11200,59.0,10.0,True
+19,Shiv,spirit,16000,66.0,10.0,True
+19,Shiv,spirit,22400,75.0,11.0,True
+19,Shiv,spirit,28800,100.0,11.0,True
+19,Shiv,vitality,800,9.0,7.0,True
+19,Shiv,vitality,1600,12.0,7.0,True
+19,Shiv,vitality,2400,15.0,8.0,True
+19,Shiv,vitality,3200,20.0,8.0,True
+19,Shiv,vitality,4800,38.0,9.0,True
+19,Shiv,vitality,6400,42.0,9.0,True
+19,Shiv,vitality,8000,46.0,10.0,True
+19,Shiv,vitality,11200,50.0,10.0,True
+19,Shiv,vitality,16000,54.0,10.0,True
+19,Shiv,vitality,22400,60.0,11.0,True
+19,Shiv,vitality,28800,66.0,11.0,True
+19,Shiv,weapon,800,9.0,7.0,True
+19,Shiv,weapon,1600,12.0,7.0,True
+19,Shiv,weapon,2400,15.0,8.0,True
+19,Shiv,weapon,3200,18.0,8.0,True
+19,Shiv,weapon,4800,46.0,9.0,True
+19,Shiv,weapon,6400,54.0,9.0,True
+19,Shiv,weapon,8000,62.0,10.0,True
+19,Shiv,weapon,11200,74.0,10.0,True
+19,Shiv,weapon,16000,86.0,10.0,True
+19,Shiv,weapon,22400,100.0,11.0,True
+19,Shiv,weapon,28800,115.0,11.0,True
+80,Silver,spirit,800,7.0,7.0,True
+80,Silver,spirit,1600,11.0,7.0,True
+80,Silver,spirit,2400,15.0,8.0,True
+80,Silver,spirit,3200,19.0,8.0,True
+80,Silver,spirit,4800,38.0,9.0,True
+80,Silver,spirit,6400,45.0,9.0,True
+80,Silver,spirit,8000,52.0,10.0,True
+80,Silver,spirit,11200,59.0,10.0,True
+80,Silver,spirit,16000,66.0,10.0,True
+80,Silver,spirit,22400,75.0,11.0,True
+80,Silver,spirit,28800,100.0,11.0,True
+80,Silver,vitality,800,9.0,7.0,True
+80,Silver,vitality,1600,12.0,7.0,True
+80,Silver,vitality,2400,15.0,8.0,True
+80,Silver,vitality,3200,20.0,8.0,True
+80,Silver,vitality,4800,38.0,9.0,True
+80,Silver,vitality,6400,42.0,9.0,True
+80,Silver,vitality,8000,46.0,10.0,True
+80,Silver,vitality,11200,50.0,10.0,True
+80,Silver,vitality,16000,54.0,10.0,True
+80,Silver,vitality,22400,60.0,11.0,True
+80,Silver,vitality,28800,66.0,11.0,True
+80,Silver,weapon,800,9.0,7.0,True
+80,Silver,weapon,1600,12.0,7.0,True
+80,Silver,weapon,2400,15.0,8.0,True
+80,Silver,weapon,3200,18.0,8.0,True
+80,Silver,weapon,4800,46.0,9.0,True
+80,Silver,weapon,6400,54.0,9.0,True
+80,Silver,weapon,8000,62.0,10.0,True
+80,Silver,weapon,11200,74.0,10.0,True
+80,Silver,weapon,16000,86.0,10.0,True
+80,Silver,weapon,22400,100.0,11.0,True
+80,Silver,weapon,28800,115.0,11.0,True
+60,Sinclair,spirit,800,7.0,7.0,True
+60,Sinclair,spirit,1600,11.0,7.0,True
+60,Sinclair,spirit,2400,15.0,8.0,True
+60,Sinclair,spirit,3200,19.0,8.0,True
+60,Sinclair,spirit,4800,38.0,9.0,True
+60,Sinclair,spirit,6400,45.0,9.0,True
+60,Sinclair,spirit,8000,52.0,10.0,True
+60,Sinclair,spirit,11200,59.0,10.0,True
+60,Sinclair,spirit,16000,66.0,10.0,True
+60,Sinclair,spirit,22400,75.0,11.0,True
+60,Sinclair,spirit,28800,100.0,11.0,True
+60,Sinclair,vitality,800,9.0,7.0,True
+60,Sinclair,vitality,1600,12.0,7.0,True
+60,Sinclair,vitality,2400,15.0,8.0,True
+60,Sinclair,vitality,3200,20.0,8.0,True
+60,Sinclair,vitality,4800,38.0,9.0,True
+60,Sinclair,vitality,6400,42.0,9.0,True
+60,Sinclair,vitality,8000,46.0,10.0,True
+60,Sinclair,vitality,11200,50.0,10.0,True
+60,Sinclair,vitality,16000,54.0,10.0,True
+60,Sinclair,vitality,22400,60.0,11.0,True
+60,Sinclair,vitality,28800,66.0,11.0,True
+60,Sinclair,weapon,800,9.0,7.0,True
+60,Sinclair,weapon,1600,12.0,7.0,True
+60,Sinclair,weapon,2400,15.0,8.0,True
+60,Sinclair,weapon,3200,18.0,8.0,True
+60,Sinclair,weapon,4800,46.0,9.0,True
+60,Sinclair,weapon,6400,54.0,9.0,True
+60,Sinclair,weapon,8000,62.0,10.0,True
+60,Sinclair,weapon,11200,74.0,10.0,True
+60,Sinclair,weapon,16000,86.0,10.0,True
+60,Sinclair,weapon,22400,100.0,11.0,True
+60,Sinclair,weapon,28800,115.0,11.0,True
+69,The Doorman,spirit,800,7.0,7.0,True
+69,The Doorman,spirit,1600,11.0,7.0,True
+69,The Doorman,spirit,2400,15.0,8.0,True
+69,The Doorman,spirit,3200,19.0,8.0,True
+69,The Doorman,spirit,4800,38.0,9.0,True
+69,The Doorman,spirit,6400,45.0,9.0,True
+69,The Doorman,spirit,8000,52.0,10.0,True
+69,The Doorman,spirit,11200,59.0,10.0,True
+69,The Doorman,spirit,16000,66.0,10.0,True
+69,The Doorman,spirit,22400,75.0,11.0,True
+69,The Doorman,spirit,28800,100.0,11.0,True
+69,The Doorman,vitality,800,9.0,7.0,True
+69,The Doorman,vitality,1600,12.0,7.0,True
+69,The Doorman,vitality,2400,15.0,8.0,True
+69,The Doorman,vitality,3200,20.0,8.0,True
+69,The Doorman,vitality,4800,38.0,9.0,True
+69,The Doorman,vitality,6400,42.0,9.0,True
+69,The Doorman,vitality,8000,46.0,10.0,True
+69,The Doorman,vitality,11200,50.0,10.0,True
+69,The Doorman,vitality,16000,54.0,10.0,True
+69,The Doorman,vitality,22400,60.0,11.0,True
+69,The Doorman,vitality,28800,66.0,11.0,True
+69,The Doorman,weapon,800,9.0,7.0,True
+69,The Doorman,weapon,1600,12.0,7.0,True
+69,The Doorman,weapon,2400,15.0,8.0,True
+69,The Doorman,weapon,3200,18.0,8.0,True
+69,The Doorman,weapon,4800,46.0,9.0,True
+69,The Doorman,weapon,6400,54.0,9.0,True
+69,The Doorman,weapon,8000,62.0,10.0,True
+69,The Doorman,weapon,11200,74.0,10.0,True
+69,The Doorman,weapon,16000,86.0,10.0,True
+69,The Doorman,weapon,22400,100.0,11.0,True
+69,The Doorman,weapon,28800,115.0,11.0,True
+65,Venator,spirit,800,7.0,7.0,True
+65,Venator,spirit,1600,11.0,7.0,True
+65,Venator,spirit,2400,15.0,8.0,True
+65,Venator,spirit,3200,19.0,8.0,True
+65,Venator,spirit,4800,38.0,9.0,True
+65,Venator,spirit,6400,45.0,9.0,True
+65,Venator,spirit,8000,52.0,10.0,True
+65,Venator,spirit,11200,59.0,10.0,True
+65,Venator,spirit,16000,66.0,10.0,True
+65,Venator,spirit,22400,75.0,11.0,True
+65,Venator,spirit,28800,100.0,11.0,True
+65,Venator,vitality,800,9.0,7.0,True
+65,Venator,vitality,1600,12.0,7.0,True
+65,Venator,vitality,2400,15.0,8.0,True
+65,Venator,vitality,3200,20.0,8.0,True
+65,Venator,vitality,4800,38.0,9.0,True
+65,Venator,vitality,6400,42.0,9.0,True
+65,Venator,vitality,8000,46.0,10.0,True
+65,Venator,vitality,11200,50.0,10.0,True
+65,Venator,vitality,16000,54.0,10.0,True
+65,Venator,vitality,22400,60.0,11.0,True
+65,Venator,vitality,28800,66.0,11.0,True
+65,Venator,weapon,800,9.0,7.0,True
+65,Venator,weapon,1600,12.0,7.0,True
+65,Venator,weapon,2400,15.0,8.0,True
+65,Venator,weapon,3200,18.0,8.0,True
+65,Venator,weapon,4800,46.0,9.0,True
+65,Venator,weapon,6400,54.0,9.0,True
+65,Venator,weapon,8000,62.0,10.0,True
+65,Venator,weapon,11200,74.0,10.0,True
+65,Venator,weapon,16000,86.0,10.0,True
+65,Venator,weapon,22400,100.0,11.0,True
+65,Venator,weapon,28800,115.0,11.0,True
+66,Victor,spirit,800,7.0,7.0,True
+66,Victor,spirit,1600,11.0,7.0,True
+66,Victor,spirit,2400,15.0,8.0,True
+66,Victor,spirit,3200,19.0,8.0,True
+66,Victor,spirit,4800,38.0,9.0,True
+66,Victor,spirit,6400,45.0,9.0,True
+66,Victor,spirit,8000,52.0,10.0,True
+66,Victor,spirit,11200,59.0,10.0,True
+66,Victor,spirit,16000,66.0,10.0,True
+66,Victor,spirit,22400,75.0,11.0,True
+66,Victor,spirit,28800,100.0,11.0,True
+66,Victor,vitality,800,9.0,7.0,True
+66,Victor,vitality,1600,12.0,7.0,True
+66,Victor,vitality,2400,15.0,8.0,True
+66,Victor,vitality,3200,20.0,8.0,True
+66,Victor,vitality,4800,38.0,9.0,True
+66,Victor,vitality,6400,42.0,9.0,True
+66,Victor,vitality,8000,46.0,10.0,True
+66,Victor,vitality,11200,50.0,10.0,True
+66,Victor,vitality,16000,54.0,10.0,True
+66,Victor,vitality,22400,60.0,11.0,True
+66,Victor,vitality,28800,66.0,11.0,True
+66,Victor,weapon,800,9.0,7.0,True
+66,Victor,weapon,1600,12.0,7.0,True
+66,Victor,weapon,2400,15.0,8.0,True
+66,Victor,weapon,3200,18.0,8.0,True
+66,Victor,weapon,4800,46.0,9.0,True
+66,Victor,weapon,6400,54.0,9.0,True
+66,Victor,weapon,8000,62.0,10.0,True
+66,Victor,weapon,11200,74.0,10.0,True
+66,Victor,weapon,16000,86.0,10.0,True
+66,Victor,weapon,22400,100.0,11.0,True
+66,Victor,weapon,28800,115.0,11.0,True
+3,Vindicta,spirit,800,7.0,7.0,True
+3,Vindicta,spirit,1600,11.0,7.0,True
+3,Vindicta,spirit,2400,15.0,8.0,True
+3,Vindicta,spirit,3200,19.0,8.0,True
+3,Vindicta,spirit,4800,38.0,9.0,True
+3,Vindicta,spirit,6400,45.0,9.0,True
+3,Vindicta,spirit,8000,52.0,10.0,True
+3,Vindicta,spirit,11200,59.0,10.0,True
+3,Vindicta,spirit,16000,66.0,10.0,True
+3,Vindicta,spirit,22400,75.0,11.0,True
+3,Vindicta,spirit,28800,100.0,11.0,True
+3,Vindicta,vitality,800,9.0,7.0,True
+3,Vindicta,vitality,1600,12.0,7.0,True
+3,Vindicta,vitality,2400,15.0,8.0,True
+3,Vindicta,vitality,3200,20.0,8.0,True
+3,Vindicta,vitality,4800,38.0,9.0,True
+3,Vindicta,vitality,6400,42.0,9.0,True
+3,Vindicta,vitality,8000,46.0,10.0,True
+3,Vindicta,vitality,11200,50.0,10.0,True
+3,Vindicta,vitality,16000,54.0,10.0,True
+3,Vindicta,vitality,22400,60.0,11.0,True
+3,Vindicta,vitality,28800,66.0,11.0,True
+3,Vindicta,weapon,800,9.0,7.0,True
+3,Vindicta,weapon,1600,12.0,7.0,True
+3,Vindicta,weapon,2400,15.0,8.0,True
+3,Vindicta,weapon,3200,18.0,8.0,True
+3,Vindicta,weapon,4800,46.0,9.0,True
+3,Vindicta,weapon,6400,54.0,9.0,True
+3,Vindicta,weapon,8000,62.0,10.0,True
+3,Vindicta,weapon,11200,74.0,10.0,True
+3,Vindicta,weapon,16000,86.0,10.0,True
+3,Vindicta,weapon,22400,100.0,11.0,True
+3,Vindicta,weapon,28800,115.0,11.0,True
+35,Viscous,spirit,800,7.0,7.0,True
+35,Viscous,spirit,1600,11.0,7.0,True
+35,Viscous,spirit,2400,15.0,8.0,True
+35,Viscous,spirit,3200,19.0,8.0,True
+35,Viscous,spirit,4800,38.0,9.0,True
+35,Viscous,spirit,6400,45.0,9.0,True
+35,Viscous,spirit,8000,52.0,10.0,True
+35,Viscous,spirit,11200,59.0,10.0,True
+35,Viscous,spirit,16000,66.0,10.0,True
+35,Viscous,spirit,22400,75.0,11.0,True
+35,Viscous,spirit,28800,100.0,11.0,True
+35,Viscous,vitality,800,9.0,7.0,True
+35,Viscous,vitality,1600,12.0,7.0,True
+35,Viscous,vitality,2400,15.0,8.0,True
+35,Viscous,vitality,3200,20.0,8.0,True
+35,Viscous,vitality,4800,38.0,9.0,True
+35,Viscous,vitality,6400,42.0,9.0,True
+35,Viscous,vitality,8000,46.0,10.0,True
+35,Viscous,vitality,11200,50.0,10.0,True
+35,Viscous,vitality,16000,54.0,10.0,True
+35,Viscous,vitality,22400,60.0,11.0,True
+35,Viscous,vitality,28800,66.0,11.0,True
+35,Viscous,weapon,800,9.0,7.0,True
+35,Viscous,weapon,1600,12.0,7.0,True
+35,Viscous,weapon,2400,15.0,8.0,True
+35,Viscous,weapon,3200,18.0,8.0,True
+35,Viscous,weapon,4800,46.0,9.0,True
+35,Viscous,weapon,6400,54.0,9.0,True
+35,Viscous,weapon,8000,62.0,10.0,True
+35,Viscous,weapon,11200,74.0,10.0,True
+35,Viscous,weapon,16000,86.0,10.0,True
+35,Viscous,weapon,22400,100.0,11.0,True
+35,Viscous,weapon,28800,115.0,11.0,True
+58,Vyper,spirit,800,7.0,7.0,True
+58,Vyper,spirit,1600,11.0,7.0,True
+58,Vyper,spirit,2400,15.0,8.0,True
+58,Vyper,spirit,3200,19.0,8.0,True
+58,Vyper,spirit,4800,38.0,9.0,True
+58,Vyper,spirit,6400,45.0,9.0,True
+58,Vyper,spirit,8000,52.0,10.0,True
+58,Vyper,spirit,11200,59.0,10.0,True
+58,Vyper,spirit,16000,66.0,10.0,True
+58,Vyper,spirit,22400,75.0,11.0,True
+58,Vyper,spirit,28800,100.0,11.0,True
+58,Vyper,vitality,800,9.0,7.0,True
+58,Vyper,vitality,1600,12.0,7.0,True
+58,Vyper,vitality,2400,15.0,8.0,True
+58,Vyper,vitality,3200,20.0,8.0,True
+58,Vyper,vitality,4800,38.0,9.0,True
+58,Vyper,vitality,6400,42.0,9.0,True
+58,Vyper,vitality,8000,46.0,10.0,True
+58,Vyper,vitality,11200,50.0,10.0,True
+58,Vyper,vitality,16000,54.0,10.0,True
+58,Vyper,vitality,22400,60.0,11.0,True
+58,Vyper,vitality,28800,66.0,11.0,True
+58,Vyper,weapon,800,9.0,7.0,True
+58,Vyper,weapon,1600,12.0,7.0,True
+58,Vyper,weapon,2400,15.0,8.0,True
+58,Vyper,weapon,3200,18.0,8.0,True
+58,Vyper,weapon,4800,46.0,9.0,True
+58,Vyper,weapon,6400,54.0,9.0,True
+58,Vyper,weapon,8000,62.0,10.0,True
+58,Vyper,weapon,11200,74.0,10.0,True
+58,Vyper,weapon,16000,86.0,10.0,True
+58,Vyper,weapon,22400,100.0,11.0,True
+58,Vyper,weapon,28800,115.0,11.0,True
+25,Warden,spirit,800,7.0,7.0,True
+25,Warden,spirit,1600,11.0,7.0,True
+25,Warden,spirit,2400,15.0,8.0,True
+25,Warden,spirit,3200,19.0,8.0,True
+25,Warden,spirit,4800,38.0,9.0,True
+25,Warden,spirit,6400,45.0,9.0,True
+25,Warden,spirit,8000,52.0,10.0,True
+25,Warden,spirit,11200,59.0,10.0,True
+25,Warden,spirit,16000,66.0,10.0,True
+25,Warden,spirit,22400,75.0,11.0,True
+25,Warden,spirit,28800,100.0,11.0,True
+25,Warden,vitality,800,9.0,7.0,True
+25,Warden,vitality,1600,12.0,7.0,True
+25,Warden,vitality,2400,15.0,8.0,True
+25,Warden,vitality,3200,20.0,8.0,True
+25,Warden,vitality,4800,38.0,9.0,True
+25,Warden,vitality,6400,42.0,9.0,True
+25,Warden,vitality,8000,46.0,10.0,True
+25,Warden,vitality,11200,50.0,10.0,True
+25,Warden,vitality,16000,54.0,10.0,True
+25,Warden,vitality,22400,60.0,11.0,True
+25,Warden,vitality,28800,66.0,11.0,True
+25,Warden,weapon,800,9.0,7.0,True
+25,Warden,weapon,1600,12.0,7.0,True
+25,Warden,weapon,2400,15.0,8.0,True
+25,Warden,weapon,3200,18.0,8.0,True
+25,Warden,weapon,4800,46.0,9.0,True
+25,Warden,weapon,6400,54.0,9.0,True
+25,Warden,weapon,8000,62.0,10.0,True
+25,Warden,weapon,11200,74.0,10.0,True
+25,Warden,weapon,16000,86.0,10.0,True
+25,Warden,weapon,22400,100.0,11.0,True
+25,Warden,weapon,28800,115.0,11.0,True
+7,Wraith,spirit,800,7.0,7.0,True
+7,Wraith,spirit,1600,11.0,7.0,True
+7,Wraith,spirit,2400,15.0,8.0,True
+7,Wraith,spirit,3200,19.0,8.0,True
+7,Wraith,spirit,4800,38.0,9.0,True
+7,Wraith,spirit,6400,45.0,9.0,True
+7,Wraith,spirit,8000,52.0,10.0,True
+7,Wraith,spirit,11200,59.0,10.0,True
+7,Wraith,spirit,16000,66.0,10.0,True
+7,Wraith,spirit,22400,75.0,11.0,True
+7,Wraith,spirit,28800,100.0,11.0,True
+7,Wraith,vitality,800,9.0,7.0,True
+7,Wraith,vitality,1600,12.0,7.0,True
+7,Wraith,vitality,2400,15.0,8.0,True
+7,Wraith,vitality,3200,20.0,8.0,True
+7,Wraith,vitality,4800,38.0,9.0,True
+7,Wraith,vitality,6400,42.0,9.0,True
+7,Wraith,vitality,8000,46.0,10.0,True
+7,Wraith,vitality,11200,50.0,10.0,True
+7,Wraith,vitality,16000,54.0,10.0,True
+7,Wraith,vitality,22400,60.0,11.0,True
+7,Wraith,vitality,28800,66.0,11.0,True
+7,Wraith,weapon,800,9.0,7.0,True
+7,Wraith,weapon,1600,12.0,7.0,True
+7,Wraith,weapon,2400,15.0,8.0,True
+7,Wraith,weapon,3200,18.0,8.0,True
+7,Wraith,weapon,4800,46.0,9.0,True
+7,Wraith,weapon,6400,54.0,9.0,True
+7,Wraith,weapon,8000,62.0,10.0,True
+7,Wraith,weapon,11200,74.0,10.0,True
+7,Wraith,weapon,16000,86.0,10.0,True
+7,Wraith,weapon,22400,100.0,11.0,True
+7,Wraith,weapon,28800,115.0,11.0,True
+27,Yamato,spirit,800,7.0,7.0,True
+27,Yamato,spirit,1600,11.0,7.0,True
+27,Yamato,spirit,2400,15.0,8.0,True
+27,Yamato,spirit,3200,19.0,8.0,True
+27,Yamato,spirit,4800,38.0,9.0,True
+27,Yamato,spirit,6400,45.0,9.0,True
+27,Yamato,spirit,8000,52.0,10.0,True
+27,Yamato,spirit,11200,59.0,10.0,True
+27,Yamato,spirit,16000,66.0,10.0,True
+27,Yamato,spirit,22400,75.0,11.0,True
+27,Yamato,spirit,28800,100.0,11.0,True
+27,Yamato,vitality,800,9.0,7.0,True
+27,Yamato,vitality,1600,12.0,7.0,True
+27,Yamato,vitality,2400,15.0,8.0,True
+27,Yamato,vitality,3200,20.0,8.0,True
+27,Yamato,vitality,4800,38.0,9.0,True
+27,Yamato,vitality,6400,42.0,9.0,True
+27,Yamato,vitality,8000,46.0,10.0,True
+27,Yamato,vitality,11200,50.0,10.0,True
+27,Yamato,vitality,16000,54.0,10.0,True
+27,Yamato,vitality,22400,60.0,11.0,True
+27,Yamato,vitality,28800,66.0,11.0,True
+27,Yamato,weapon,800,9.0,7.0,True
+27,Yamato,weapon,1600,12.0,7.0,True
+27,Yamato,weapon,2400,15.0,8.0,True
+27,Yamato,weapon,3200,18.0,8.0,True
+27,Yamato,weapon,4800,46.0,9.0,True
+27,Yamato,weapon,6400,54.0,9.0,True
+27,Yamato,weapon,8000,62.0,10.0,True
+27,Yamato,weapon,11200,74.0,10.0,True
+27,Yamato,weapon,16000,86.0,10.0,True
+27,Yamato,weapon,22400,100.0,11.0,True
+27,Yamato,weapon,28800,115.0,11.0,True

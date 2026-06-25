@@ -1,0 +1,15 @@
+﻿hero_id,hero_name,target_stat,scaling_stat,scale,active_selectable
+17,Grey Talon,EBulletDamage,ETechPower,0.08,True
+17,Grey Talon,EMaxMoveSpeed,ETechPower,0.0084,True
+13,Haze,EClipSize,ETechPower,0.5,True
+67,Paige,EHeavyMeleeDamage,ETechPower,0.3,True
+60,Sinclair,EMaxMoveSpeed,ETechPower,0.0138,True
+65,Venator,EBulletArmorDamageReduction,ETechPower,0.12178,True
+65,Venator,ETechArmorDamageReduction,ETechPower,0.12178,True
+66,Victor,EBaseHealthRegen,ETechPower,0.08,True
+3,Vindicta,EBulletDamage,ETechPower,0.022,True
+58,Vyper,EMaxMoveSpeed,ETechPower,0.0138,True
+25,Warden,EFireRate,ETechPower,0.25,True
+25,Warden,ERoundsPerSecond,ETechPower,0.01,True
+7,Wraith,ESprintSpeed,ETechPower,0.05,True
+27,Yamato,EClipSize,ETechPower,0.15,True

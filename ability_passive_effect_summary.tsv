@@ -1,0 +1,5 @@
+heroName	slot	abilityName	source	label	target	mode	value	scaleWithSpirit	requiredState	application	includeInCurve	usageFlags
+Abrams	signature3	Infernal Resilience	Base	Health Regen	health_regen_add	flat	1.0	0.0	1	passive_unconditional	True	IntrinsicallyProvidedInAbility
+Abrams	signature3	Infernal Resilience	T1	Max Health	max_health_add	flat	200.0	0.0	2	passive_unconditional	True	IntrinsicallyProvidedInAbility
+Kelvin	signature2	Ice Path	T3	Spirit Power	spirit_power_add	flat	20.0	0.0	4	passive_unconditional	True	IntrinsicallyProvidedInAbility
+Lady Geist	signature4	Soul Exchange	T3	Spirit Power	spirit_power_add	flat	60.0	0.0	4	passive_unconditional	True	IntrinsicallyProvidedInAbility

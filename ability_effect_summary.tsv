@@ -1,0 +1,142 @@
+heroName	slot	abilityName	source	label	target	mode	value	scaleWithSpirit	requiredState	application	includeInCurve	usageFlags
+Abrams	signature2	Shoulder Charge	T3	Weapon Damage	bullet_damage_add	flat	1.5	0.0	4	conditional_active	False	ConditionallyApplied
+Abrams	signature3	Infernal Resilience	Base	Health Regen	health_regen_add	flat	1.0	0.0	1	passive_unconditional	True	IntrinsicallyProvidedInAbility
+Abrams	signature3	Infernal Resilience	T1	Max Health	max_health_add	flat	200.0	0.0	2	passive_unconditional	True	IntrinsicallyProvidedInAbility
+Apollo	signature1	Disengaging Sigil	T1	Fire Rate	fire_rate_pct	percent	25.0	0.0	2	conditional_active	False	ConditionallyApplied
+Apollo	signature1	Disengaging Sigil	T1	Bullet Velocity	bullet_speed_pct	percent	25.0	0.0	2	conditional_active	False	ConditionallyApplied
+Apollo	signature3	Flawless Advance	T2	Bullet Resist	bullet_armor_add	flat	60.0	0.0	3	active_or_contextual	False	
+Bebop	signature1	Exploding Uppercut	Base	Fire Rate	fire_rate_pct	percent	-14.0	0.0	1	conditional_active	False	ConditionallyEnemyApplied
+Bebop	signature1	Exploding Uppercut	T2	BuffBaseWeaponPct	weapon_damage_pct	percent	30.0	0.0	3	conditional_active	False	ConditionallyApplied
+Bebop	signature2	Sticky Bomb	T3	MovementSpeedBonus	move_speed_add	flat	5.0	0.0	4	conditional_active	False	ConditionallyApplied
+Billy	signature3	Blasted	T1	Move Speed	move_speed_add	flat	2.25	0.0	2	conditional_active	False	ConditionallyApplied
+Billy	signature4	Chain Gang	T1	Bullet Resist	bullet_armor_add	flat	40.0	0.0	2	active_or_contextual	False	
+Billy	signature4	Chain Gang	T1	Spirit Resist	spirit_armor_add	flat	40.0	0.0	2	active_or_contextual	False	
+Calico	signature3	Ava	Base	Max Move Speed	move_speed_pct	percent	65.0	0.0	1	active_or_contextual	False	
+Calico	signature3	Ava	T2	Max Move Speed	move_speed_pct	percent	45.0	0.0	3	active_or_contextual	False	
+Calico	signature3	Ava	T2	Health Regen	health_regen_add	flat	15.0	0.0	3	active_or_contextual	False	
+Calico	signature4	Return to Shadows	Base	Move Speed	move_speed_pct	percent	20.0	0.0	1	active_or_contextual	False	
+Calico	signature4	Return to Shadows	T2	Move Speed	move_speed_pct	percent	20.0	0.0	3	active_or_contextual	False	
+Celeste	signature2	Dazzling Trick	Base	Barrier	barrier_add	flat	100.0	0.0	1	active_or_contextual	False	
+Celeste	signature2	Dazzling Trick	T1	Move Speed	move_speed_add	flat	3.5	0.0	2	active_or_contextual	False	
+Celeste	signature2	Dazzling Trick	T2	Barrier	barrier_add	flat	80.0	0.0	3	active_or_contextual	False	
+Celeste	signature2	Dazzling Trick	T2	Barrier	barrier_add	flat	0.0	0.7	3	active_or_contextual	False	
+Celeste	signature3	Radiant Daggers	T3	Fire Rate per Stack	fire_rate_pct	percent	9.0	0.0	4	stack_or_kill_assumption	False	
+Drifter	signature3	Bloodscent	Base	Permanent Weapon Damage	weapon_damage_pct	percent	3.0	0.0	1	conditional_active	False	ConditionallyApplied
+Drifter	signature3	Bloodscent	T1	Move Speed	move_speed_add	flat	2.0	0.0	2	conditional_active	False	ConditionallyApplied
+Drifter	signature4	Eternal Night	Base	Sprint Speed	sprint_speed_add	flat	2.0	0.0	1	conditional_active	False	ConditionallyApplied
+Drifter	signature4	Eternal Night	T1	Sprint Speed	sprint_speed_add	flat	10.0	0.0	2	conditional_active	False	ConditionallyApplied
+Dynamo	signature3	Rejuvenating Aurora	T1	MovementSpeedBonus	move_speed_add	flat	4.0	0.0	2	conditional_active	False	ConditionallyApplied
+Graves	signature4	Borrowed Decree	T2	MoveSpeedPercent	move_speed_pct	percent	25.0	0.0	3	active_or_contextual	False	
+Grey Talon	signature2	Rain of Arrows	Base	Weapon Damage	bullet_damage_add	flat	3.0	0.0	1	conditional_active	False	ConditionallyApplied
+Grey Talon	signature2	Rain of Arrows	T1	Weapon Damage	bullet_damage_add	flat	3.0	0.0	2	conditional_active	False	ConditionallyApplied
+Haze	signature2	Smoke Bomb	T1	Invis Sprint Speed	sprint_speed_add	flat	7.0	0.0	2	active_or_contextual	False	
+Haze	signature3	Fixation	Base	Weapon Damage	bullet_damage_add	flat	0.2	0.0	1	stack_or_kill_assumption	False	
+Haze	signature3	Fixation	T3	Weapon Damage	bullet_damage_add	flat	0.14	0.0	4	stack_or_kill_assumption	False	
+Haze	signature4	Bullet Dance	Base	Fire Rate	fire_rate_pct	percent	25.0	0.0	1	conditional_active	False	ConditionallyApplied
+Haze	signature4	Bullet Dance	Base	Bullet Damage	bullet_damage_add	flat	7.0	0.0	1	active_or_contextual	False	
+Haze	signature4	Bullet Dance	T1	Bullet Damage	bullet_damage_add	flat	7.0	0.0	2	active_or_contextual	False	
+Haze	signature4	Bullet Dance	T2	Fire Rate	fire_rate_pct	percent	10.0	0.0	3	conditional_active	False	ConditionallyApplied
+Holliday	signature2	Bounce Pad	T2	SpeedOnLand	move_speed_add	flat	4.0	0.0	3	conditional_active	False	ConditionallyApplied
+Ivy	signature2	Kudzu Connection	Base	Fire Rate	fire_rate_pct	percent	10.0	0.0	1	conditional_active	False	ConditionallyApplied
+Ivy	signature2	Kudzu Connection	T1	Move Speed	move_speed_add	flat	2.0	0.0	2	conditional_active	False	ConditionallyApplied
+Ivy	signature2	Kudzu Connection	T2	Fire Rate	fire_rate_pct	percent	8.0	0.0	3	conditional_active	False	ConditionallyApplied
+Kelvin	signature2	Ice Path	Base	Move Speed	move_speed_add	flat	2.0	0.0	1	conditional_active	False	ConditionallyApplied
+Kelvin	signature2	Ice Path	Base	Sprint Speed	sprint_speed_add	flat	2.0	0.0	1	conditional_active	False	ConditionallyApplied
+Kelvin	signature2	Ice Path	T1	Move Speed	move_speed_add	flat	2.0	0.0	2	conditional_active	False	ConditionallyApplied
+Kelvin	signature2	Ice Path	T3	Spirit Power	spirit_power_add	flat	20.0	0.0	4	passive_unconditional	True	IntrinsicallyProvidedInAbility
+Kelvin	signature4	Frozen Shelter	Base	Health Regen	health_regen_add	flat	90.0	0.0	1	active_or_contextual	False	
+Kelvin	signature4	Frozen Shelter	T3	Health Regen	health_regen_add	flat	65.0	0.0	4	active_or_contextual	False	
+Kelvin	signature4	Frozen Shelter	T3	Health Regen	health_regen_add	flat	0.0	1.0	4	active_or_contextual	False	
+Lady Geist	signature4	Soul Exchange	T3	Spirit Resist	spirit_armor_add	flat	50.0	0.0	4	conditional_active	False	ConditionallyApplied
+Lady Geist	signature4	Soul Exchange	T3	Fire Rate	fire_rate_pct	percent	40.0	0.0	4	conditional_active	False	ConditionallyApplied
+Lady Geist	signature4	Soul Exchange	T3	Spirit Power	spirit_power_add	flat	60.0	0.0	4	passive_unconditional	True	IntrinsicallyProvidedInAbility
+Lash	signature2	Grapple	T2	Weapon Damage	bullet_damage_add	flat	7.0	0.0	3	conditional_active	False	ConditionallyApplied
+McGinnis	signature1	Mini Turret	Base	Spirit Resist	spirit_armor_add	flat	35.0	0.0	1	conditional_active	False	ConditionallyApplied
+McGinnis	signature2	Medicinal Specter	T1	SpiritResist	spirit_armor_add	flat	40.0	0.0	2	conditional_active	False	ConditionallyApplied
+Mina	signature2	Sanguine Retreat	T1	Fire Rate	fire_rate_pct	percent	25.0	0.0	2	active_or_contextual	False	
+Mina	signature2	Sanguine Retreat	T1	Bonus Bullets	clip_size_add	flat	8.0	0.0	2	active_or_contextual	False	
+Mina	signature3	Love Bites	T3	Fire Rate	fire_rate_pct	percent	25.0	0.0	4	active_or_contextual	False	
+Mirage	signature4	Traveler	T1	Move Speed	move_speed_add	flat	3.0	0.0	2	conditional_active	False	ConditionallyApplied
+Mirage	signature4	Traveler	T1	Fire Rate	fire_rate_pct	percent	20.0	0.0	2	conditional_active	False	ConditionallyApplied
+Mirage	signature4	Traveler	T2	Barrier	barrier_add	flat	400.0	0.0	3	active_or_contextual	False	
+Mirage	signature4	Traveler	T2	Barrier	barrier_add	flat	0.0	0.6	3	active_or_contextual	False	
+Mo & Krill	signature2	Burrow	Base	Move Speed	move_speed_add	flat	5.0	0.0	1	active_or_contextual	False	
+Mo & Krill	signature2	Burrow	Base	Bullet Resist	bullet_armor_add	flat	60.0	0.0	1	conditional_active	False	ConditionallyApplied
+Mo & Krill	signature2	Burrow	Base	Spirit Resist	spirit_armor_add	flat	30.0	0.0	1	conditional_active	False	ConditionallyApplied
+Mo & Krill	signature2	Burrow	T3	Move Speed	move_speed_add	flat	4.0	0.0	4	active_or_contextual	False	
+Mo & Krill	signature4	Combo	Base	Bonus Max Health Per Kill	max_health_add	flat	30.0	0.0	1	stack_or_kill_assumption	False	
+Mo & Krill	signature4	Combo	T2	Combo Bullet Resist	bullet_armor_add	flat	50.0	0.0	3	conditional_active	False	ConditionallyApplied
+Paige	signature2	Plot Armor	Base	Weapon Damage	weapon_damage_pct	percent	25.0	0.0	1	active_or_contextual	False	
+Paige	signature2	Plot Armor	Base	Barrier	barrier_add	flat	125.0	0.0	1	active_or_contextual	False	
+Paige	signature2	Plot Armor	T1	Fire Rate	fire_rate_pct	percent	14.0	0.0	2	active_or_contextual	False	
+Paige	signature2	Plot Armor	T1	Fire Rate	fire_rate_pct	percent	0.0	0.13	2	active_or_contextual	False	
+Paige	signature2	Plot Armor	T2	Barrier	barrier_add	flat	100.0	0.0	3	active_or_contextual	False	
+Paige	signature2	Plot Armor	T3	Barrier	barrier_add	flat	0.0	0.5	4	active_or_contextual	False	
+Paige	signature4	Rallying Charge	Base	Move Speed	move_speed_add	flat	5.0	0.0	1	active_or_contextual	False	
+Paradox	signature4	Paradoxical Swap	T1	Barrier	barrier_add	flat	200.0	0.0	2	active_or_contextual	False	
+Paradox	signature4	Paradoxical Swap	T1	Barrier	barrier_add	flat	0.0	1.5	2	active_or_contextual	False	
+Pocket	signature2	Flying Cloak	T2	Weapon Damage	bullet_damage_add	flat	5.0	0.0	3	conditional_active	False	ConditionallyApplied
+Rem	signature2	Tag Along	Base	Move Speed	move_speed_add	flat	4.0	0.0	1	active_or_contextual	False	
+Rem	signature2	Tag Along	T3	Spirit Power	spirit_power_pct	percent	15.0	0.0	4	active_or_contextual	False	
+Rem	signature2	Tag Along	T3	Bonus Spirit Power	spirit_power_add	flat	35.0	0.0	4	active_or_contextual	False	
+Rem	signature3	Lil Helpers	Base	Move Speed	move_speed_add	flat	3.0	0.0	1	active_or_contextual	False	
+Rem	signature3	Lil Helpers	Base	Spirit Resist	spirit_armor_add	flat	15.0	0.0	1	active_or_contextual	False	
+Rem	signature3	Lil Helpers	T2	Spirit Resist	spirit_armor_add	flat	8.0	0.0	3	active_or_contextual	False	
+Rem	signature3	Lil Helpers	T2	Move Speed	move_speed_add	flat	1.5	0.0	3	active_or_contextual	False	
+Seven	signature3	Power Surge	T2	Move Speed	move_speed_add	flat	3.0	0.0	3	conditional_active	False	ConditionallyApplied
+Seven	signature4	Storm Cloud	T1	Bullet Resist	bullet_armor_add	flat	55.0	0.0	2	conditional_active	False	ConditionallyApplied
+Shiv	signature4	Killing Blow	T1	Move Speed	move_speed_add	flat	2.0	0.0	2	conditional_active	False	ConditionallyApplied
+Silver	signature1	Slam Fire	Base	Fire Rate	fire_rate_pct	percent	300.0	0.0	1	active_or_contextual	False	
+Silver	signature1	Slam Fire	T1	Weapon Damage	weapon_damage_pct	percent	15.0	0.0	2	active_or_contextual	False	
+Silver	signature4	Lycan Curse	Base	Fire Rate	fire_rate_pct	percent	60.0	0.0	1	active_or_contextual	False	
+Silver	signature4	Lycan Curse	Base	Bonus Health	max_health_add	flat	125.0	0.0	1	active_or_contextual	False	
+Silver	signature4	Lycan Curse	Base	Move Speed	move_speed_add	flat	1.5	0.0	1	active_or_contextual	False	
+Silver	signature4	Lycan Curse	T1	Bullet Resist	bullet_armor_add	flat	20.0	0.0	2	active_or_contextual	False	
+Silver	signature4	Lycan Curse	T1	Spirit Resist	spirit_armor_add	flat	20.0	0.0	2	active_or_contextual	False	
+Silver	signature4	Lycan Curse	T2	Move Speed	move_speed_add	flat	4.0	0.0	3	active_or_contextual	False	
+Silver	signature4	Lycan Curse	T2	Bonus Health	max_health_add	flat	200.0	0.0	3	active_or_contextual	False	
+Sinclair	signature2	Spectral Assistant	T3	Fire Rate	fire_rate_pct	percent	60.0	0.0	4	conditional_active	False	ConditionallyApplied
+Sinclair	signature3	Rabbit Hex	Base	Move Speed bonus	move_speed_pct	percent	36.0	0.0	1	active_or_contextual	False	
+The Doorman	signature2	Doorway	T2	Barrier	barrier_add	flat	250.0	0.0	3	active_or_contextual	False	
+The Doorman	signature2	Doorway	T2	Barrier	barrier_add	flat	0.0	1.5	3	active_or_contextual	False	
+Venator	signature4	Ira Domini	T1	Move Speed	move_speed_add	flat	1.2	0.0	2	active_or_contextual	False	
+Victor	signature2	Jumpstart	Base	Move Speed	move_speed_add	flat	3.0	0.0	1	active_or_contextual	False	
+Victor	signature2	Jumpstart	Base	Total HP Regen	health_regen_add	flat	100.0	0.0	1	active_or_contextual	False	
+Victor	signature2	Jumpstart	T1	Move Speed	move_speed_add	flat	3.0	0.0	2	active_or_contextual	False	
+Victor	signature2	Jumpstart	T2	Total HP Regen	health_regen_add	flat	70.0	0.0	3	active_or_contextual	False	
+Victor	signature2	Jumpstart	T3	Total HP Regen	health_regen_add	flat	0.0	0.9	4	active_or_contextual	False	
+Victor	signature4	Shocking Reanimation	T1	Fire Rate	fire_rate_pct	percent	15.0	0.0	2	active_or_contextual	False	
+Vindicta	signature2	Flight	T1	Max Ammo	clip_size_pct	percent	50.0	0.0	2	conditional_active	False	ConditionallyApplied
+Vindicta	signature4	Assassinate	Base	Weapon Damage Per Kill	weapon_damage_pct	percent	6.0	0.0	1	stack_or_kill_assumption	False	IntrinsicallyProvidedInAbility
+Vindicta	signature4	Assassinate	T3	Weapon Damage Per Kill	weapon_damage_pct	percent	4.0	0.0	4	stack_or_kill_assumption	False	IntrinsicallyProvidedInAbility
+Viscous	signature2	The Cube	Base	Health Regen	health_regen_add	flat	40.0	0.0	1	active_or_contextual	False	
+Viscous	signature2	The Cube	T1	Move Speed	move_speed_add	flat	2.5	0.0	2	conditional_active	False	ConditionallyApplied
+Viscous	signature2	The Cube	T2	Health Regen	health_regen_add	flat	25.0	0.0	3	active_or_contextual	False	
+Viscous	signature4	Goo Ball	Base	Bullet Resist	bullet_armor_add	flat	35.0	0.0	1	conditional_active	False	ConditionallyApplied
+Viscous	signature4	Goo Ball	Base	Spirit Resist	spirit_armor_add	flat	35.0	0.0	1	conditional_active	False	ConditionallyApplied
+Viscous	signature4	Goo Ball	T2	Bullet Resist	bullet_armor_add	flat	10.0	0.0	3	conditional_active	False	ConditionallyApplied
+Viscous	signature4	Goo Ball	T2	Spirit Resist	spirit_armor_add	flat	10.0	0.0	3	conditional_active	False	ConditionallyApplied
+Vyper	signature3	Slither	T2	Stamina	stamina_add	flat	2.0	0.0	3	active_or_contextual	False	
+Vyper	signature3	Slither	T3	Barrier	barrier_add	flat	180.0	0.0	4	active_or_contextual	False	
+Vyper	signature3	Slither	T3	Barrier	barrier_add	flat	0.0	0.6	4	active_or_contextual	False	
+Warden	signature2	Willpower	Base	Barrier	barrier_add	flat	125.0	0.0	1	conditional_active	False	ConditionallyApplied
+Warden	signature2	Willpower	Base	Move Speed bonus	move_speed_pct	percent	15.0	0.0	1	active_or_contextual	False	
+Warden	signature2	Willpower	T1	Move Speed bonus	move_speed_pct	percent	20.0	0.0	2	active_or_contextual	False	
+Warden	signature2	Willpower	T3	Barrier	barrier_add	flat	0.0	2.5	4	conditional_active	False	ConditionallyApplied
+Warden	signature4	Last Stand	Base	Bullet Resist	bullet_armor_add	flat	50.0	0.0	1	conditional_active	False	ConditionallyApplied
+Warden	signature4	Last Stand	Base	Spirit Resist	spirit_armor_add	flat	50.0	0.0	1	conditional_active	False	ConditionallyApplied
+Warden	signature4	Last Stand	T3	Bullet Resist	bullet_armor_add	flat	30.0	0.0	4	conditional_active	False	ConditionallyApplied
+Warden	signature4	Last Stand	T3	Spirit Resist	spirit_armor_add	flat	30.0	0.0	4	conditional_active	False	ConditionallyApplied
+Wraith	signature2	Project Mind	T2	Barrier	barrier_add	flat	300.0	0.0	3	active_or_contextual	False	
+Wraith	signature2	Project Mind	T2	Barrier	barrier_add	flat	0.0	1.7	3	active_or_contextual	False	
+Wraith	signature3	Full Auto	Base	Fire Rate	fire_rate_pct	percent	20.0	0.0	1	conditional_active	False	ConditionallyApplied
+Wraith	signature3	Full Auto	T2	Fire Rate	fire_rate_pct	percent	10.0	0.0	3	conditional_active	False	ConditionallyApplied
+Yamato	signature1	Power Slash	Base	Bullet Resist	bullet_armor_add	flat	60.0	0.0	1	conditional_active	False	ConditionallyApplied
+Yamato	signature2	Flying Slash	T2	Bonus Spirit	spirit_power_add	flat	40.0	0.0	3	conditional_active	False	ConditionallyApplied
+Yamato	signature3	Crimson Slash	T1	BuffMeleeDamage	melee_damage_pct	percent	30.0	0.0	2	active_or_contextual	False	
+Yamato	signature4	Shadow Transformation	Base	Bullet Resist	bullet_armor_add	flat	30.0	0.0	1	conditional_active	False	ConditionallyApplied
+Yamato	signature4	Shadow Transformation	Base	Spirit Resist	spirit_armor_add	flat	30.0	0.0	1	conditional_active	False	ConditionallyApplied
+Yamato	signature4	Shadow Transformation	T1	Weapon Damage	bullet_damage_add	flat	7.0	0.0	2	conditional_active	False	ConditionallyApplied
+Yamato	signature4	Shadow Transformation	T2	Move Speed	move_speed_add	flat	4.0	0.0	3	conditional_active	False	ConditionallyApplied
+Yamato	signature4	Shadow Transformation	T3	Bullet Resist	bullet_armor_add	flat	30.0	0.0	4	conditional_active	False	ConditionallyApplied
+Yamato	signature4	Shadow Transformation	T3	Spirit Resist	spirit_armor_add	flat	30.0	0.0	4	conditional_active	False	ConditionallyApplied

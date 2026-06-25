@@ -1,0 +1,11 @@
+HTTP/1.1 200 Connection established
+
+HTTP/1.1 429 Too Many Requests
+cache-control: max-age=0, private, must-revalidate
+connection: close
+content-length: 17
+date: Thu, 25 Jun 2026 05:52:52 GMT
+server: Cowboy
+set-cookie: sid=1b800bf7-705a-11f1-bdc0-dd47bb06d82a; path=/; domain=.deadlocked.wiki; expires=Tue, 13 Jul 2094 09:07:00 GMT; max-age=2147483647; secure; HttpOnly
+
+Too many requests

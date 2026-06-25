@@ -1,0 +1,1182 @@
+﻿attribute_id,attribute,hero_a_id,hero_a,hero_b_id,hero_b,level,between_levels,value,is_level_1_tie
+bullet_armor_pct,Bullet Armor,6,Abrams,15,Bebop,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,6,Abrams,11,Dynamo,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,6,Abrams,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,77,Apollo,15,Bebop,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,77,Apollo,11,Dynamo,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,77,Apollo,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,72,Billy,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,16,Calico,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,81,Celeste,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,64,Drifter,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,11,Dynamo,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,76,Graves,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,17,Grey Talon,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,13,Haze,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,14,Holliday,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,1,Infernus,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,20,Ivy,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,12,Kelvin,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,4,Lady Geist,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,31,Lash,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,8,McGinnis,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,63,Mina,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,52,Mirage,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,18,Mo & Krill,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,67,Paige,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,10,Paradox,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,50,Pocket,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,79,Rem,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,2,Seven,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,19,Shiv,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,80,Silver,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,60,Sinclair,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,69,The Doorman,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,66,Victor,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,3,Vindicta,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,35,Viscous,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,58,Vyper,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,25,Warden,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,7,Wraith,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,15,Bebop,27,Yamato,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,72,Billy,11,Dynamo,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,72,Billy,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,16,Calico,11,Dynamo,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,16,Calico,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,81,Celeste,11,Dynamo,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,81,Celeste,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,64,Drifter,11,Dynamo,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,64,Drifter,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,76,Graves,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,17,Grey Talon,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,13,Haze,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,14,Holliday,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,1,Infernus,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,20,Ivy,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,12,Kelvin,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,4,Lady Geist,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,31,Lash,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,8,McGinnis,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,63,Mina,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,52,Mirage,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,18,Mo & Krill,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,67,Paige,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,10,Paradox,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,50,Pocket,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,79,Rem,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,2,Seven,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,19,Shiv,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,80,Silver,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,60,Sinclair,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,69,The Doorman,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,66,Victor,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,3,Vindicta,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,35,Viscous,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,58,Vyper,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,25,Warden,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,7,Wraith,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,11,Dynamo,27,Yamato,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,76,Graves,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,17,Grey Talon,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,13,Haze,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,14,Holliday,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,1,Infernus,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,20,Ivy,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,12,Kelvin,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,4,Lady Geist,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,31,Lash,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,8,McGinnis,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,63,Mina,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,52,Mirage,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,18,Mo & Krill,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,67,Paige,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,10,Paradox,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,50,Pocket,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,79,Rem,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,2,Seven,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,19,Shiv,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,80,Silver,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,60,Sinclair,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,69,The Doorman,65,Venator,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,65,Venator,66,Victor,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,65,Venator,3,Vindicta,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,65,Venator,35,Viscous,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,65,Venator,58,Vyper,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,65,Venator,25,Warden,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,65,Venator,7,Wraith,1.0,1,0.0,True
+bullet_armor_pct,Bullet Armor,65,Venator,27,Yamato,1.0,1,0.0,True
+bullet_damage,Bullet Damage,6,Abrams,76,Graves,1.0,1,3.6,True
+bullet_damage,Bullet Damage,77,Apollo,12,Kelvin,1.2457,1-2,18.702703,False
+bullet_damage,Bullet Damage,81,Celeste,12,Kelvin,2.492537,2-3,19.223881,False
+bullet_damage,Bullet Damage,20,Ivy,50,Pocket,3.125,3-4,4.62,False
+bullet_damage,Bullet Damage,1,Infernus,27,Yamato,3.878788,3-4,5.753333,False
+bullet_damage,Bullet Damage,15,Bebop,19,Shiv,4.6,4-5,5.394,False
+bullet_damage,Bullet Damage,2,Seven,35,Viscous,4.833333,4-5,11.72,False
+bullet_damage,Bullet Damage,13,Haze,1,Infernus,5.363636,5-6,5.884,False
+bullet_damage,Bullet Damage,77,Apollo,64,Drifter,5.784689,5-6,22.447368,False
+bullet_damage,Bullet Damage,19,Shiv,80,Silver,7.25,7-8,5.83125,False
+bullet_damage,Bullet Damage,12,Kelvin,60,Sinclair,7.363636,7-8,21.26,False
+bullet_damage,Bullet Damage,14,Holliday,4,Lady Geist,7.944444,7-8,27.644444,False
+bullet_damage,Bullet Damage,81,Celeste,64,Drifter,8.352941,8-9,24.029412,False
+bullet_damage,Bullet Damage,1,Infernus,19,Shiv,10.090909,10-11,6.3,False
+bullet_damage,Bullet Damage,67,Paige,69,The Doorman,10.896552,10-11,40.146207,False
+bullet_damage,Bullet Damage,11,Dynamo,52,Mirage,12.0,12,18.1,False
+bullet_damage,Bullet Damage,52,Mirage,3,Vindicta,12.268248,12-13,18.180474,False
+bullet_damage,Bullet Damage,1,Infernus,80,Silver,14.793103,14-15,6.713793,False
+bullet_damage,Bullet Damage,11,Dynamo,3,Vindicta,15.0625,15-16,19.63125,False
+bullet_damage,Bullet Damage,15,Bebop,50,Pocket,16.555556,16-17,6.768889,False
+bullet_damage,Bullet Damage,66,Victor,35,Viscous,17.6,17-18,16.316,False
+bullet_damage,Bullet Damage,1,Infernus,50,Pocket,17.944444,17-18,6.991111,False
+bullet_damage,Bullet Damage,50,Pocket,80,Silver,20.069767,20-21,7.331163,False
+bullet_damage,Bullet Damage,15,Bebop,1,Infernus,20.259259,20-21,7.194815,False
+bullet_damage,Bullet Damage,79,Rem,3,Vindicta,21.479911,21-22,22.96317,False
+bullet_damage,Bullet Damage,13,Haze,19,Shiv,21.909091,21-22,8.25,False
+bullet_damage,Bullet Damage,11,Dynamo,79,Rem,22.25,22-23,23.225,False
+bullet_damage,Bullet Damage,17,Grey Talon,14,Holliday,23.951807,23-24,45.956867,False
+bullet_damage,Bullet Damage,7,Wraith,27,Yamato,24.571429,24-25,8.94,False
+bullet_damage,Bullet Damage,14,Holliday,67,Paige,25.519231,25-26,47.75,False
+bullet_damage,Bullet Damage,17,Grey Talon,67,Paige,26.087336,26-27,48.045415,False
+bullet_damage,Bullet Damage,76,Graves,18,Mo & Krill,26.407166,26-27,4.971987,False
+bullet_damage,Bullet Damage,3,Vindicta,25,Warden,28.957589,28-29,26.84558,False
+bullet_damage,Bullet Damage,11,Dynamo,25,Warden,30.625,30-31,27.4125,False
+bullet_damage,Bullet Damage,4,Lady Geist,67,Paige,30.791667,30-31,50.491667,False
+bullet_damage,Bullet Damage,31,Lash,2,Seven,34.428571,34-35,18.822857,False
+bullet_damage,Bullet Damage,19,Shiv,7,Wraith,34.6,34-35,10.344,False
+bullets_per_second,Bullets per Second,11,Dynamo,25,Warden,1.0,1,3.809524,True
+bullets_per_second,Bullets per Second,12,Kelvin,25,Warden,1.0,1,3.809524,True
+bullets_per_second,Bullets per Second,79,Rem,25,Warden,4.330003,4-5,3.846154,False
+bullets_per_second,Bullets per Second,63,Mina,25,Warden,15.430014,15-16,3.968254,False
+clip_size,Clip Size,16,Calico,27,Yamato,1.0,1,12.0,True
+clip_size,Clip Size,64,Drifter,27,Yamato,1.0,1,12.0,True
+clip_size,Clip Size,63,Mina,27,Yamato,1.0,1,12.0,True
+clip_size,Clip Size,79,Rem,27,Yamato,7.060606,7-8,13.0,False
+clip_size,Clip Size,13,Haze,1,Infernus,9.0,9,27.0,False
+clip_size,Clip Size,12,Kelvin,27,Yamato,13.121212,13-14,14.0,False
+clip_size,Clip Size,67,Paige,27,Yamato,13.121212,13-14,14.0,False
+clip_size,Clip Size,13,Haze,31,Lash,17.0,17,29.0,False
+clip_size,Clip Size,13,Haze,2,Seven,17.0,17,29.0,False
+clip_size,Clip Size,77,Apollo,27,Yamato,19.181818,19-20,15.0,False
+clip_size,Clip Size,72,Billy,13,Haze,21.0,21,30.0,False
+clip_size,Clip Size,52,Mirage,27,Yamato,25.242424,25-26,16.0,False
+clip_size,Clip Size,60,Sinclair,27,Yamato,25.242424,25-26,16.0,False
+clip_size,Clip Size,17,Grey Talon,27,Yamato,31.30303,31-32,17.0,False
+clip_size,Clip Size,25,Warden,27,Yamato,31.30303,31-32,17.0,False
+clip_size,Clip Size,13,Haze,20,Ivy,33.0,33,33.0,False
+clip_size,Clip Size,13,Haze,65,Venator,33.0,33,33.0,False
+damage_per_magazine,Damage per Magazine,81,Celeste,76,Graves,1.0,1,144.0,True
+damage_per_magazine,Damage per Magazine,19,Shiv,66,Victor,1.0,1,288.0,True
+damage_per_magazine,Damage per Magazine,16,Calico,14,Holliday,1.25309,1-2,199.89535,False
+damage_per_magazine,Damage per Magazine,79,Rem,35,Viscous,1.431655,1-2,209.907914,False
+damage_per_magazine,Damage per Magazine,52,Mirage,3,Vindicta,1.499526,1-2,239.197725,False
+damage_per_magazine,Damage per Magazine,72,Billy,4,Lady Geist,1.56962,1-2,191.426582,False
+damage_per_magazine,Damage per Magazine,52,Mirage,69,The Doorman,1.68,1-2,240.064,False
+damage_per_magazine,Damage per Magazine,81,Celeste,20,Ivy,1.727041,1-2,148.769388,False
+damage_per_magazine,Damage per Magazine,25,Warden,7,Wraith,2.0,2,300.56,False
+damage_per_magazine,Damage per Magazine,81,Celeste,1,Infernus,2.075526,2-3,151.055449,False
+damage_per_magazine,Damage per Magazine,6,Abrams,25,Warden,2.37069,2-3,302.702586,False
+damage_per_magazine,Damage per Magazine,31,Lash,80,Silver,2.400061,2-3,257.926552,False
+damage_per_magazine,Damage per Magazine,60,Sinclair,66,Victor,2.5,2-3,297.36,False
+damage_per_magazine,Damage per Magazine,14,Holliday,79,Rem,2.566952,2-3,214.925926,False
+damage_per_magazine,Damage per Magazine,15,Bebop,27,Yamato,2.616392,2-3,340.948412,False
+damage_per_magazine,Damage per Magazine,19,Shiv,25,Warden,2.645631,2-3,304.291748,False
+damage_per_magazine,Damage per Magazine,77,Apollo,66,Victor,2.711491,2-3,298.679707,False
+damage_per_magazine,Damage per Magazine,77,Apollo,60,Sinclair,2.862937,2-3,300.553846,False
+damage_per_magazine,Damage per Magazine,6,Abrams,19,Shiv,3.0,3,307.8,False
+damage_per_magazine,Damage per Magazine,19,Shiv,7,Wraith,3.015267,3-4,307.951145,False
+damage_per_magazine,Damage per Magazine,11,Dynamo,12,Kelvin,3.025072,3-4,272.250723,False
+damage_per_magazine,Damage per Magazine,6,Abrams,7,Wraith,3.04878,3-4,308.195122,False
+damage_per_magazine,Damage per Magazine,14,Holliday,35,Viscous,3.311321,3-4,223.441509,False
+damage_per_magazine,Damage per Magazine,77,Apollo,25,Warden,3.620167,3-4,309.924564,False
+damage_per_magazine,Damage per Magazine,16,Calico,4,Lady Geist,3.85124,3-4,211.961157,False
+damage_per_magazine,Damage per Magazine,77,Apollo,7,Wraith,4.097154,4-5,315.827282,False
+damage_per_magazine,Damage per Magazine,6,Abrams,77,Apollo,4.298246,4-5,318.315789,False
+damage_per_magazine,Damage per Magazine,60,Sinclair,25,Warden,4.516556,4-5,315.105695,False
+damage_per_magazine,Damage per Magazine,80,Silver,3,Vindicta,4.782855,4-5,271.587107,False
+damage_per_magazine,Damage per Magazine,10,Paradox,66,Victor,4.846154,4-5,312.0,False
+damage_per_magazine,Damage per Magazine,77,Apollo,19,Shiv,5.242424,5-6,330.0,False
+damage_per_magazine,Damage per Magazine,76,Graves,13,Haze,5.332904,5-6,153.359072,False
+damage_per_magazine,Damage per Magazine,4,Lady Geist,79,Rem,5.737991,5-6,228.941921,False
+damage_per_magazine,Damage per Magazine,17,Grey Talon,8,McGinnis,5.789296,5-6,479.296839,False
+damage_per_magazine,Damage per Magazine,12,Kelvin,31,Lash,5.799235,5-6,288.485124,False
+damage_per_magazine,Damage per Magazine,10,Paradox,25,Warden,5.930736,5-6,323.279654,False
+damage_per_magazine,Damage per Magazine,80,Silver,69,The Doorman,6.158135,6-7,279.471588,False
+damage_per_magazine,Damage per Magazine,50,Pocket,27,Yamato,6.486135,6-7,397.149183,False
+damage_per_magazine,Damage per Magazine,52,Mirage,18,Mo & Krill,6.668016,6-7,264.006478,False
+damage_per_magazine,Damage per Magazine,14,Holliday,52,Mirage,6.993976,6-7,265.571084,False
+damage_per_magazine,Damage per Magazine,60,Sinclair,7,Wraith,7.0,7,336.96,False
+damage_per_magazine,Damage per Magazine,81,Celeste,58,Vyper,7.083916,7-8,183.91049,False
+damage_per_magazine,Damage per Magazine,14,Holliday,18,Mo & Krill,7.132075,7-8,267.150943,False
+damage_per_magazine,Damage per Magazine,13,Haze,20,Ivy,7.209567,7-8,163.243257,False
+damage_per_magazine,Damage per Magazine,13,Haze,1,Infernus,7.213175,7-8,163.262505,False
+damage_per_magazine,Damage per Magazine,1,Infernus,20,Ivy,7.25,7-8,163.35,False
+damage_per_magazine,Damage per Magazine,12,Kelvin,3,Vindicta,7.511663,7-8,298.50625,False
+damage_per_magazine,Damage per Magazine,77,Apollo,2,Seven,7.592798,7-8,359.085873,False
+damage_per_magazine,Damage per Magazine,10,Paradox,7,Wraith,7.820513,7-8,342.933333,False
+damage_per_magazine,Damage per Magazine,10,Paradox,60,Sinclair,8.6,8-9,351.04,False
+damage_per_magazine,Damage per Magazine,6,Abrams,10,Paradox,9.521739,9-10,360.626087,False
+damage_per_magazine,Damage per Magazine,2,Seven,19,Shiv,9.571429,9-10,372.857143,False
+damage_per_magazine,Damage per Magazine,12,Kelvin,69,The Doorman,9.928087,9-10,312.647164,False
+damage_per_magazine,Damage per Magazine,65,Venator,66,Victor,9.988764,9-10,344.089888,False
+damage_per_magazine,Damage per Magazine,14,Holliday,80,Silver,10.269318,10-11,303.041002,False
+damage_per_magazine,Damage per Magazine,11,Dynamo,66,Victor,10.574468,10-11,347.744681,False
+damage_per_magazine,Damage per Magazine,17,Grey Talon,67,Paige,10.665097,10-11,560.361909,False
+damage_per_magazine,Damage per Magazine,65,Venator,25,Warden,10.833866,10-11,351.619744,False
+damage_per_magazine,Damage per Magazine,11,Dynamo,25,Warden,11.137441,11-12,353.374408,False
+damage_per_magazine,Damage per Magazine,6,Abrams,60,Sinclair,11.628571,11-12,377.691429,False
+damage_per_magazine,Damage per Magazine,77,Apollo,15,Bebop,11.695925,11-12,409.862069,False
+damage_per_magazine,Damage per Magazine,11,Dynamo,65,Venator,12.009174,12-13,362.091743,False
+damage_per_magazine,Damage per Magazine,14,Holliday,12,Kelvin,12.345741,12-13,326.795276,False
+damage_per_magazine,Damage per Magazine,4,Lady Geist,35,Viscous,12.388889,12-13,288.8,False
+damage_per_magazine,Damage per Magazine,10,Paradox,2,Seven,12.976744,12-13,396.55814,False
+damage_per_magazine,Damage per Magazine,4,Lady Geist,52,Mirage,13.02381,13-14,294.514286,False
+damage_per_magazine,Damage per Magazine,52,Mirage,35,Viscous,13.5,13-14,296.8,False
+damage_per_magazine,Damage per Magazine,31,Lash,3,Vindicta,13.654321,13-14,359.102346,False
+damage_per_magazine,Damage per Magazine,14,Holliday,69,The Doorman,15.045455,15-16,357.68,False
+damage_per_magazine,Damage per Magazine,8,McGinnis,67,Paige,15.695652,15-16,596.984348,False
+damage_per_magazine,Damage per Magazine,66,Victor,25,Warden,15.73913,15-16,379.972174,False
+damage_per_magazine,Damage per Magazine,3,Vindicta,25,Warden,15.813455,15-16,380.401769,False
+damage_per_magazine,Damage per Magazine,66,Victor,3,Vindicta,15.822887,15-16,380.494814,False
+damage_per_magazine,Damage per Magazine,11,Dynamo,7,Wraith,16.176471,16-17,403.764706,False
+damage_per_magazine,Damage per Magazine,31,Lash,25,Warden,16.401869,16-17,383.802804,False
+damage_per_magazine,Damage per Magazine,31,Lash,66,Victor,16.512727,16-17,384.799418,False
+damage_per_magazine,Damage per Magazine,2,Seven,60,Sinclair,16.782609,16-17,423.046957,False
+damage_per_magazine,Damage per Magazine,14,Holliday,25,Warden,18.275618,18-19,394.633074,False
+damage_per_magazine,Damage per Magazine,14,Holliday,66,Victor,18.5,18-19,397.2,False
+damage_per_magazine,Damage per Magazine,15,Bebop,19,Shiv,18.61039,18-19,462.342857,False
+damage_per_magazine,Damage per Magazine,4,Lady Geist,18,Mo & Krill,18.670863,18-19,345.33777,False
+damage_per_magazine,Damage per Magazine,65,Venator,7,Wraith,18.96319,18-19,424.052025,False
+damage_per_magazine,Damage per Magazine,6,Abrams,2,Seven,19.947368,19-20,445.073684,False
+damage_per_magazine,Damage per Magazine,67,Paige,27,Yamato,20.450805,20-21,631.601858,False
+damage_per_magazine,Damage per Magazine,4,Lady Geist,80,Silver,20.467401,20-21,361.506612,False
+damage_per_magazine,Damage per Magazine,72,Billy,81,Celeste,20.565217,20-21,272.347826,False
+damage_per_magazine,Damage per Magazine,14,Holliday,31,Lash,20.730612,20-21,422.718204,False
+damage_per_magazine,Damage per Magazine,13,Haze,58,Vyper,20.882572,20-21,242.858347,False
+damage_per_magazine,Damage per Magazine,69,The Doorman,25,Warden,21.099338,21-22,410.954172,False
+damage_per_magazine,Damage per Magazine,11,Dynamo,2,Seven,21.131579,21-22,453.315789,False
+damage_per_magazine,Damage per Magazine,15,Bebop,10,Paradox,21.170819,21-22,481.776512,False
+damage_per_magazine,Damage per Magazine,6,Abrams,11,Dynamo,21.842105,21-22,460.421053,False
+damage_per_magazine,Damage per Magazine,69,The Doorman,66,Victor,22.0625,22-23,419.43,False
+damage_per_magazine,Damage per Magazine,8,McGinnis,27,Yamato,23.542081,23-24,690.199918,False
+damage_per_magazine,Damage per Magazine,3,Vindicta,7,Wraith,23.829619,23-24,459.479629,False
+damage_per_magazine,Damage per Magazine,14,Holliday,7,Wraith,24.144231,24-25,461.77,False
+damage_per_magazine,Damage per Magazine,18,Mo & Krill,80,Silver,24.298178,24-25,383.468456,False
+damage_per_magazine,Damage per Magazine,12,Kelvin,4,Lady Geist,24.538755,24-25,398.148793,False
+damage_per_magazine,Damage per Magazine,14,Holliday,3,Vindicta,24.660488,24-25,467.675978,False
+damage_per_magazine,Damage per Magazine,2,Seven,65,Venator,26.230769,26-27,488.806154,False
+damage_per_magazine,Damage per Magazine,14,Holliday,2,Seven,26.9375,26-27,493.725,False
+damage_per_magazine,Damage per Magazine,14,Holliday,65,Venator,27.482213,27-28,499.956522,False
+damage_per_magazine,Damage per Magazine,11,Dynamo,60,Sinclair,27.8,27-28,520.0,False
+damage_per_magazine,Damage per Magazine,2,Seven,3,Vindicta,28.172267,28-29,502.318975,False
+damage_per_magazine,Damage per Magazine,31,Lash,7,Wraith,29.035088,29-30,497.375439,False
+damage_per_magazine,Damage per Magazine,6,Abrams,14,Holliday,29.323353,29-30,521.019162,False
+damage_per_magazine,Damage per Magazine,16,Calico,81,Celeste,29.559499,29-30,331.350313,False
+damage_per_magazine,Damage per Magazine,80,Silver,35,Viscous,30.379686,30-31,418.333742,False
+damage_per_magazine,Damage per Magazine,81,Celeste,79,Rem,30.906542,30-31,340.186916,False
+damage_per_magazine,Damage per Magazine,65,Venator,3,Vindicta,32.137411,32-33,541.434332,False
+damage_per_magazine,Damage per Magazine,15,Bebop,11,Dynamo,32.817427,32-33,570.174274,False
+damage_per_magazine,Damage per Magazine,67,Paige,50,Pocket,32.833333,32-33,721.746667,False
+damage_per_magazine,Damage per Magazine,10,Paradox,19,Shiv,33.0,33,604.8,False
+damage_per_magazine,Damage per Magazine,72,Billy,13,Haze,33.25009,33-34,326.385385,False
+damage_per_magazine,Damage per Magazine,6,Abrams,3,Vindicta,33.485267,33-34,554.730666,False
+damage_per_magazine,Damage per Magazine,14,Holliday,60,Sinclair,34.015152,34-35,574.693333,False
+damage_per_magazine,Damage per Magazine,31,Lash,2,Seven,34.428571,34-35,545.862857,False
+damage_per_magazine,Damage per Magazine,4,Lady Geist,25,Warden,34.689441,34-35,489.504969,False
+damage_per_magazine,Damage per Magazine,6,Abrams,65,Venator,35.074074,35-36,567.6,False
+damage_per_magazine,Damage per Magazine,15,Bebop,14,Holliday,35.202597,35-36,588.277714,False
+damage_per_shot,Damage per Shot,77,Apollo,12,Kelvin,1.2457,1-2,18.702703,False
+damage_per_shot,Damage per Shot,81,Celeste,12,Kelvin,2.492537,2-3,19.223881,False
+damage_per_shot,Damage per Shot,2,Seven,35,Viscous,4.833333,4-5,11.72,False
+damage_per_shot,Damage per Shot,13,Haze,1,Infernus,5.363636,5-6,5.884,False
+damage_per_shot,Damage per Shot,12,Kelvin,60,Sinclair,7.363636,7-8,21.26,False
+damage_per_shot,Damage per Shot,6,Abrams,67,Paige,7.842105,7-8,38.557895,False
+damage_per_shot,Damage per Shot,14,Holliday,4,Lady Geist,7.944444,7-8,27.644444,False
+damage_per_shot,Damage per Shot,67,Paige,50,Pocket,9.4,9-10,39.368,False
+damage_per_shot,Damage per Shot,18,Mo & Krill,66,Victor,10.137056,10-11,14.375635,False
+damage_per_shot,Damage per Shot,67,Paige,69,The Doorman,10.896552,10-11,40.146207,False
+damage_per_shot,Damage per Shot,11,Dynamo,52,Mirage,12.0,12,18.1,False
+damage_per_shot,Damage per Shot,6,Abrams,50,Pocket,12.090909,12-13,42.381818,False
+damage_per_shot,Damage per Shot,52,Mirage,3,Vindicta,12.268248,12-13,18.180474,False
+damage_per_shot,Damage per Shot,67,Paige,19,Shiv,14.191489,14-15,41.859574,False
+damage_per_shot,Damage per Shot,11,Dynamo,3,Vindicta,15.0625,15-16,19.63125,False
+damage_per_shot,Damage per Shot,17,Grey Talon,27,Yamato,15.615385,15-16,37.803846,False
+damage_per_shot,Damage per Shot,6,Abrams,69,The Doorman,16.7,16-17,46.53,False
+damage_per_shot,Damage per Shot,16,Calico,25,Warden,17.595745,17-18,22.982553,False
+damage_per_shot,Damage per Shot,66,Victor,35,Viscous,17.6,17-18,16.316,False
+damage_per_shot,Damage per Shot,14,Holliday,27,Yamato,19.315508,19-20,40.652941,False
+damage_per_shot,Damage per Shot,50,Pocket,80,Silver,20.069767,20-21,51.31814,False
+damage_per_shot,Damage per Shot,15,Bebop,1,Infernus,20.259259,20-21,7.194815,False
+damage_per_shot,Damage per Shot,79,Rem,3,Vindicta,21.479911,21-22,22.96317,False
+damage_per_shot,Damage per Shot,11,Dynamo,79,Rem,22.25,22-23,23.225,False
+damage_per_shot,Damage per Shot,80,Silver,69,The Doorman,23.918149,23-24,54.469964,False
+damage_per_shot,Damage per Shot,17,Grey Talon,14,Holliday,23.951807,23-24,45.956867,False
+damage_per_shot,Damage per Shot,14,Holliday,67,Paige,25.519231,25-26,47.75,False
+damage_per_shot,Damage per Shot,17,Grey Talon,67,Paige,26.087336,26-27,48.045415,False
+damage_per_shot,Damage per Shot,4,Lady Geist,27,Yamato,26.434783,26-27,46.134783,False
+damage_per_shot,Damage per Shot,3,Vindicta,25,Warden,28.957589,28-29,26.84558,False
+damage_per_shot,Damage per Shot,11,Dynamo,25,Warden,30.625,30-31,27.4125,False
+damage_per_shot,Damage per Shot,4,Lady Geist,67,Paige,30.791667,30-31,50.491667,False
+damage_per_shot,Damage per Shot,16,Calico,3,Vindicta,32.996974,32-33,28.942829,False
+damage_per_shot,Damage per Shot,31,Lash,2,Seven,34.428571,34-35,18.822857,False
+damage_per_shot,Damage per Shot,67,Paige,27,Yamato,34.8,34-35,52.576,False
+health_regen,Health Regen,6,Abrams,66,Victor,1.0,1,1.5,True
+health_regen,Health Regen,17,Grey Talon,66,Victor,1.0,1,1.5,True
+health_regen,Health Regen,52,Mirage,66,Victor,1.0,1,1.5,True
+health_regen,Health Regen,11,Dynamo,66,Victor,3.840909,3-4,1.75,False
+health_regen,Health Regen,16,Calico,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,13,Haze,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,14,Holliday,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,1,Infernus,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,20,Ivy,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,31,Lash,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,8,McGinnis,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,63,Mina,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,67,Paige,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,79,Rem,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,19,Shiv,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,60,Sinclair,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,65,Venator,66,Victor,6.681818,6-7,2.0,False
+health_regen,Health Regen,66,Victor,3,Vindicta,6.681818,6-7,2.0,False
+health_regen,Health Regen,66,Victor,35,Viscous,6.681818,6-7,2.0,False
+health_regen,Health Regen,66,Victor,58,Vyper,6.681818,6-7,2.0,False
+health_regen,Health Regen,66,Victor,25,Warden,6.681818,6-7,2.0,False
+health_regen,Health Regen,66,Victor,7,Wraith,6.681818,6-7,2.0,False
+health_regen,Health Regen,15,Bebop,66,Victor,12.363636,12-13,2.5,False
+health_regen,Health Regen,72,Billy,66,Victor,12.363636,12-13,2.5,False
+health_regen,Health Regen,80,Silver,66,Victor,12.363636,12-13,2.5,False
+health_regen,Health Regen,64,Drifter,66,Victor,23.727273,23-24,3.5,False
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,77,Apollo,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,15,Bebop,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,72,Billy,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,16,Calico,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,81,Celeste,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,11,Dynamo,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,76,Graves,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,17,Grey Talon,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,13,Haze,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,14,Holliday,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,1,Infernus,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,20,Ivy,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,12,Kelvin,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,4,Lady Geist,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,31,Lash,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,8,McGinnis,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,63,Mina,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,52,Mirage,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,18,Mo & Krill,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,10,Paradox,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,50,Pocket,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,79,Rem,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,2,Seven,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,19,Shiv,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,80,Silver,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,60,Sinclair,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,69,The Doorman,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,66,Victor,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,3,Vindicta,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,35,Viscous,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,58,Vyper,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,25,Warden,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,7,Wraith,1.0,1,116.0,True
+heavy_melee_damage,Heavy Melee Damage,64,Drifter,67,Paige,1.0,1,120.0,True
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,67,Paige,20.230769,20-21,149.423077,False
+heavy_melee_damage,Heavy Melee Damage,65,Venator,27,Yamato,26.0,26,167.5,False
+heavy_melee_damage,Heavy Melee Damage,6,Abrams,64,Drifter,26.316456,26-27,160.0,False
+light_melee_damage,Light Melee Damage,6,Abrams,72,Billy,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,81,Celeste,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,11,Dynamo,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,76,Graves,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,17,Grey Talon,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,13,Haze,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,14,Holliday,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,1,Infernus,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,20,Ivy,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,12,Kelvin,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,4,Lady Geist,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,31,Lash,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,8,McGinnis,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,63,Mina,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,52,Mirage,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,18,Mo & Krill,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,10,Paradox,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,2,Seven,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,19,Shiv,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,80,Silver,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,60,Sinclair,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,69,The Doorman,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,66,Victor,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,3,Vindicta,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,58,Vyper,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,25,Warden,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,7,Wraith,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,72,Billy,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,81,Celeste,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,11,Dynamo,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,76,Graves,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,17,Grey Talon,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,13,Haze,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,14,Holliday,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,1,Infernus,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,20,Ivy,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,12,Kelvin,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,4,Lady Geist,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,31,Lash,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,8,McGinnis,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,63,Mina,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,52,Mirage,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,18,Mo & Krill,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,10,Paradox,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,2,Seven,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,19,Shiv,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,80,Silver,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,60,Sinclair,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,69,The Doorman,65,Venator,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,65,Venator,66,Victor,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,65,Venator,3,Vindicta,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,65,Venator,58,Vyper,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,65,Venator,25,Warden,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,65,Venator,7,Wraith,1.0,1,50.0,True
+light_melee_damage,Light Melee Damage,6,Abrams,64,Drifter,10.493671,10-11,66.5,False
+light_melee_damage,Light Melee Damage,64,Drifter,65,Venator,13.5,13-14,71.25,False
+light_melee_damage,Light Melee Damage,6,Abrams,27,Yamato,32.64557,32-33,105.0,False
+max_health,Max Health,6,Abrams,66,Victor,1.0,1,800.0,True
+max_health,Max Health,15,Bebop,11,Dynamo,1.0,1,880.0,True
+max_health,Max Health,15,Bebop,12,Kelvin,1.0,1,880.0,True
+max_health,Max Health,15,Bebop,4,Lady Geist,1.0,1,880.0,True
+max_health,Max Health,72,Billy,65,Venator,1.0,1,820.0,True
+max_health,Max Health,16,Calico,76,Graves,1.0,1,730.0,True
+max_health,Max Health,16,Calico,13,Haze,1.0,1,730.0,True
+max_health,Max Health,16,Calico,52,Mirage,1.0,1,730.0,True
+max_health,Max Health,16,Calico,10,Paradox,1.0,1,730.0,True
+max_health,Max Health,16,Calico,2,Seven,1.0,1,730.0,True
+max_health,Max Health,16,Calico,60,Sinclair,1.0,1,730.0,True
+max_health,Max Health,16,Calico,7,Wraith,1.0,1,730.0,True
+max_health,Max Health,16,Calico,27,Yamato,1.0,1,730.0,True
+max_health,Max Health,64,Drifter,20,Ivy,1.0,1,755.0,True
+max_health,Max Health,64,Drifter,69,The Doorman,1.0,1,755.0,True
+max_health,Max Health,64,Drifter,3,Vindicta,1.0,1,755.0,True
+max_health,Max Health,11,Dynamo,12,Kelvin,1.0,1,880.0,True
+max_health,Max Health,11,Dynamo,4,Lady Geist,1.0,1,880.0,True
+max_health,Max Health,76,Graves,52,Mirage,1.0,1,730.0,True
+max_health,Max Health,76,Graves,10,Paradox,1.0,1,730.0,True
+max_health,Max Health,76,Graves,2,Seven,1.0,1,730.0,True
+max_health,Max Health,76,Graves,60,Sinclair,1.0,1,730.0,True
+max_health,Max Health,76,Graves,7,Wraith,1.0,1,730.0,True
+max_health,Max Health,76,Graves,27,Yamato,1.0,1,730.0,True
+max_health,Max Health,17,Grey Talon,14,Holliday,1.0,1,780.0,True
+max_health,Max Health,17,Grey Talon,31,Lash,1.0,1,780.0,True
+max_health,Max Health,17,Grey Talon,8,McGinnis,1.0,1,780.0,True
+max_health,Max Health,17,Grey Talon,50,Pocket,1.0,1,780.0,True
+max_health,Max Health,17,Grey Talon,35,Viscous,1.0,1,780.0,True
+max_health,Max Health,17,Grey Talon,58,Vyper,1.0,1,780.0,True
+max_health,Max Health,13,Haze,52,Mirage,1.0,1,730.0,True
+max_health,Max Health,13,Haze,10,Paradox,1.0,1,730.0,True
+max_health,Max Health,13,Haze,2,Seven,1.0,1,730.0,True
+max_health,Max Health,13,Haze,60,Sinclair,1.0,1,730.0,True
+max_health,Max Health,13,Haze,7,Wraith,1.0,1,730.0,True
+max_health,Max Health,13,Haze,27,Yamato,1.0,1,730.0,True
+max_health,Max Health,14,Holliday,31,Lash,1.0,1,780.0,True
+max_health,Max Health,14,Holliday,8,McGinnis,1.0,1,780.0,True
+max_health,Max Health,14,Holliday,50,Pocket,1.0,1,780.0,True
+max_health,Max Health,14,Holliday,35,Viscous,1.0,1,780.0,True
+max_health,Max Health,14,Holliday,58,Vyper,1.0,1,780.0,True
+max_health,Max Health,1,Infernus,19,Shiv,1.0,1,830.0,True
+max_health,Max Health,1,Infernus,80,Silver,1.0,1,830.0,True
+max_health,Max Health,20,Ivy,69,The Doorman,1.0,1,755.0,True
+max_health,Max Health,20,Ivy,3,Vindicta,1.0,1,755.0,True
+max_health,Max Health,12,Kelvin,4,Lady Geist,1.0,1,880.0,True
+max_health,Max Health,31,Lash,8,McGinnis,1.0,1,780.0,True
+max_health,Max Health,31,Lash,50,Pocket,1.0,1,780.0,True
+max_health,Max Health,31,Lash,35,Viscous,1.0,1,780.0,True
+max_health,Max Health,31,Lash,58,Vyper,1.0,1,780.0,True
+max_health,Max Health,8,McGinnis,50,Pocket,1.0,1,780.0,True
+max_health,Max Health,8,McGinnis,35,Viscous,1.0,1,780.0,True
+max_health,Max Health,8,McGinnis,58,Vyper,1.0,1,780.0,True
+max_health,Max Health,52,Mirage,10,Paradox,1.0,1,730.0,True
+max_health,Max Health,52,Mirage,2,Seven,1.0,1,730.0,True
+max_health,Max Health,52,Mirage,60,Sinclair,1.0,1,730.0,True
+max_health,Max Health,52,Mirage,7,Wraith,1.0,1,730.0,True
+max_health,Max Health,10,Paradox,2,Seven,1.0,1,730.0,True
+max_health,Max Health,10,Paradox,60,Sinclair,1.0,1,730.0,True
+max_health,Max Health,10,Paradox,7,Wraith,1.0,1,730.0,True
+max_health,Max Health,10,Paradox,27,Yamato,1.0,1,730.0,True
+max_health,Max Health,50,Pocket,35,Viscous,1.0,1,780.0,True
+max_health,Max Health,50,Pocket,58,Vyper,1.0,1,780.0,True
+max_health,Max Health,2,Seven,60,Sinclair,1.0,1,730.0,True
+max_health,Max Health,2,Seven,7,Wraith,1.0,1,730.0,True
+max_health,Max Health,2,Seven,27,Yamato,1.0,1,730.0,True
+max_health,Max Health,19,Shiv,80,Silver,1.0,1,830.0,True
+max_health,Max Health,60,Sinclair,7,Wraith,1.0,1,730.0,True
+max_health,Max Health,60,Sinclair,27,Yamato,1.0,1,730.0,True
+max_health,Max Health,69,The Doorman,3,Vindicta,1.0,1,755.0,True
+max_health,Max Health,35,Viscous,58,Vyper,1.0,1,780.0,True
+max_health,Max Health,7,Wraith,27,Yamato,1.0,1,730.0,True
+max_health,Max Health,72,Billy,80,Silver,1.37037,1-2,840.740741,False
+max_health,Max Health,80,Silver,65,Venator,1.625,1-2,848.125,False
+max_health,Max Health,72,Billy,1,Infernus,1.666667,1-2,857.333333,False
+max_health,Max Health,80,Silver,25,Warden,1.735294,1-2,851.323529,False
+max_health,Max Health,65,Venator,25,Warden,1.833333,1-2,857.5,False
+max_health,Max Health,77,Apollo,58,Vyper,2.0,2,817.0,False
+max_health,Max Health,8,McGinnis,66,Victor,2.052632,2-3,837.894737,False
+max_health,Max Health,77,Apollo,50,Pocket,2.111111,2-3,822.222222,False
+max_health,Max Health,1,Infernus,25,Warden,2.136364,2-3,876.590909,False
+max_health,Max Health,31,Lash,66,Victor,2.176471,2-3,842.352941,False
+max_health,Max Health,72,Billy,19,Shiv,2.25,2-3,890.0,False
+max_health,Max Health,6,Abrams,80,Silver,2.304348,2-3,867.826087,False
+max_health,Max Health,10,Paradox,3,Vindicta,2.315789,2-3,793.157895,False
+max_health,Max Health,52,Mirage,3,Vindicta,2.388889,2-3,795.277778,False
+max_health,Max Health,3,Vindicta,27,Yamato,2.388889,2-3,795.277778,False
+max_health,Max Health,77,Apollo,17,Grey Talon,2.428571,2-3,837.142857,False
+max_health,Max Health,19,Shiv,25,Warden,2.666667,2-3,910.0,False
+max_health,Max Health,2,Seven,3,Vindicta,2.785714,2-3,806.785714,False
+max_health,Max Health,66,Victor,35,Viscous,2.818182,2-3,865.454545,False
+max_health,Max Health,8,McGinnis,80,Silver,2.923077,2-3,885.769231,False
+max_health,Max Health,31,Lash,80,Silver,3.083333,3-4,890.416667,False
+max_health,Max Health,72,Billy,25,Warden,3.142857,3-4,940.0,False
+max_health,Max Health,60,Sinclair,3,Vindicta,3.272727,3-4,820.909091,False
+max_health,Max Health,77,Apollo,14,Holliday,3.5,3-4,887.5,False
+max_health,Max Health,16,Calico,3,Vindicta,3.5,3-4,827.5,False
+max_health,Max Health,1,Infernus,65,Venator,3.5,3-4,932.5,False
+max_health,Max Health,20,Ivy,58,Vyper,3.5,3-4,872.5,False
+max_health,Max Health,6,Abrams,1,Infernus,3.727273,3-4,941.818182,False
+max_health,Max Health,77,Apollo,66,Victor,3.727273,3-4,898.181818,False
+max_health,Max Health,20,Ivy,50,Pocket,3.777778,3-4,885.555556,False
+max_health,Max Health,80,Silver,35,Viscous,3.777778,3-4,910.555556,False
+max_health,Max Health,6,Abrams,65,Venator,3.857143,3-4,948.571429,False
+max_health,Max Health,14,Holliday,66,Victor,3.857143,3-4,902.857143,False
+max_health,Max Health,3,Vindicta,7,Wraith,4.125,4-5,845.625,False
+max_health,Max Health,77,Apollo,80,Silver,4.333333,4-5,926.666667,False
+max_health,Max Health,64,Drifter,10,Paradox,4.571429,4-5,901.428571,False
+max_health,Max Health,17,Grey Talon,20,Ivy,4.571429,4-5,922.857143,False
+max_health,Max Health,14,Holliday,80,Silver,4.571429,4-5,933.571429,False
+max_health,Max Health,1,Infernus,8,McGinnis,4.571429,4-5,976.428571,False
+max_health,Max Health,69,The Doorman,58,Vyper,4.571429,4-5,912.142857,False
+max_health,Max Health,8,McGinnis,65,Venator,5.0,5,1000.0,False
+max_health,Max Health,20,Ivy,66,Victor,5.090909,5-6,947.272727,False
+max_health,Max Health,64,Drifter,52,Mirage,5.166667,5-6,925.833333,False
+max_health,Max Health,64,Drifter,27,Yamato,5.166667,5-6,925.833333,False
+max_health,Max Health,76,Graves,3,Vindicta,5.166667,5-6,875.833333,False
+max_health,Max Health,13,Haze,3,Vindicta,5.166667,5-6,875.833333,False
+max_health,Max Health,1,Infernus,31,Lash,5.166667,5-6,1000.833333,False
+max_health,Max Health,20,Ivy,80,Silver,5.166667,5-6,950.833333,False
+max_health,Max Health,50,Pocket,69,The Doorman,5.166667,5-6,938.333333,False
+max_health,Max Health,80,Silver,66,Victor,5.285714,5-6,954.285714,False
+max_health,Max Health,17,Grey Talon,80,Silver,5.545455,5-6,961.818182,False
+max_health,Max Health,10,Paradox,58,Vyper,5.545455,5-6,948.181818,False
+max_health,Max Health,17,Grey Talon,66,Victor,6.0,6,980.0,False
+max_health,Max Health,31,Lash,65,Venator,6.0,6,1045.0,False
+max_health,Max Health,52,Mirage,58,Vyper,6.0,6,965.0,False
+max_health,Max Health,10,Paradox,50,Pocket,6.0,6,970.0,False
+max_health,Max Health,80,Silver,69,The Doorman,6.0,6,975.0,False
+max_health,Max Health,58,Vyper,27,Yamato,6.0,6,965.0,False
+max_health,Max Health,10,Paradox,80,Silver,6.263158,6-7,982.631579,False
+max_health,Max Health,52,Mirage,50,Pocket,6.555556,6-7,991.111111,False
+max_health,Max Health,52,Mirage,80,Silver,6.555556,6-7,991.111111,False
+max_health,Max Health,50,Pocket,80,Silver,6.555556,6-7,991.111111,False
+max_health,Max Health,50,Pocket,27,Yamato,6.555556,6-7,991.111111,False
+max_health,Max Health,80,Silver,27,Yamato,6.555556,6-7,991.111111,False
+max_health,Max Health,69,The Doorman,66,Victor,6.625,6-7,1002.5,False
+max_health,Max Health,10,Paradox,66,Victor,6.833333,6-7,1010.0,False
+max_health,Max Health,64,Drifter,80,Silver,7.25,7-8,1011.25,False
+max_health,Max Health,64,Drifter,58,Vyper,7.25,7-8,1011.25,False
+max_health,Max Health,17,Grey Talon,10,Paradox,7.25,7-8,1030.0,False
+max_health,Max Health,17,Grey Talon,69,The Doorman,7.25,7-8,1030.0,False
+max_health,Max Health,14,Holliday,20,Ivy,7.25,7-8,1048.75,False
+max_health,Max Health,10,Paradox,69,The Doorman,7.25,7-8,1030.0,False
+max_health,Max Health,80,Silver,58,Vyper,7.25,7-8,1011.25,False
+max_health,Max Health,52,Mirage,66,Victor,7.363636,7-8,1029.090909,False
+max_health,Max Health,66,Victor,27,Yamato,7.363636,7-8,1029.090909,False
+max_health,Max Health,6,Abrams,8,McGinnis,7.666667,7-8,1146.666667,False
+max_health,Max Health,17,Grey Talon,52,Mirage,8.142857,8-9,1065.714286,False
+max_health,Max Health,17,Grey Talon,27,Yamato,8.142857,8-9,1065.714286,False
+max_health,Max Health,8,McGinnis,19,Shiv,8.142857,8-9,1172.857143,False
+max_health,Max Health,2,Seven,80,Silver,8.142857,8-9,1037.142857,False
+max_health,Max Health,6,Abrams,19,Shiv,8.5,8-9,1190.0,False
+max_health,Max Health,64,Drifter,50,Pocket,9.333333,9-10,1096.666667,False
+max_health,Max Health,1,Infernus,35,Viscous,9.333333,9-10,1171.666667,False
+max_health,Max Health,4,Lady Geist,25,Warden,9.333333,9-10,1330.0,False
+max_health,Max Health,52,Mirage,69,The Doorman,9.333333,9-10,1121.666667,False
+max_health,Max Health,2,Seven,58,Vyper,9.333333,9-10,1088.333333,False
+max_health,Max Health,69,The Doorman,27,Yamato,9.333333,9-10,1121.666667,False
+max_health,Max Health,64,Drifter,66,Victor,10.0,10,1124.0,False
+max_health,Max Health,80,Silver,60,Sinclair,10.090909,10-11,1093.636364,False
+max_health,Max Health,15,Bebop,25,Warden,10.375,10-11,1395.625,False
+max_health,Max Health,77,Apollo,1,Infernus,11.0,11,1240.0,False
+max_health,Max Health,16,Calico,80,Silver,11.0,11,1120.0,False
+max_health,Max Health,14,Holliday,10,Paradox,11.0,11,1210.0,False
+max_health,Max Health,31,Lash,19,Shiv,11.0,11,1310.0,False
+max_health,Max Health,50,Pocket,2,Seven,11.0,11,1160.0,False
+max_health,Max Health,50,Pocket,66,Victor,11.0,11,1160.0,False
+max_health,Max Health,2,Seven,66,Victor,11.0,11,1160.0,False
+max_health,Max Health,81,Celeste,3,Vindicta,11.833333,11-12,1069.166667,False
+max_health,Max Health,64,Drifter,2,Seven,13.5,13-14,1267.5,False
+max_health,Max Health,14,Holliday,52,Mirage,13.5,13-14,1317.5,False
+max_health,Max Health,14,Holliday,27,Yamato,13.5,13-14,1317.5,False
+max_health,Max Health,1,Infernus,20,Ivy,13.5,13-14,1342.5,False
+max_health,Max Health,80,Silver,7,Wraith,13.5,13-14,1192.5,False
+max_health,Max Health,1,Infernus,10,Paradox,15.285714,15-16,1415.714286,False
+max_health,Max Health,76,Graves,80,Silver,17.666667,17-18,1313.333333,False
+max_health,Max Health,17,Grey Talon,2,Seven,17.666667,17-18,1446.666667,False
+max_health,Max Health,13,Haze,80,Silver,17.666667,17-18,1313.333333,False
+max_health,Max Health,1,Infernus,52,Mirage,17.666667,17-18,1513.333333,False
+max_health,Max Health,1,Infernus,27,Yamato,17.666667,17-18,1513.333333,False
+max_health,Max Health,60,Sinclair,58,Vyper,17.666667,17-18,1396.666667,False
+max_health,Max Health,60,Sinclair,66,Victor,18.5,18-19,1430.0,False
+max_health,Max Health,6,Abrams,31,Lash,21.0,21,1840.0,False
+max_health,Max Health,65,Venator,35,Viscous,21.0,21,1720.0,False
+max_health,Max Health,66,Victor,58,Vyper,21.0,21,1520.0,False
+max_health,Max Health,16,Calico,66,Victor,24.333333,24-25,1640.0,False
+max_health,Max Health,81,Celeste,80,Silver,24.333333,24-25,1506.666667,False
+max_health,Max Health,77,Apollo,65,Venator,26.0,26,1945.0,False
+max_health,Max Health,16,Calico,58,Vyper,26.0,26,1705.0,False
+max_health,Max Health,64,Drifter,17,Grey Talon,26.0,26,1780.0,False
+max_health,Max Health,14,Holliday,1,Infernus,26.0,26,1855.0,False
+max_health,Max Health,14,Holliday,69,The Doorman,26.0,26,1855.0,False
+max_health,Max Health,1,Infernus,69,The Doorman,26.0,26,1855.0,False
+max_health,Max Health,20,Ivy,10,Paradox,26.0,26,1930.0,False
+max_health,Max Health,50,Pocket,60,Sinclair,26.0,26,1730.0,False
+max_health,Max Health,72,Billy,4,Lady Geist,31.0,31,2500.0,False
+max_health,Max Health,10,Paradox,65,Venator,31.0,31,2170.0,False
+max_health,Max Health,20,Ivy,65,Venator,33.5,33-34,2282.5,False
+move_speed,Move Speed,77,Apollo,60,Sinclair,1.0,1,7.2,True
+move_speed,Move Speed,64,Drifter,58,Vyper,1.0,1,6.9,True
+move_speed,Move Speed,17,Grey Talon,4,Lady Geist,1.0,1,6.3,True
+move_speed,Move Speed,17,Grey Talon,66,Victor,1.0,1,6.3,True
+move_speed,Move Speed,17,Grey Talon,25,Warden,1.0,1,6.3,True
+move_speed,Move Speed,20,Ivy,60,Sinclair,1.0,1,7.2,True
+move_speed,Move Speed,31,Lash,60,Sinclair,1.0,1,7.2,True
+move_speed,Move Speed,67,Paige,58,Vyper,1.0,1,6.9,True
+move_speed,Move Speed,50,Pocket,60,Sinclair,1.0,1,7.2,True
+move_speed,Move Speed,79,Rem,60,Sinclair,1.0,1,7.2,True
+move_speed,Move Speed,60,Sinclair,35,Viscous,1.0,1,7.2,True
+move_speed,Move Speed,60,Sinclair,7,Wraith,1.0,1,7.2,True
+move_speed,Move Speed,72,Billy,58,Vyper,7.587615,7-8,7.0,False
+move_speed,Move Speed,76,Graves,58,Vyper,7.587615,7-8,7.0,False
+move_speed,Move Speed,52,Mirage,58,Vyper,7.587615,7-8,7.0,False
+move_speed,Move Speed,6,Abrams,17,Grey Talon,8.440476,8-9,6.4,False
+move_speed,Move Speed,17,Grey Talon,65,Venator,8.440476,8-9,6.4,False
+move_speed,Move Speed,15,Bebop,17,Grey Talon,12.160714,12-13,6.45,False
+move_speed,Move Speed,17,Grey Talon,63,Mina,15.880952,15-16,6.5,False
+move_speed,Move Speed,17,Grey Talon,19,Shiv,15.880952,15-16,6.5,False
+move_speed,Move Speed,77,Apollo,58,Vyper,20.762846,20-21,7.2,False
+move_speed,Move Speed,20,Ivy,58,Vyper,20.762846,20-21,7.2,False
+move_speed,Move Speed,31,Lash,58,Vyper,20.762846,20-21,7.2,False
+move_speed,Move Speed,50,Pocket,58,Vyper,20.762846,20-21,7.2,False
+move_speed,Move Speed,79,Rem,58,Vyper,20.762846,20-21,7.2,False
+move_speed,Move Speed,35,Viscous,58,Vyper,20.762846,20-21,7.2,False
+move_speed,Move Speed,58,Vyper,7,Wraith,20.762846,20-21,7.2,False
+move_speed,Move Speed,11,Dynamo,17,Grey Talon,30.761905,30-31,6.7,False
+move_speed,Move Speed,17,Grey Talon,1,Infernus,30.761905,30-31,6.7,False
+move_speed,Move Speed,17,Grey Talon,12,Kelvin,30.761905,30-31,6.7,False
+move_speed,Move Speed,17,Grey Talon,8,McGinnis,30.761905,30-31,6.7,False
+move_speed,Move Speed,17,Grey Talon,10,Paradox,30.761905,30-31,6.7,False
+move_speed,Move Speed,17,Grey Talon,2,Seven,30.761905,30-31,6.7,False
+move_speed,Move Speed,17,Grey Talon,80,Silver,30.761905,30-31,6.7,False
+shots_per_second,Shots per Second,11,Dynamo,25,Warden,1.0,1,3.809524,True
+shots_per_second,Shots per Second,12,Kelvin,25,Warden,1.0,1,3.809524,True
+shots_per_second,Shots per Second,79,Rem,25,Warden,4.330003,4-5,3.846154,False
+shots_per_second,Shots per Second,63,Mina,25,Warden,15.430014,15-16,3.968254,False
+spirit_armor_pct,Spirit Armor,6,Abrams,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,6,Abrams,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,6,Abrams,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,77,Apollo,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,77,Apollo,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,77,Apollo,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,15,Bebop,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,15,Bebop,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,15,Bebop,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,72,Billy,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,72,Billy,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,72,Billy,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,16,Calico,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,16,Calico,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,16,Calico,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,81,Celeste,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,81,Celeste,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,81,Celeste,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,64,Drifter,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,64,Drifter,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,64,Drifter,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,11,Dynamo,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,11,Dynamo,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,11,Dynamo,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,76,Graves,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,76,Graves,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,76,Graves,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,17,Grey Talon,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,17,Grey Talon,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,17,Grey Talon,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,13,Haze,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,13,Haze,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,13,Haze,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,14,Holliday,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,14,Holliday,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,14,Holliday,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,1,Infernus,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,1,Infernus,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,1,Infernus,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,20,Ivy,12,Kelvin,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,20,Ivy,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,20,Ivy,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,4,Lady Geist,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,63,Mina,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,52,Mirage,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,18,Mo & Krill,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,67,Paige,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,10,Paradox,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,79,Rem,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,2,Seven,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,19,Shiv,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,80,Silver,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,60,Sinclair,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,69,The Doorman,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,66,Victor,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,3,Vindicta,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,35,Viscous,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,58,Vyper,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,25,Warden,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,7,Wraith,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,27,Yamato,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,4,Lady Geist,8,McGinnis,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,4,Lady Geist,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,63,Mina,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,52,Mirage,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,18,Mo & Krill,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,67,Paige,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,10,Paradox,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,79,Rem,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,2,Seven,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,19,Shiv,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,80,Silver,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,60,Sinclair,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,69,The Doorman,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,66,Victor,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,3,Vindicta,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,35,Viscous,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,58,Vyper,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,25,Warden,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,7,Wraith,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,8,McGinnis,27,Yamato,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,63,Mina,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,52,Mirage,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,18,Mo & Krill,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,67,Paige,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,10,Paradox,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,79,Rem,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,2,Seven,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,19,Shiv,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,80,Silver,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,60,Sinclair,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,69,The Doorman,65,Venator,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,65,Venator,66,Victor,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,65,Venator,3,Vindicta,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,65,Venator,35,Viscous,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,65,Venator,58,Vyper,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,65,Venator,25,Warden,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,65,Venator,7,Wraith,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,65,Venator,27,Yamato,1.0,1,0.0,True
+spirit_armor_pct,Spirit Armor,12,Kelvin,31,Lash,17.0,17,10.0,False
+spirit_armor_pct,Spirit Armor,31,Lash,8,McGinnis,17.0,17,10.0,False
+spirit_power,Spirit Power,6,Abrams,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,6,Abrams,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,6,Abrams,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,6,Abrams,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,6,Abrams,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,6,Abrams,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,77,Apollo,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,77,Apollo,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,77,Apollo,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,77,Apollo,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,77,Apollo,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,77,Apollo,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,15,Bebop,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,15,Bebop,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,15,Bebop,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,15,Bebop,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,15,Bebop,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,15,Bebop,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,72,Billy,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,72,Billy,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,72,Billy,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,72,Billy,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,72,Billy,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,72,Billy,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,16,Calico,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,16,Calico,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,16,Calico,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,16,Calico,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,16,Calico,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,16,Calico,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,81,Celeste,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,81,Celeste,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,81,Celeste,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,81,Celeste,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,81,Celeste,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,81,Celeste,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,64,Drifter,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,64,Drifter,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,64,Drifter,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,64,Drifter,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,64,Drifter,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,64,Drifter,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,11,Dynamo,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,11,Dynamo,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,11,Dynamo,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,11,Dynamo,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,11,Dynamo,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,11,Dynamo,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,76,Graves,17,Grey Talon,1.0,1,0.0,True
+spirit_power,Spirit Power,76,Graves,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,76,Graves,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,76,Graves,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,76,Graves,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,76,Graves,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,13,Haze,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,14,Holliday,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,1,Infernus,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,4,Lady Geist,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,31,Lash,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,8,McGinnis,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,63,Mina,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,52,Mirage,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,18,Mo & Krill,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,67,Paige,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,10,Paradox,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,50,Pocket,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,79,Rem,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,2,Seven,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,19,Shiv,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,80,Silver,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,69,The Doorman,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,65,Venator,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,66,Victor,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,3,Vindicta,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,58,Vyper,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,25,Warden,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,7,Wraith,1.0,1,0.0,True
+spirit_power,Spirit Power,17,Grey Talon,27,Yamato,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,14,Holliday,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,1,Infernus,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,4,Lady Geist,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,31,Lash,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,8,McGinnis,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,63,Mina,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,52,Mirage,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,18,Mo & Krill,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,67,Paige,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,10,Paradox,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,50,Pocket,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,79,Rem,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,2,Seven,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,19,Shiv,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,80,Silver,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,69,The Doorman,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,65,Venator,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,66,Victor,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,3,Vindicta,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,58,Vyper,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,25,Warden,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,7,Wraith,1.0,1,0.0,True
+spirit_power,Spirit Power,13,Haze,27,Yamato,1.0,1,0.0,True
+spirit_power,Spirit Power,14,Holliday,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,14,Holliday,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,14,Holliday,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,14,Holliday,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,1,Infernus,20,Ivy,1.0,1,0.0,True
+spirit_power,Spirit Power,1,Infernus,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,1,Infernus,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,1,Infernus,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,12,Kelvin,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,4,Lady Geist,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,31,Lash,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,8,McGinnis,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,63,Mina,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,52,Mirage,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,18,Mo & Krill,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,67,Paige,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,10,Paradox,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,50,Pocket,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,79,Rem,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,2,Seven,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,19,Shiv,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,80,Silver,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,69,The Doorman,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,65,Venator,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,66,Victor,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,3,Vindicta,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,58,Vyper,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,25,Warden,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,7,Wraith,1.0,1,0.0,True
+spirit_power,Spirit Power,20,Ivy,27,Yamato,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,4,Lady Geist,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,31,Lash,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,8,McGinnis,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,63,Mina,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,52,Mirage,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,18,Mo & Krill,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,67,Paige,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,10,Paradox,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,50,Pocket,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,79,Rem,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,2,Seven,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,19,Shiv,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,80,Silver,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,69,The Doorman,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,65,Venator,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,66,Victor,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,3,Vindicta,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,58,Vyper,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,25,Warden,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,7,Wraith,1.0,1,0.0,True
+spirit_power,Spirit Power,12,Kelvin,27,Yamato,1.0,1,0.0,True
+spirit_power,Spirit Power,4,Lady Geist,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,4,Lady Geist,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,31,Lash,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,31,Lash,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,8,McGinnis,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,8,McGinnis,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,63,Mina,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,63,Mina,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,52,Mirage,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,52,Mirage,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,18,Mo & Krill,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,18,Mo & Krill,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,67,Paige,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,67,Paige,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,10,Paradox,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,10,Paradox,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,50,Pocket,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,50,Pocket,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,79,Rem,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,79,Rem,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,2,Seven,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,2,Seven,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,19,Shiv,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,19,Shiv,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,80,Silver,60,Sinclair,1.0,1,0.0,True
+spirit_power,Spirit Power,80,Silver,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,60,Sinclair,69,The Doorman,1.0,1,0.0,True
+spirit_power,Spirit Power,60,Sinclair,65,Venator,1.0,1,0.0,True
+spirit_power,Spirit Power,60,Sinclair,66,Victor,1.0,1,0.0,True
+spirit_power,Spirit Power,60,Sinclair,3,Vindicta,1.0,1,0.0,True
+spirit_power,Spirit Power,60,Sinclair,58,Vyper,1.0,1,0.0,True
+spirit_power,Spirit Power,60,Sinclair,25,Warden,1.0,1,0.0,True
+spirit_power,Spirit Power,60,Sinclair,7,Wraith,1.0,1,0.0,True
+spirit_power,Spirit Power,60,Sinclair,27,Yamato,1.0,1,0.0,True
+spirit_power,Spirit Power,69,The Doorman,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,65,Venator,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,66,Victor,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,3,Vindicta,35,Viscous,1.0,1,0.0,True
+spirit_power,Spirit Power,35,Viscous,58,Vyper,1.0,1,0.0,True
+spirit_power,Spirit Power,35,Viscous,25,Warden,1.0,1,0.0,True
+spirit_power,Spirit Power,35,Viscous,7,Wraith,1.0,1,0.0,True
+spirit_power,Spirit Power,35,Viscous,27,Yamato,1.0,1,0.0,True
+sprint_speed,Sprint Speed,6,Abrams,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,77,Apollo,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,72,Billy,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,16,Calico,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,81,Celeste,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,64,Drifter,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,11,Dynamo,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,17,Grey Talon,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,13,Haze,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,14,Holliday,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,1,Infernus,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,20,Ivy,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,8,McGinnis,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,63,Mina,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,52,Mirage,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,18,Mo & Krill,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,10,Paradox,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,50,Pocket,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,19,Shiv,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,60,Sinclair,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,69,The Doorman,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,3,Vindicta,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,35,Viscous,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,58,Vyper,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,25,Warden,7,Wraith,1.0,1,1.6,True
+sprint_speed,Sprint Speed,7,Wraith,27,Yamato,1.0,1,1.6,True
+sprint_speed,Sprint Speed,2,Seven,7,Wraith,4.636364,4-5,1.8,False
+sprint_speed,Sprint Speed,31,Lash,7,Wraith,10.090909,10-11,2.1,False
+sprint_speed,Sprint Speed,76,Graves,7,Wraith,11.909091,11-12,2.2,False
+sprint_speed,Sprint Speed,4,Lady Geist,7,Wraith,15.545455,15-16,2.4,False
+sprint_speed,Sprint Speed,67,Paige,7,Wraith,35.545455,35-36,3.5,False
+weapon_dps,Weapon DPS,18,Mo & Krill,7,Wraith,1.0,1,59.68254,True
+weapon_dps,Weapon DPS,6,Abrams,10,Paradox,1.056338,1-2,51.509054,False
+weapon_dps,Weapon DPS,1,Infernus,19,Shiv,1.142045,1-2,52.5,False
+weapon_dps,Weapon DPS,14,Holliday,80,Silver,1.210532,1-2,42.202853,False
+weapon_dps,Weapon DPS,11,Dynamo,60,Sinclair,1.8,1-2,49.52381,False
+weapon_dps,Weapon DPS,1,Infernus,10,Paradox,1.871781,1-2,53.111588,False
+weapon_dps,Weapon DPS,67,Paige,50,Pocket,2.0,2,59.2,False
+weapon_dps,Weapon DPS,77,Apollo,35,Viscous,2.21262,2-3,51.316872,False
+weapon_dps,Weapon DPS,20,Ivy,18,Mo & Krill,2.223701,2-3,61.876137,False
+weapon_dps,Weapon DPS,17,Grey Talon,52,Mirage,2.338099,2-3,41.364434,False
+weapon_dps,Weapon DPS,6,Abrams,1,Infernus,2.612903,2-3,53.732719,False
+weapon_dps,Weapon DPS,14,Holliday,69,The Doorman,2.663051,2-3,45.719642,False
+weapon_dps,Weapon DPS,13,Haze,31,Lash,2.718273,2-3,52.435362,False
+weapon_dps,Weapon DPS,77,Apollo,13,Haze,2.743844,2-3,52.470187,False
+weapon_dps,Weapon DPS,77,Apollo,31,Lash,2.775198,2-3,52.538259,False
+weapon_dps,Weapon DPS,18,Mo & Krill,66,Victor,2.926164,2-3,63.135367,False
+weapon_dps,Weapon DPS,20,Ivy,7,Wraith,3.192308,3-4,62.930403,False
+weapon_dps,Weapon DPS,13,Haze,35,Viscous,3.432432,3-4,53.407979,False
+weapon_dps,Weapon DPS,77,Apollo,1,Infernus,3.773338,3-4,54.705274,False
+weapon_dps,Weapon DPS,15,Bebop,50,Pocket,3.903427,3-4,63.260644,False
+weapon_dps,Weapon DPS,1,Infernus,31,Lash,4.147554,4-5,55.018903,False
+weapon_dps,Weapon DPS,20,Ivy,50,Pocket,4.328125,4-5,64.166667,False
+weapon_dps,Weapon DPS,1,Infernus,35,Viscous,4.586957,4-5,55.387164,False
+weapon_dps,Weapon DPS,67,Paige,3,Vindicta,4.589342,4-5,61.444096,False
+weapon_dps,Weapon DPS,6,Abrams,77,Apollo,4.696203,4-5,56.708861,False
+weapon_dps,Weapon DPS,18,Mo & Krill,79,Rem,4.82743,4-5,66.543562,False
+weapon_dps,Weapon DPS,11,Dynamo,13,Haze,4.859649,4-5,55.351713,False
+weapon_dps,Weapon DPS,65,Venator,25,Warden,4.995858,4-5,72.054617,False
+weapon_dps,Weapon DPS,50,Pocket,7,Wraith,5.012987,5-6,65.627706,False
+weapon_dps,Weapon DPS,11,Dynamo,1,Infernus,5.107143,5-6,55.823129,False
+weapon_dps,Weapon DPS,17,Grey Talon,80,Silver,5.226243,5-6,46.072109,False
+weapon_dps,Weapon DPS,50,Pocket,66,Victor,5.315271,5-6,66.272578,False
+weapon_dps,Weapon DPS,13,Haze,1,Infernus,5.363636,5-6,56.038095,False
+weapon_dps,Weapon DPS,15,Bebop,20,Ivy,5.484848,5-6,65.425685,False
+weapon_dps,Weapon DPS,81,Celeste,76,Graves,5.816514,5-6,37.844037,False
+weapon_dps,Weapon DPS,10,Paradox,19,Shiv,6.0,6,61.22449,False
+weapon_dps,Weapon DPS,50,Pocket,79,Rem,6.416149,6-7,68.621118,False
+weapon_dps,Weapon DPS,66,Victor,7,Wraith,6.485714,6-7,67.809524,False
+weapon_dps,Weapon DPS,6,Abrams,31,Lash,6.538462,6-7,59.340659,False
+weapon_dps,Weapon DPS,1,Infernus,60,Sinclair,7.157025,7-8,57.541126,False
+weapon_dps,Weapon DPS,20,Ivy,3,Vindicta,7.183312,7-8,67.274353,False
+weapon_dps,Weapon DPS,8,McGinnis,63,Mina,7.271186,7-8,35.851493,False
+weapon_dps,Weapon DPS,67,Paige,10,Paradox,7.312784,7-8,63.804413,False
+weapon_dps,Weapon DPS,11,Dynamo,35,Viscous,7.5,7-8,60.380952,False
+weapon_dps,Weapon DPS,67,Paige,19,Shiv,7.551977,7-8,64.011713,False
+weapon_dps,Weapon DPS,1,Infernus,4,Lady Geist,7.705298,7-8,58.000631,False
+weapon_dps,Weapon DPS,15,Bebop,3,Vindicta,7.725795,7-8,68.493647,False
+weapon_dps,Weapon DPS,14,Holliday,1,Infernus,7.751337,7-8,58.039216,False
+weapon_dps,Weapon DPS,14,Holliday,4,Lady Geist,7.944444,7-8,58.506761,False
+weapon_dps,Weapon DPS,14,Holliday,60,Sinclair,8.174624,8-9,59.064063,False
+weapon_dps,Weapon DPS,6,Abrams,11,Dynamo,8.2,8-9,61.714286,False
+weapon_dps,Weapon DPS,4,Lady Geist,60,Sinclair,8.287805,8-9,59.233449,False
+weapon_dps,Weapon DPS,77,Apollo,67,Paige,8.397445,8-9,64.744452,False
+weapon_dps,Weapon DPS,6,Abrams,35,Viscous,8.666667,8-9,62.380952,False
+weapon_dps,Weapon DPS,18,Mo & Krill,50,Pocket,8.677019,8-9,73.444306,False
+weapon_dps,Weapon DPS,66,Victor,3,Vindicta,8.736257,8-9,70.764782,False
+weapon_dps,Weapon DPS,13,Haze,14,Holliday,8.932068,8-9,60.897959,False
+weapon_dps,Weapon DPS,50,Pocket,2,Seven,9.048729,9-10,74.237288,False
+weapon_dps,Weapon DPS,3,Vindicta,7,Wraith,9.230789,9-10,71.8763,False
+weapon_dps,Weapon DPS,13,Haze,4,Lady Geist,9.330996,9-10,61.441261,False
+weapon_dps,Weapon DPS,18,Mo & Krill,2,Seven,9.370867,9-10,74.688093,False
+weapon_dps,Weapon DPS,79,Rem,3,Vindicta,9.683483,9-10,72.893786,False
+weapon_dps,Weapon DPS,25,Warden,27,Yamato,10.070057,10-11,79.842723,False
+weapon_dps,Weapon DPS,77,Apollo,19,Shiv,10.491768,10-11,69.291339,False
+weapon_dps,Weapon DPS,31,Lash,67,Paige,10.569304,10-11,66.62673,False
+weapon_dps,Weapon DPS,6,Abrams,14,Holliday,10.808102,10-11,65.440146,False
+weapon_dps,Weapon DPS,11,Dynamo,67,Paige,10.954128,10-11,66.960245,False
+weapon_dps,Weapon DPS,20,Ivy,10,Paradox,11.431034,11-12,71.897725,False
+weapon_dps,Weapon DPS,14,Holliday,35,Viscous,11.673653,11-12,67.535786,False
+weapon_dps,Weapon DPS,79,Rem,7,Wraith,11.679157,11-12,75.503513,False
+weapon_dps,Weapon DPS,14,Holliday,67,Paige,11.704561,11-12,67.610619,False
+weapon_dps,Weapon DPS,67,Paige,35,Viscous,11.730337,11-12,67.632959,False
+weapon_dps,Weapon DPS,77,Apollo,20,Ivy,11.95494,11-12,72.467962,False
+weapon_dps,Weapon DPS,6,Abrams,4,Lady Geist,12.076923,12-13,67.252747,False
+weapon_dps,Weapon DPS,76,Graves,63,Mina,12.188201,12-13,41.217283,False
+weapon_dps,Weapon DPS,2,Seven,3,Vindicta,12.314682,12-13,78.807718,False
+weapon_dps,Weapon DPS,4,Lady Geist,67,Paige,12.621507,12-13,68.405306,False
+weapon_dps,Weapon DPS,20,Ivy,19,Shiv,12.730769,12-13,73.312402,False
+weapon_dps,Weapon DPS,1,Infernus,69,The Doorman,12.996047,12-13,62.434783,False
+weapon_dps,Weapon DPS,11,Dynamo,14,Holliday,13.213115,13-14,71.263076,False
+weapon_dps,Weapon DPS,6,Abrams,67,Paige,13.288136,13-14,68.983051,False
+weapon_dps,Weapon DPS,14,Holliday,31,Lash,13.445446,13-14,71.825587,False
+weapon_dps,Weapon DPS,13,Haze,60,Sinclair,14.131313,14-15,67.978836,False
+weapon_dps,Weapon DPS,77,Apollo,10,Paradox,14.18676,14-15,77.313361,False
+weapon_dps,Weapon DPS,77,Apollo,15,Bebop,14.21875,14-15,77.382813,False
+weapon_dps,Weapon DPS,15,Bebop,10,Paradox,14.229794,14-15,77.397932,False
+weapon_dps,Weapon DPS,12,Kelvin,65,Venator,14.379469,14-15,92.162355,False
+weapon_dps,Weapon DPS,4,Lady Geist,35,Viscous,14.5,14-15,72.380952,False
+weapon_dps,Weapon DPS,11,Dynamo,31,Lash,14.68,14-15,74.057143,False
+weapon_dps,Weapon DPS,18,Mo & Krill,3,Vindicta,14.858351,14-15,84.524917,False
+weapon_dps,Weapon DPS,77,Apollo,66,Victor,14.896204,14-15,78.853602,False
+weapon_dps,Weapon DPS,10,Paradox,66,Victor,15.120126,15-16,79.147641,False
+weapon_dps,Weapon DPS,14,Holliday,20,Ivy,15.144737,15-16,75.93985,False
+weapon_dps,Weapon DPS,76,Graves,8,McGinnis,15.700855,15-16,43.076923,False
+weapon_dps,Weapon DPS,77,Apollo,79,Rem,15.888628,15-16,81.008206,False
+weapon_dps,Weapon DPS,50,Pocket,25,Warden,16.227675,16-17,89.552373,False
+weapon_dps,Weapon DPS,11,Dynamo,20,Ivy,16.366667,16-17,77.269841,False
+weapon_dps,Weapon DPS,10,Paradox,79,Rem,16.421346,16-17,81.704837,False
+weapon_dps,Weapon DPS,81,Celeste,52,Mirage,16.461327,16-17,52.8936,False
+weapon_dps,Weapon DPS,20,Ivy,31,Lash,16.594595,16-17,77.517926,False
+weapon_dps,Weapon DPS,67,Paige,60,Sinclair,16.885529,16-17,72.100792,False
+weapon_dps,Weapon DPS,77,Apollo,7,Wraith,16.94952,16-17,83.311459,False
+weapon_dps,Weapon DPS,20,Ivy,4,Lady Geist,17.279412,17-18,78.263305,False
+weapon_dps,Weapon DPS,15,Bebop,19,Shiv,17.494024,17-18,81.866818,False
+weapon_dps,Weapon DPS,13,Haze,67,Paige,17.634615,17-18,72.75,False
+weapon_dps,Weapon DPS,17,Grey Talon,1,Infernus,17.665664,17-18,66.348366,False
+weapon_dps,Weapon DPS,15,Bebop,14,Holliday,17.721147,17-18,82.17776,False
+weapon_dps,Weapon DPS,14,Holliday,19,Shiv,17.876209,17-18,82.553191,False
+weapon_dps,Weapon DPS,14,Holliday,66,Victor,18.068936,18-19,83.019814,False
+weapon_dps,Weapon DPS,10,Paradox,7,Wraith,18.125,18-19,85.05291,False
+weapon_dps,Weapon DPS,19,Shiv,66,Victor,18.318531,18-19,83.347566,False
+weapon_dps,Weapon DPS,14,Holliday,79,Rem,18.82294,18-19,84.845383,False
+weapon_dps,Weapon DPS,4,Lady Geist,31,Lash,18.874126,18-19,81.638362,False
+weapon_dps,Weapon DPS,20,Ivy,35,Viscous,19.065217,19-20,80.207039,False
+weapon_dps,Weapon DPS,3,Vindicta,25,Warden,19.291963,19-20,94.489988,False
+weapon_dps,Weapon DPS,77,Apollo,2,Seven,19.518519,19-20,88.888889,False
+weapon_dps,Weapon DPS,79,Rem,19,Shiv,20.03537,20-21,86.430868,False
+weapon_dps,Weapon DPS,14,Holliday,7,Wraith,20.144144,20-21,88.044235,False
+weapon_dps,Weapon DPS,11,Dynamo,4,Lady Geist,20.8,20-21,85.714286,False
+weapon_dps,Weapon DPS,67,Paige,69,The Doorman,21.37859,21-22,75.994778,False
+weapon_dps,Weapon DPS,10,Paradox,2,Seven,21.458015,21-22,91.603053,False
+weapon_dps,Weapon DPS,50,Pocket,27,Yamato,21.492063,21-22,100.783069,False
+weapon_dps,Weapon DPS,15,Bebop,4,Lady Geist,21.707965,21-22,87.635904,False
+weapon_dps,Weapon DPS,14,Holliday,2,Seven,21.827697,21-22,92.120392,False
+weapon_dps,Weapon DPS,4,Lady Geist,66,Victor,21.91018,21-22,88.063872,False
+weapon_dps,Weapon DPS,15,Bebop,11,Dynamo,22.066667,22-23,88.126984,False
+weapon_dps,Weapon DPS,14,Holliday,10,Paradox,22.286472,22-23,93.231162,False
+weapon_dps,Weapon DPS,11,Dynamo,66,Victor,22.307317,22-23,88.585366,False
+weapon_dps,Weapon DPS,4,Lady Geist,79,Rem,22.922496,22-23,90.206341,False
+weapon_dps,Weapon DPS,72,Billy,65,Venator,23.499011,23-24,111.704231,False
+weapon_dps,Weapon DPS,11,Dynamo,79,Rem,23.674847,23-24,91.190184,False
+weapon_dps,Weapon DPS,15,Bebop,31,Lash,23.703601,23-24,90.368025,False
+weapon_dps,Weapon DPS,31,Lash,66,Victor,23.806432,23-24,90.553901,False
+weapon_dps,Weapon DPS,15,Bebop,66,Victor,24.612903,24-25,91.612903,False
+weapon_dps,Weapon DPS,19,Shiv,7,Wraith,24.653846,24-25,94.725275,False
+weapon_dps,Weapon DPS,3,Vindicta,27,Yamato,24.746082,24-25,106.748768,False
+weapon_dps,Weapon DPS,81,Celeste,80,Silver,25.353545,25-26,65.465357,False
+weapon_dps,Weapon DPS,31,Lash,79,Rem,25.423508,25-26,93.476895,False
+weapon_dps,Weapon DPS,4,Lady Geist,7,Wraith,26.0,26,96.719577,False
+weapon_dps,Weapon DPS,17,Grey Talon,67,Paige,26.087336,26-27,80.075691,False
+weapon_dps,Weapon DPS,12,Kelvin,50,Pocket,26.492958,26-27,111.451643,False
+weapon_dps,Weapon DPS,4,Lady Geist,19,Shiv,27.320755,27-28,99.514825,False
+weapon_dps,Weapon DPS,12,Kelvin,3,Vindicta,27.678118,27-28,113.33887,False
+weapon_dps,Weapon DPS,4,Lady Geist,2,Seven,27.728916,27-28,100.378657,False
+weapon_dps,Weapon DPS,6,Abrams,20,Ivy,27.8,27-28,89.714286,False
+weapon_dps,Weapon DPS,2,Seven,19,Shiv,28.058824,28-29,100.840336,False
+weapon_dps,Weapon DPS,11,Dynamo,7,Wraith,28.6,28-29,100.571429,False
+weapon_dps,Weapon DPS,13,Haze,69,The Doorman,28.628697,28-29,87.722892,False
+weapon_dps,Weapon DPS,77,Apollo,14,Holliday,28.951901,28-29,109.369259,False
+weapon_dps,Weapon DPS,66,Victor,35,Viscous,29.338129,29-30,97.817746,False
+weapon_dps,Weapon DPS,14,Holliday,18,Mo & Krill,29.619529,29-30,110.985695,False
+weapon_dps,Weapon DPS,77,Apollo,18,Mo & Krill,30.060741,30-31,111.776609,False
+weapon_dps,Weapon DPS,15,Bebop,35,Viscous,30.103448,30-31,99.129721,False
+weapon_dps,Weapon DPS,14,Holliday,25,Warden,30.543075,30-31,113.221752,False
+weapon_dps,Weapon DPS,11,Dynamo,2,Seven,30.630769,30-31,104.43956,False
+weapon_dps,Weapon DPS,20,Ivy,60,Sinclair,30.933333,30-31,93.124717,False
+weapon_dps,Weapon DPS,79,Rem,35,Viscous,31.252252,31-32,101.099099,False
+weapon_dps,Weapon DPS,77,Apollo,25,Warden,31.406609,31-32,114.69856,False
+weapon_dps,Weapon DPS,12,Kelvin,27,Yamato,32.719368,32-33,121.36646,False
+weapon_dps,Weapon DPS,31,Lash,7,Wraith,32.748344,32-33,106.717124,False
+weapon_dps,Weapon DPS,50,Pocket,3,Vindicta,33.287879,33-34,125.947475,False
+weapon_dps,Weapon DPS,20,Ivy,69,The Doorman,34.09603,34-35,96.567108,False
+weapon_dps,Weapon DPS,31,Lash,2,Seven,34.428571,34-35,109.754269,False
+weapon_range,Weapon Range,15,Bebop,79,Rem,30.494237,30-31,3000.0,False
